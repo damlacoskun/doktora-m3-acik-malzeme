@@ -12,7 +12,10 @@ import hashlib, os, sys
 
 KOK = os.path.dirname(os.path.abspath(__file__))
 MANIFESTO = "MANIFEST.sha256"
-ATLA = {MANIFESTO, ".gitignore"}
+# TEK uyeli dislama: yalniz manifestonun kendisi. .gitignore ozetlenebilir ve
+# ozyinelemeli degil -> manifestoya GIRER (bagimsiz denetim 23.10: kodun dislama
+# kumesi iki uyeliyken beyan bir uyeliydi).
+ATLA = {MANIFESTO}
 
 def sha256(yol):
     h = hashlib.sha256()

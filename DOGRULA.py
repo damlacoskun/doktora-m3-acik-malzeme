@@ -79,7 +79,7 @@ def main():
             continue
         h, _, rel = satir.partition("  ")
         beklenenler[rel] = h
-    ATLA = {"MANIFEST.sha256", ".gitignore"}
+    ATLA = {"MANIFEST.sha256"}   # TEK uye; beyan ile birebir (bkz. KAPSAM DISI satiri)
     mevcut = set()
     for kok, dizinler, adlar in os.walk(KOK):
         dizinler[:] = [d for d in dizinler if d not in (".git", "__pycache__")]
