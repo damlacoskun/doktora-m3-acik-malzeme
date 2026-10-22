@@ -27,8 +27,30 @@ DOGRULA.py         okura donuk butunluk dogrulamasi
 ```bash
 python3 DOGRULA.py
 ```
-14 kaynağın özetini yeniden hesaplar ve kanonik kayıttaki değerle karşılaştırır.
-Çıkış `0` = hepsi uyuşuyor, `1` = en az bir uyuşmazlık (hangi kaynak olduğu basılır).
+**İki ayaklı:**
+
+| ayak | kapsam | referans |
+|---|---|---|
+| **[1/2]** | 14 **veri kaynağı** | `kanonik/KANONIK.json` → `_kaynaklar[*].sha256` |
+| **[2/2]** | **arşivin tamamı** (kod dosyaları dahil) | `MANIFEST.sha256` |
+
+Çıkış `0` = ikisi de geçti, `1` = en az bir uyuşmazlık (hangi dosya olduğu basılır).
+Manifestoda olmayan **fazla** bir dosya da uyuşmazlık sayılır.
+
+**İkinci ayak neden var:** birinci ayak yalnız veri kaynaklarını kapsıyordu. Bir okur
+`URET_kanonik.py`'yi ya da `kod/mde.py`'yi değiştirip yeniden koşsa farklı sayılar alır ve
+doğrulama yine *"14/14 geçti"* derdi. (Bulgu: bağımsız denetim, 23.10.2026.) Sınandı:
+`kod/mde.py` · `kanonik/URET_kanonik.py` · `kanonik/KANONIK.json` değişiklikleri ve arşive
+eklenen yeni bir dosya — **dördü de çıkış 1** verdi; geri yüklendiğinde çıkış 0.
+
+**KAPSAM DIŞI (beyan):** `MANIFEST.sha256` **kendi özetini içermez** — içerse özet kendini
+değiştirirdi. Bu dosyanın bütünlüğü arşivin içinden doğrulanamaz; dışarıdan (depo işleme
+kimliği ya da ayrı bir kopya ile) doğrulanması gerekir. Arşivin geri kalanının tamamı,
+`KANONIK.json` dahil, kapsanır.
+
+Manifesto bir **çıktıdır**, elle düzenlenmez: `python3 URET_MANIFESTO.py` ile üretilir.
+`DOGRULA.py` onu yalnız **okur** — kendi referansını yeniden yazabilen bir doğrulayıcı,
+doğrulayıcı değildir.
 
 **Özet:** kanonik kayıt her kaynak için **tam sha256** (64 karakter) taşır; doğrulama
 onunla yapılır. Kayıt ayrıca geriye dönük uyum için 12 karaktere kırpılmış bir md5 alanı da
