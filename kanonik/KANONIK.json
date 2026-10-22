@@ -1,0 +1,6579 @@
+{
+  "_uretim": "2026-10-22 22:43",
+  "_kaynaklar": {
+    "band_csv": {
+      "yol": "veri/_bandA_BIRLESIK_conf0001_20260814.csv",
+      "md5": "a9e47bb08adc",
+      "depo_yolu": "veri/_bandA_BIRLESIK_conf0001_20260814.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_bandA_BIRLESIK_conf0001_20260814.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "955e881bae0c2e8573bf9390e4f7b5aa000b631a1b27bf2525af91910fb8435a",
+      "depo_blob_md5": "a9e47bb08adc",
+      "depodan_dogrulanabilir": true
+    },
+    "izgara_ham": {
+      "yol": "veri/C3TR_kanonik_768.csv",
+      "md5": "60d6e325202f",
+      "dilim": "conf=0.001 iou=0.5",
+      "not": "ham kosum ciktisi - TEZDEN TURETILMEMISTIR",
+      "depo_yolu": "veri/C3TR_kanonik_768.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/C3TR_kanonik_768.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "6ac2729ba8987bed2ed994e7d79793063dddf2fc3995dd232dc743ee3debd9fd",
+      "depo_blob_md5": "60d6e325202f",
+      "depodan_dogrulanabilir": true
+    },
+    "plato_csv": {
+      "yol": "kanonik/_910_PLATO_KOHORT_HAM_20260910.csv",
+      "md5": "d04bc23f9f35",
+      "depo_yolu": "kanonik/_910_PLATO_KOHORT_HAM_20260910.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/kanonik/_910_PLATO_KOHORT_HAM_20260910.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "2e0b204dbee704252e03c82d4d414cd5f3c6e41fda5b90bcfb6ce85faae59331",
+      "depo_blob_md5": "d04bc23f9f35",
+      "depodan_dogrulanabilir": true
+    },
+    "bvl_csv": {
+      "yol": "kanonik/_910_BEST_VS_LAST_20260910.csv",
+      "md5": "eb25226cf50b",
+      "depo_yolu": "kanonik/_910_BEST_VS_LAST_20260910.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/kanonik/_910_BEST_VS_LAST_20260910.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "0c18c1b05952d36aff81bc4a3bf35192af5919a55b7ddd9115128d999448ba0a",
+      "depo_blob_md5": "eb25226cf50b",
+      "depodan_dogrulanabilir": true
+    },
+    "ek6_sinif_csv": {
+      "yol": "kanonik/_910_EK6_504_sinif_bazli_20260910.csv",
+      "md5": "f1c0c30abf1b",
+      "depo_yolu": "kanonik/_910_EK6_504_sinif_bazli_20260910.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/kanonik/_910_EK6_504_sinif_bazli_20260910.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "ff798fb429566c3775ad13b0ea9c2f54e538064997c51a2eb1d9df96a4c17d62",
+      "depo_blob_md5": "f1c0c30abf1b",
+      "depodan_dogrulanabilir": true
+    },
+    "ayristirma30": {
+      "yol": "veri/_ayristirma30_sgd_b8_155_20261015.csv",
+      "md5": "1a3390dacebd",
+      "depo_yolu": "veri/_ayristirma30_sgd_b8_155_20261015.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_ayristirma30_sgd_b8_155_20261015.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "94cb8e759fbf62131a3f30059f1791db5f0e8819a0fbdfd4af4c3d1cdc9ace08",
+      "depo_blob_md5": "1a3390dacebd",
+      "depodan_dogrulanabilir": true
+    },
+    "capraz_makine": {
+      "yol": "veri/_capraz_makine_155_20261016.csv",
+      "md5": "fa54a9ddded7",
+      "depo_yolu": "veri/_capraz_makine_155_20261016.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_capraz_makine_155_20261016.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "2c6c6551cb7ddb60b030bbd3e33056e38bc62303adabfa2ffbfa1151e60d6019",
+      "depo_blob_md5": "fa54a9ddded7",
+      "depodan_dogrulanabilir": true
+    },
+    "cozulen_optimizer": {
+      "yol": "veri/_504_cozulen_optimizer_155_20261013.csv",
+      "md5": "995b5240a7ed",
+      "depo_yolu": "veri/_504_cozulen_optimizer_155_20261013.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_504_cozulen_optimizer_155_20261013.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "935ee6bd4aa06f4bdb59f5bbcecf718bfbc83b9cb90c2066067018712b0b9d8c",
+      "depo_blob_md5": "995b5240a7ed",
+      "depodan_dogrulanabilir": true
+    },
+    "kohortB_seed30": {
+      "yol": "veri/seed30_yolov9c_20260728.csv",
+      "md5": "8cc5757296d0",
+      "depo_yolu": "veri/seed30_yolov9c_20260728.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/seed30_yolov9c_20260728.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "9fd257958dca5d7eb30f242e461c0f51a3e31fdb8c0b00b4421911f8c55d1ef1",
+      "depo_blob_md5": "8cc5757296d0",
+      "depodan_dogrulanabilir": true
+    },
+    "kohort_C": {
+      "yol": "veri/seed30_yolov5s_surumkohortu_20260730.csv",
+      "md5": "60fababd5b3a",
+      "depo_yolu": "veri/seed30_yolov5s_surumkohortu_20260730.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/seed30_yolov5s_surumkohortu_20260730.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "efa5f73de11ec2ec451b475265f0642f89f802e9fba6569871caa66410b12819",
+      "depo_blob_md5": "60fababd5b3a",
+      "depodan_dogrulanabilir": true
+    },
+    "heldout_altkume": {
+      "yol": "veri/_heldout_altkume_v3_910_20260910.csv",
+      "md5": "dc0a09221ffb",
+      "depo_yolu": "veri/_heldout_altkume_v3_910_20260910.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_heldout_altkume_v3_910_20260910.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "1c4a6a787874e5f88bf75862cb614381b54ca6f9a316ca1493decd83116b6997",
+      "depo_blob_md5": "dc0a09221ffb",
+      "depodan_dogrulanabilir": true
+    },
+    "parametre_nc2": {
+      "yol": "veri/_parametre_nc2_155_20261017.csv",
+      "md5": "0809434ad7a3",
+      "depo_yolu": "veri/_parametre_nc2_155_20261017.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_parametre_nc2_155_20261017.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "fd77e5053fa4e37a8381fa9e39582cb86ec4e7592672b88a4e120811bceed1ef",
+      "depo_blob_md5": "0809434ad7a3",
+      "depodan_dogrulanabilir": true
+    },
+    "ikiz_egitim": {
+      "yol": "veri/_ikiz_egitim_155_20261017.csv",
+      "md5": "95cb5e6c1f21",
+      "depo_yolu": "veri/_ikiz_egitim_155_20261017.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_ikiz_egitim_155_20261017.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "8b4d17e8f9ca9b2c9ea92168949c91ade5c62593b91801004ccf3d10e4a4d4e0",
+      "depo_blob_md5": "95cb5e6c1f21",
+      "depodan_dogrulanabilir": true
+    },
+    "sampiyon_yeniden": {
+      "yol": "veri/_sampiyon_seed00_yeniden_degerlendirme_155_20261013.csv",
+      "md5": "afd827b8b8a7",
+      "depo_yolu": "veri/_sampiyon_seed00_yeniden_degerlendirme_155_20261013.csv",
+      "yerel_yol": {
+        "makine": "155",
+        "yol": "/home/dnnlab7/Desktop/makale_atolyesi_155/veri/_sampiyon_seed00_yeniden_degerlendirme_155_20261013.csv",
+        "tasinabilir": false,
+        "not_": "arsivde cozulmez; adres olarak depo_yolu kullanilir"
+      },
+      "sha256": "b9d59bb7779866a0fccf141c41dcd7faabb08049c577bced7f8278021d7e39ab",
+      "depo_blob_md5": "afd827b8b8a7",
+      "depodan_dogrulanabilir": true
+    }
+  },
+  "arklar": {
+    "kazanan_map1": {
+      "n": 30,
+      "ort": 83.43,
+      "ss": 3.18,
+      "ga_alt": 82.24,
+      "ga_ust": 84.62,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "min": 76.9,
+      "maks": 88.3,
+      "durum": "TAM",
+      "kaynak": "band deneyi · map1 · kazanan"
+    },
+    "kazanan_252550": {
+      "n": 30,
+      "ort": 83.29,
+      "ss": 3.93,
+      "ga_alt": 81.82,
+      "ga_ust": 84.76,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "min": 74.0,
+      "maks": 90.8,
+      "durum": "TAM",
+      "kaynak": "band deneyi · 252550 · kazanan"
+    },
+    "kazanan_333334": {
+      "n": 30,
+      "ort": 82.7,
+      "ss": 4.2,
+      "ga_alt": 81.13,
+      "ga_ust": 84.27,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "min": 73.1,
+      "maks": 90.8,
+      "durum": "TAM",
+      "kaynak": "band deneyi · 333334 · kazanan"
+    },
+    "taban_map1": {
+      "n": 30,
+      "ort": 80.75,
+      "ss": 4.38,
+      "ga_alt": 79.11,
+      "ga_ust": 82.38,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "min": 70.8,
+      "maks": 87.9,
+      "durum": "TAM",
+      "kaynak": "band deneyi · map1 · taban"
+    },
+    "taban_252550": {
+      "n": 30,
+      "ort": 82.16,
+      "ss": 5.79,
+      "ga_alt": 79.99,
+      "ga_ust": 84.32,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "min": 71.8,
+      "maks": 92.8,
+      "durum": "TAM",
+      "kaynak": "band deneyi · 252550 · taban"
+    },
+    "taban_333334": {
+      "n": 30,
+      "ort": 82.79,
+      "ss": 4.45,
+      "ga_alt": 81.13,
+      "ga_ust": 84.45,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "min": 72.8,
+      "maks": 90.7,
+      "durum": "TAM",
+      "kaynak": "band deneyi · 333334 · taban"
+    }
+  },
+  "esli": {
+    "kazanan_eksi_taban_map1": {
+      "n": 30,
+      "fark": 2.68,
+      "ga_alt": 0.6,
+      "ga_ust": 4.76,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "dz": 0.48,
+      "wilcoxon_p": 0.0083,
+      "varyans_orani": 0.53,
+      "levene_p": 0.1107,
+      "kaynak": "kazanan_eksi_taban_map1"
+    },
+    "252550_eksi_map1_kazanan": {
+      "n": 30,
+      "fark": -0.14,
+      "ga_alt": -1.45,
+      "ga_ust": 1.18,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "dz": -0.04,
+      "wilcoxon_p": 0.5165,
+      "varyans_orani": 1.53,
+      "levene_p": 0.3469,
+      "kaynak": "252550_eksi_map1_kazanan"
+    },
+    "333334_eksi_map1_kazanan": {
+      "n": 30,
+      "fark": -0.72,
+      "ga_alt": -2.35,
+      "ga_ust": 0.9,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "dz": -0.17,
+      "wilcoxon_p": 0.5306,
+      "varyans_orani": 1.74,
+      "levene_p": 0.1818,
+      "kaynak": "333334_eksi_map1_kazanan"
+    },
+    "252550_eksi_map1_taban": {
+      "n": 30,
+      "fark": 1.41,
+      "ga_alt": -1.03,
+      "ga_ust": 3.85,
+      "ga_carpan": 2.0452,
+      "ga_yontem": "t(n-1)",
+      "dz": 0.22,
+      "wilcoxon_p": 0.1981,
+      "varyans_orani": 1.75,
+      "levene_p": 0.0725,
+      "kaynak": "252550_eksi_map1_taban"
+    }
+  },
+  "rejim_etkisi": {
+    "kazanan": {
+      "n_tohum": 30,
+      "friedman_chi2": 1.34,
+      "friedman_p": 0.5118,
+      "levene_p": 0.4031,
+      "bartlett_p": 0.3197,
+      "ss_orani_genis_dar": 1.32,
+      "kaynak": "band deneyi · kazanan konfig · 3 rejim eslesmis"
+    },
+    "taban": {
+      "n_tohum": 30,
+      "friedman_chi2": 5.75,
+      "friedman_p": 0.0565,
+      "levene_p": 0.1172,
+      "bartlett_p": 0.2262,
+      "ss_orani_genis_dar": 1.32,
+      "kaynak": "band deneyi · taban konfig · 3 rejim eslesmis"
+    }
+  },
+  "tekil_zirve": {
+    "tez_degeri": 92.9,
+    "n_kosum": 90,
+    "band_ort": 83.14,
+    "band_ss": 3.77,
+    "band_maks": 90.8,
+    "ulasan_kosum": 0,
+    "z_tumu": 2.59,
+    "z_map1": 2.98,
+    "NOT": "z_map1 = 92,9'un KENDI rejiminin (map1, n=30) bandindaki konumu -> TEZDE KULLANILAN. z_tumu = 90 kosumun tamaminin bandindaki konumu. Metinde hangisi kullanildiysa ACIKCA yazilmali.",
+    "kaynak": "92,9 = tez tab:c3tr-top15 · band = 3 rejim x 30 tohum"
+  },
+  "_kohort_disi": [],
+  "izgara": {
+    "252550": {
+      "backbone_c3-c3-c3-c3_head_tr-c3-tr-c3": {
+        "P": 76.8,
+        "R": 75.5,
+        "mAP50": 76.4,
+        "F1": 76.1
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-c3-c3": {
+        "P": 65.4,
+        "R": 79.8,
+        "mAP50": 73.4,
+        "F1": 71.9
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-c3-tr": {
+        "P": 64.5,
+        "R": 68.0,
+        "mAP50": 68.3,
+        "F1": 66.2
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-tr-c3": {
+        "P": 71.1,
+        "R": 88.9,
+        "mAP50": 81.9,
+        "F1": 79.0
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-tr-tr": {
+        "P": 82.1,
+        "R": 73.9,
+        "mAP50": 81.7,
+        "F1": 77.8
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-c3-c3": {
+        "P": 81.2,
+        "R": 71.9,
+        "mAP50": 78.2,
+        "F1": 76.3
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-c3-tr": {
+        "P": 65.8,
+        "R": 82.8,
+        "mAP50": 75.1,
+        "F1": 73.3
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-tr-c3": {
+        "P": 70.8,
+        "R": 74.5,
+        "mAP50": 78.8,
+        "F1": 72.6
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-tr-tr": {
+        "P": 81.2,
+        "R": 76.4,
+        "mAP50": 80.4,
+        "F1": 78.7
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-c3-c3": {
+        "P": 69.1,
+        "R": 76.1,
+        "mAP50": 76.8,
+        "F1": 72.4
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-c3-tr": {
+        "P": 79.6,
+        "R": 79.8,
+        "mAP50": 81.1,
+        "F1": 79.7
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-tr-c3": {
+        "P": 83.5,
+        "R": 82.8,
+        "mAP50": 83.2,
+        "F1": 83.1
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-tr-tr": {
+        "P": 64.2,
+        "R": 81.5,
+        "mAP50": 79.6,
+        "F1": 71.8
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-c3-c3": {
+        "P": 63.0,
+        "R": 70.5,
+        "mAP50": 72.1,
+        "F1": 66.5
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-c3-tr": {
+        "P": 65.1,
+        "R": 74.3,
+        "mAP50": 75.4,
+        "F1": 69.4
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-tr-c3": {
+        "P": 71.0,
+        "R": 78.4,
+        "mAP50": 74.9,
+        "F1": 74.5
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-tr-tr": {
+        "P": 72.5,
+        "R": 82.8,
+        "mAP50": 82.5,
+        "F1": 77.3
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-c3-c3": {
+        "P": 74.7,
+        "R": 71.6,
+        "mAP50": 73.5,
+        "F1": 73.1
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-c3-tr": {
+        "P": 66.1,
+        "R": 75.6,
+        "mAP50": 72.0,
+        "F1": 70.5
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-tr-c3": {
+        "P": 69.3,
+        "R": 86.1,
+        "mAP50": 77.1,
+        "F1": 76.8
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-tr-tr": {
+        "P": 65.9,
+        "R": 87.0,
+        "mAP50": 73.7,
+        "F1": 75.0
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-c3-c3": {
+        "P": 70.3,
+        "R": 72.7,
+        "mAP50": 74.7,
+        "F1": 71.5
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-c3-tr": {
+        "P": 73.6,
+        "R": 78.9,
+        "mAP50": 81.2,
+        "F1": 76.2
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-tr-c3": {
+        "P": 70.2,
+        "R": 72.7,
+        "mAP50": 78.6,
+        "F1": 71.4
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-tr-tr": {
+        "P": 76.2,
+        "R": 79.7,
+        "mAP50": 80.4,
+        "F1": 77.9
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-c3-c3": {
+        "P": 71.8,
+        "R": 76.9,
+        "mAP50": 78.7,
+        "F1": 74.3
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-c3-tr": {
+        "P": 64.6,
+        "R": 82.8,
+        "mAP50": 80.0,
+        "F1": 72.6
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-tr-c3": {
+        "P": 81.6,
+        "R": 72.0,
+        "mAP50": 79.4,
+        "F1": 76.5
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-tr-tr": {
+        "P": 62.2,
+        "R": 82.8,
+        "mAP50": 77.0,
+        "F1": 71.0
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-c3-c3": {
+        "P": 74.1,
+        "R": 88.5,
+        "mAP50": 80.7,
+        "F1": 80.7
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-c3-tr": {
+        "P": 61.4,
+        "R": 78.5,
+        "mAP50": 72.5,
+        "F1": 68.9
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-tr-c3": {
+        "P": 73.5,
+        "R": 78.6,
+        "mAP50": 79.3,
+        "F1": 76.0
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-tr-tr": {
+        "P": 87.7,
+        "R": 79.8,
+        "mAP50": 83.4,
+        "F1": 83.6
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-c3-c3": {
+        "P": 73.9,
+        "R": 72.5,
+        "mAP50": 73.8,
+        "F1": 73.2
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-tr-tr": {
+        "P": 90.5,
+        "R": 70.2,
+        "mAP50": 85.0,
+        "F1": 79.1
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-c3-c3": {
+        "P": 71.8,
+        "R": 62.6,
+        "mAP50": 69.5,
+        "F1": 66.9
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-c3-tr": {
+        "P": 60.7,
+        "R": 73.9,
+        "mAP50": 72.6,
+        "F1": 66.7
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-tr-c3": {
+        "P": 73.2,
+        "R": 78.6,
+        "mAP50": 82.0,
+        "F1": 75.8
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-tr-tr": {
+        "P": 71.3,
+        "R": 75.7,
+        "mAP50": 79.0,
+        "F1": 73.4
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-c3-c3": {
+        "P": 70.9,
+        "R": 70.6,
+        "mAP50": 76.0,
+        "F1": 70.8
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-c3-tr": {
+        "P": 74.0,
+        "R": 72.7,
+        "mAP50": 72.5,
+        "F1": 73.3
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-tr-c3": {
+        "P": 66.2,
+        "R": 72.7,
+        "mAP50": 70.7,
+        "F1": 69.3
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-tr-tr": {
+        "P": 66.7,
+        "R": 72.6,
+        "mAP50": 68.1,
+        "F1": 69.5
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-c3-c3": {
+        "P": 67.6,
+        "R": 58.8,
+        "mAP50": 72.1,
+        "F1": 62.9
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-c3-tr": {
+        "P": 71.9,
+        "R": 79.7,
+        "mAP50": 76.1,
+        "F1": 75.6
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-tr-c3": {
+        "P": 63.4,
+        "R": 73.3,
+        "mAP50": 73.8,
+        "F1": 68.0
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-tr-tr": {
+        "P": 93.2,
+        "R": 64.7,
+        "mAP50": 76.3,
+        "F1": 76.4
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-c3-c3": {
+        "P": 76.7,
+        "R": 59.7,
+        "mAP50": 64.3,
+        "F1": 67.1
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-c3-tr": {
+        "P": 90.0,
+        "R": 62.6,
+        "mAP50": 71.5,
+        "F1": 73.8
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-tr-c3": {
+        "P": 72.6,
+        "R": 65.3,
+        "mAP50": 70.5,
+        "F1": 68.8
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-tr-tr": {
+        "P": 80.7,
+        "R": 66.6,
+        "mAP50": 77.9,
+        "F1": 73.0
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-c3-c3": {
+        "P": 78.0,
+        "R": 80.4,
+        "mAP50": 85.2,
+        "F1": 79.2
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-c3-tr": {
+        "P": 66.0,
+        "R": 86.8,
+        "mAP50": 74.5,
+        "F1": 75.0
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-tr-c3": {
+        "P": 80.7,
+        "R": 70.9,
+        "mAP50": 83.7,
+        "F1": 75.5
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-tr-tr": {
+        "P": 74.1,
+        "R": 71.3,
+        "mAP50": 79.8,
+        "F1": 72.7
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-c3-c3": {
+        "P": 67.0,
+        "R": 59.6,
+        "mAP50": 60.9,
+        "F1": 63.1
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-c3-tr": {
+        "P": 64.2,
+        "R": 66.3,
+        "mAP50": 67.3,
+        "F1": 65.2
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-tr-c3": {
+        "P": 61.1,
+        "R": 70.3,
+        "mAP50": 74.4,
+        "F1": 65.4
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-tr-tr": {
+        "P": 79.8,
+        "R": 72.7,
+        "mAP50": 77.0,
+        "F1": 76.1
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-c3-c3": {
+        "P": 70.0,
+        "R": 88.7,
+        "mAP50": 85.3,
+        "F1": 78.2
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-c3-tr": {
+        "P": 82.0,
+        "R": 73.5,
+        "mAP50": 80.0,
+        "F1": 77.5
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-tr-c3": {
+        "P": 83.4,
+        "R": 69.7,
+        "mAP50": 80.2,
+        "F1": 75.9
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-tr-tr": {
+        "P": 59.1,
+        "R": 87.0,
+        "mAP50": 81.8,
+        "F1": 70.4
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-c3-c3": {
+        "P": 50.5,
+        "R": 72.9,
+        "mAP50": 67.1,
+        "F1": 59.7
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-c3-tr": {
+        "P": 54.8,
+        "R": 66.6,
+        "mAP50": 65.9,
+        "F1": 60.1
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-tr-c3": {
+        "P": 63.8,
+        "R": 69.7,
+        "mAP50": 71.6,
+        "F1": 66.6
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-tr-tr": {
+        "P": 82.5,
+        "R": 64.2,
+        "mAP50": 70.5,
+        "F1": 72.2
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-c3-c3": {
+        "P": 90.8,
+        "R": 65.5,
+        "mAP50": 76.9,
+        "F1": 76.1
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-c3-tr": {
+        "P": 70.3,
+        "R": 71.7,
+        "mAP50": 78.9,
+        "F1": 71.0
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-tr-c3": {
+        "P": 83.5,
+        "R": 72.7,
+        "mAP50": 77.8,
+        "F1": 77.7
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-tr-tr": {
+        "P": 71.2,
+        "R": 75.8,
+        "mAP50": 79.3,
+        "F1": 73.4
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-c3-c3": {
+        "P": 85.3,
+        "R": 53.5,
+        "mAP50": 68.1,
+        "F1": 65.8
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-c3-tr": {
+        "P": 80.1,
+        "R": 66.4,
+        "mAP50": 74.5,
+        "F1": 72.6
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-tr-c3": {
+        "P": 92.2,
+        "R": 53.1,
+        "mAP50": 70.2,
+        "F1": 67.4
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-tr-tr": {
+        "P": 87.1,
+        "R": 58.4,
+        "mAP50": 73.6,
+        "F1": 69.9
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-c3-c3": {
+        "P": 76.6,
+        "R": 76.9,
+        "mAP50": 82.3,
+        "F1": 76.8
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-c3-tr": {
+        "P": 81.8,
+        "R": 67.3,
+        "mAP50": 81.4,
+        "F1": 73.8
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-tr-c3": {
+        "P": 63.4,
+        "R": 75.4,
+        "mAP50": 69.3,
+        "F1": 68.9
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-tr-tr": {
+        "P": 90.3,
+        "R": 57.8,
+        "mAP50": 70.2,
+        "F1": 70.5
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-c3-c3": {
+        "P": 82.3,
+        "R": 66.8,
+        "mAP50": 73.0,
+        "F1": 73.7
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-c3-tr": {
+        "P": 85.6,
+        "R": 52.5,
+        "mAP50": 66.6,
+        "F1": 65.1
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-tr-c3": {
+        "P": 69.9,
+        "R": 62.1,
+        "mAP50": 67.6,
+        "F1": 65.8
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-tr-tr": {
+        "P": 92.0,
+        "R": 68.2,
+        "mAP50": 78.8,
+        "F1": 78.3
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-c3-c3": {
+        "P": 78.5,
+        "R": 55.8,
+        "mAP50": 70.2,
+        "F1": 65.2
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-c3-tr": {
+        "P": 66.6,
+        "R": 69.7,
+        "mAP50": 72.6,
+        "F1": 68.1
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-tr-c3": {
+        "P": 91.4,
+        "R": 42.7,
+        "mAP50": 67.0,
+        "F1": 58.2
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-tr-tr": {
+        "P": 70.9,
+        "R": 58.3,
+        "mAP50": 63.8,
+        "F1": 64.0
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-c3-c3": {
+        "P": 93.4,
+        "R": 56.5,
+        "mAP50": 71.8,
+        "F1": 70.4
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-c3-tr": {
+        "P": 93.1,
+        "R": 50.2,
+        "mAP50": 65.8,
+        "F1": 65.2
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-tr-c3": {
+        "P": 92.1,
+        "R": 59.7,
+        "mAP50": 72.4,
+        "F1": 72.4
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-tr-tr": {
+        "P": 77.5,
+        "R": 59.7,
+        "mAP50": 65.1,
+        "F1": 67.4
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-c3-c3": {
+        "P": 96.1,
+        "R": 55.5,
+        "mAP50": 78.6,
+        "F1": 70.4
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-c3-tr": {
+        "P": 90.7,
+        "R": 58.4,
+        "mAP50": 70.8,
+        "F1": 71.1
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-tr-c3": {
+        "P": 64.2,
+        "R": 62.6,
+        "mAP50": 69.7,
+        "F1": 63.4
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-tr-tr": {
+        "P": 67.9,
+        "R": 59.5,
+        "mAP50": 67.4,
+        "F1": 63.4
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-c3-c3": {
+        "P": 69.5,
+        "R": 64.8,
+        "mAP50": 69.8,
+        "F1": 67.1
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-c3-tr": {
+        "P": 73.0,
+        "R": 59.7,
+        "mAP50": 69.1,
+        "F1": 65.7
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-tr-c3": {
+        "P": 93.4,
+        "R": 67.9,
+        "mAP50": 82.5,
+        "F1": 78.6
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-tr-tr": {
+        "P": 63.7,
+        "R": 62.0,
+        "mAP50": 68.6,
+        "F1": 62.8
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-c3-c3": {
+        "P": 53.1,
+        "R": 72.7,
+        "mAP50": 66.0,
+        "F1": 61.4
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-c3-tr": {
+        "P": 59.7,
+        "R": 62.4,
+        "mAP50": 65.7,
+        "F1": 61.0
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-tr-c3": {
+        "P": 72.5,
+        "R": 49.6,
+        "mAP50": 61.3,
+        "F1": 58.9
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-tr-tr": {
+        "P": 57.9,
+        "R": 76.9,
+        "mAP50": 69.7,
+        "F1": 66.1
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-c3-c3": {
+        "P": 63.3,
+        "R": 57.9,
+        "mAP50": 61.9,
+        "F1": 60.5
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-c3-tr": {
+        "P": 78.9,
+        "R": 49.6,
+        "mAP50": 56.0,
+        "F1": 60.9
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-tr-c3": {
+        "P": 91.5,
+        "R": 48.3,
+        "mAP50": 57.1,
+        "F1": 63.2
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-tr-tr": {
+        "P": 93.3,
+        "R": 58.3,
+        "mAP50": 68.3,
+        "F1": 71.8
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-tr-c3": {
+        "P": 64.5,
+        "R": 84.0,
+        "mAP50": 76.5,
+        "F1": 73.0
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-tr-tr": {
+        "P": 86.7,
+        "R": 86.2,
+        "mAP50": 85.4,
+        "F1": 86.4
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-c3-tr": {
+        "P": 79.6,
+        "R": 80.9,
+        "mAP50": 81.8,
+        "F1": 80.2
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-c3-c3": {
+        "P": 86.5,
+        "R": 88.8,
+        "mAP50": 91.1,
+        "F1": 87.6
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-tr-tr": {
+        "P": 72.4,
+        "R": 72.7,
+        "mAP50": 80.1,
+        "F1": 72.5
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-c3-c3": {
+        "P": 82.7,
+        "R": 75.6,
+        "mAP50": 79.9,
+        "F1": 79.0
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-c3-tr": {
+        "P": 68.7,
+        "R": 87.0,
+        "mAP50": 77.2,
+        "F1": 76.8
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-tr-tr": {
+        "P": 84.5,
+        "R": 86.3,
+        "mAP50": 90.4,
+        "F1": 85.4
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-c3-c3": {
+        "P": 62.5,
+        "R": 82.3,
+        "mAP50": 77.0,
+        "F1": 71.0
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-c3-tr": {
+        "P": 68.0,
+        "R": 88.4,
+        "mAP50": 82.2,
+        "F1": 76.9
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-tr-c3": {
+        "P": 88.4,
+        "R": 75.3,
+        "mAP50": 85.0,
+        "F1": 81.3
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-c3-c3": {
+        "P": 71.6,
+        "R": 78.3,
+        "mAP50": 78.0,
+        "F1": 74.8
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-tr-tr": {
+        "P": 83.5,
+        "R": 79.8,
+        "mAP50": 83.3,
+        "F1": 81.6
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-c3-tr": {
+        "P": 83.0,
+        "R": 72.7,
+        "mAP50": 83.7,
+        "F1": 77.5
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-tr-c3": {
+        "P": 78.9,
+        "R": 87.0,
+        "mAP50": 83.4,
+        "F1": 82.8
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-c3-c3": {
+        "P": 71.6,
+        "R": 75.3,
+        "mAP50": 74.0,
+        "F1": 73.4
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-c3-tr": {
+        "P": 87.0,
+        "R": 81.1,
+        "mAP50": 90.2,
+        "F1": 83.9
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-tr-c3": {
+        "P": 77.6,
+        "R": 72.6,
+        "mAP50": 83.7,
+        "F1": 75.0
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-tr-tr": {
+        "P": 76.0,
+        "R": 78.8,
+        "mAP50": 83.3,
+        "F1": 77.4
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-c3-c3": {
+        "P": 87.1,
+        "R": 79.8,
+        "mAP50": 85.3,
+        "F1": 83.3
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-c3-tr": {
+        "P": 83.1,
+        "R": 72.7,
+        "mAP50": 84.2,
+        "F1": 77.6
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-tr-c3": {
+        "P": 88.0,
+        "R": 85.0,
+        "mAP50": 91.8,
+        "F1": 86.5
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-tr-tr": {
+        "P": 76.6,
+        "R": 89.9,
+        "mAP50": 85.8,
+        "F1": 82.7
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-c3-c3": {
+        "P": 79.9,
+        "R": 79.8,
+        "mAP50": 84.8,
+        "F1": 79.8
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-c3-tr": {
+        "P": 77.7,
+        "R": 84.6,
+        "mAP50": 86.1,
+        "F1": 81.0
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-tr-c3": {
+        "P": 82.5,
+        "R": 87.6,
+        "mAP50": 91.0,
+        "F1": 85.0
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-tr-tr": {
+        "P": 76.9,
+        "R": 82.8,
+        "mAP50": 82.6,
+        "F1": 79.7
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-c3-c3": {
+        "P": 80.0,
+        "R": 89.7,
+        "mAP50": 86.8,
+        "F1": 84.6
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-c3-tr": {
+        "P": 86.6,
+        "R": 82.4,
+        "mAP50": 82.3,
+        "F1": 84.4
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-tr-c3": {
+        "P": 87.4,
+        "R": 82.8,
+        "mAP50": 91.1,
+        "F1": 85.0
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-tr-tr": {
+        "P": 80.4,
+        "R": 82.8,
+        "mAP50": 79.8,
+        "F1": 81.6
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-c3-c3": {
+        "P": 91.8,
+        "R": 66.8,
+        "mAP50": 79.1,
+        "F1": 77.3
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-c3-tr": {
+        "P": 72.6,
+        "R": 81.9,
+        "mAP50": 80.6,
+        "F1": 77.0
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-tr-c3": {
+        "P": 92.0,
+        "R": 56.7,
+        "mAP50": 72.6,
+        "F1": 70.2
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-tr-tr": {
+        "P": 79.6,
+        "R": 71.2,
+        "mAP50": 78.5,
+        "F1": 75.2
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-c3-c3": {
+        "P": 74.1,
+        "R": 75.6,
+        "mAP50": 85.1,
+        "F1": 74.8
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-c3-tr": {
+        "P": 86.4,
+        "R": 66.9,
+        "mAP50": 81.2,
+        "F1": 75.4
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-tr-c3": {
+        "P": 77.3,
+        "R": 82.2,
+        "mAP50": 82.7,
+        "F1": 79.7
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-tr-tr": {
+        "P": 93.0,
+        "R": 65.6,
+        "mAP50": 77.7,
+        "F1": 76.9
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-c3-c3": {
+        "P": 85.3,
+        "R": 72.5,
+        "mAP50": 81.2,
+        "F1": 78.4
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-c3-tr": {
+        "P": 71.4,
+        "R": 76.2,
+        "mAP50": 81.6,
+        "F1": 73.7
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-tr-c3": {
+        "P": 80.6,
+        "R": 73.8,
+        "mAP50": 82.3,
+        "F1": 77.0
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-tr-tr": {
+        "P": 75.6,
+        "R": 66.3,
+        "mAP50": 77.7,
+        "F1": 70.6
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-c3-c3": {
+        "P": 76.2,
+        "R": 76.9,
+        "mAP50": 82.1,
+        "F1": 76.5
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-c3-tr": {
+        "P": 66.4,
+        "R": 71.6,
+        "mAP50": 77.4,
+        "F1": 68.9
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-tr-c3": {
+        "P": 64.0,
+        "R": 75.6,
+        "mAP50": 74.5,
+        "F1": 69.3
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-tr-tr": {
+        "P": 71.5,
+        "R": 71.7,
+        "mAP50": 77.8,
+        "F1": 71.6
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-c3-c3": {
+        "P": 85.5,
+        "R": 62.6,
+        "mAP50": 75.8,
+        "F1": 72.3
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-c3-tr": {
+        "P": 77.8,
+        "R": 63.9,
+        "mAP50": 76.5,
+        "F1": 70.2
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-tr-c3": {
+        "P": 78.3,
+        "R": 79.6,
+        "mAP50": 82.9,
+        "F1": 78.9
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-tr-tr": {
+        "P": 62.5,
+        "R": 74.5,
+        "mAP50": 76.3,
+        "F1": 68.0
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-c3-c3": {
+        "P": 83.8,
+        "R": 61.0,
+        "mAP50": 74.9,
+        "F1": 70.6
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-c3-tr": {
+        "P": 88.6,
+        "R": 69.7,
+        "mAP50": 82.6,
+        "F1": 78.0
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-tr-c3": {
+        "P": 88.9,
+        "R": 68.7,
+        "mAP50": 81.9,
+        "F1": 77.5
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-tr-tr": {
+        "P": 74.7,
+        "R": 69.1,
+        "mAP50": 79.3,
+        "F1": 71.8
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-c3-c3": {
+        "P": 69.7,
+        "R": 76.5,
+        "mAP50": 77.5,
+        "F1": 72.9
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-c3-tr": {
+        "P": 80.5,
+        "R": 60.8,
+        "mAP50": 72.0,
+        "F1": 69.3
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-tr-c3": {
+        "P": 67.8,
+        "R": 73.7,
+        "mAP50": 74.8,
+        "F1": 70.6
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-tr-tr": {
+        "P": 73.4,
+        "R": 85.7,
+        "mAP50": 82.8,
+        "F1": 79.1
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-c3-c3": {
+        "P": 72.2,
+        "R": 77.6,
+        "mAP50": 74.6,
+        "F1": 74.8
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-c3-tr": {
+        "P": 85.7,
+        "R": 65.7,
+        "mAP50": 82.7,
+        "F1": 74.4
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-tr-c3": {
+        "P": 95.6,
+        "R": 76.4,
+        "mAP50": 84.6,
+        "F1": 84.9
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-tr-tr": {
+        "P": 81.6,
+        "R": 82.9,
+        "mAP50": 84.6,
+        "F1": 82.2
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-c3-c3": {
+        "P": 68.4,
+        "R": 84.8,
+        "mAP50": 82.2,
+        "F1": 75.7
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-c3-tr": {
+        "P": 71.9,
+        "R": 74.7,
+        "mAP50": 79.3,
+        "F1": 73.3
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-tr-c3": {
+        "P": 78.8,
+        "R": 65.2,
+        "mAP50": 78.7,
+        "F1": 71.4
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-tr-tr": {
+        "P": 81.9,
+        "R": 71.7,
+        "mAP50": 82.3,
+        "F1": 76.5
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-c3-c3": {
+        "P": 77.5,
+        "R": 73.1,
+        "mAP50": 78.2,
+        "F1": 75.2
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-c3-tr": {
+        "P": 94.6,
+        "R": 69.3,
+        "mAP50": 85.3,
+        "F1": 80.0
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-tr-c3": {
+        "P": 74.5,
+        "R": 69.9,
+        "mAP50": 77.8,
+        "F1": 72.1
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-tr-tr": {
+        "P": 69.9,
+        "R": 76.9,
+        "mAP50": 79.3,
+        "F1": 73.2
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-c3-c3": {
+        "P": 93.1,
+        "R": 60.9,
+        "mAP50": 80.5,
+        "F1": 73.6
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-c3-tr": {
+        "P": 82.0,
+        "R": 72.7,
+        "mAP50": 77.8,
+        "F1": 77.1
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-tr-c3": {
+        "P": 82.2,
+        "R": 75.3,
+        "mAP50": 81.2,
+        "F1": 78.6
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-tr-tr": {
+        "P": 81.8,
+        "R": 84.0,
+        "mAP50": 90.3,
+        "F1": 82.9
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-c3-c3": {
+        "P": 79.3,
+        "R": 59.3,
+        "mAP50": 72.0,
+        "F1": 67.9
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-c3-tr": {
+        "P": 93.4,
+        "R": 60.3,
+        "mAP50": 74.6,
+        "F1": 73.3
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-tr-c3": {
+        "P": 68.1,
+        "R": 79.8,
+        "mAP50": 80.3,
+        "F1": 73.5
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-tr-tr": {
+        "P": 79.9,
+        "R": 73.9,
+        "mAP50": 80.2,
+        "F1": 76.8
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-c3-c3": {
+        "P": 69.5,
+        "R": 79.8,
+        "mAP50": 86.3,
+        "F1": 74.3
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-c3-tr": {
+        "P": 81.1,
+        "R": 69.7,
+        "mAP50": 78.1,
+        "F1": 75.0
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-tr-c3": {
+        "P": 73.8,
+        "R": 75.1,
+        "mAP50": 79.0,
+        "F1": 74.4
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-tr-tr": {
+        "P": 74.7,
+        "R": 79.8,
+        "mAP50": 76.3,
+        "F1": 77.2
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-c3-c3": {
+        "P": 60.1,
+        "R": 71.7,
+        "mAP50": 69.3,
+        "F1": 65.4
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-c3-tr": {
+        "P": 77.6,
+        "R": 69.7,
+        "mAP50": 71.8,
+        "F1": 73.4
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-tr-c3": {
+        "P": 74.5,
+        "R": 79.8,
+        "mAP50": 78.6,
+        "F1": 77.1
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-tr-tr": {
+        "P": 92.1,
+        "R": 71.7,
+        "mAP50": 81.2,
+        "F1": 80.6
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-c3-c3": {
+        "P": 75.9,
+        "R": 79.8,
+        "mAP50": 84.6,
+        "F1": 77.8
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-c3-tr": {
+        "P": 58.3,
+        "R": 69.7,
+        "mAP50": 75.0,
+        "F1": 63.5
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-tr-c3": {
+        "P": 61.7,
+        "R": 87.4,
+        "mAP50": 82.1,
+        "F1": 72.3
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-tr-tr": {
+        "P": 69.2,
+        "R": 66.6,
+        "mAP50": 74.7,
+        "F1": 67.9
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-c3-c3": {
+        "P": 76.8,
+        "R": 66.2,
+        "mAP50": 73.9,
+        "F1": 71.1
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-c3-tr": {
+        "P": 77.8,
+        "R": 73.6,
+        "mAP50": 79.2,
+        "F1": 75.6
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-tr-c3": {
+        "P": 73.5,
+        "R": 72.9,
+        "mAP50": 79.5,
+        "F1": 73.2
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-tr-tr": {
+        "P": 95.5,
+        "R": 64.9,
+        "mAP50": 80.2,
+        "F1": 77.3
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-c3-c3": {
+        "P": 91.2,
+        "R": 66.8,
+        "mAP50": 83.2,
+        "F1": 77.1
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-c3-tr": {
+        "P": 70.6,
+        "R": 79.8,
+        "mAP50": 80.2,
+        "F1": 74.9
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-tr-c3": {
+        "P": 67.8,
+        "R": 79.6,
+        "mAP50": 79.2,
+        "F1": 73.2
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-tr-tr": {
+        "P": 78.6,
+        "R": 77.9,
+        "mAP50": 79.9,
+        "F1": 78.2
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-c3-c3": {
+        "P": 76.0,
+        "R": 62.6,
+        "mAP50": 73.9,
+        "F1": 68.7
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-c3-tr": {
+        "P": 92.2,
+        "R": 58.9,
+        "mAP50": 75.2,
+        "F1": 71.9
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-tr-c3": {
+        "P": 68.6,
+        "R": 65.8,
+        "mAP50": 67.3,
+        "F1": 67.2
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-tr-tr": {
+        "P": 71.0,
+        "R": 68.3,
+        "mAP50": 72.5,
+        "F1": 69.6
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-c3-c3": {
+        "P": 87.6,
+        "R": 66.8,
+        "mAP50": 84.5,
+        "F1": 75.8
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-c3-tr": {
+        "P": 89.1,
+        "R": 69.4,
+        "mAP50": 78.7,
+        "F1": 78.0
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-tr-c3": {
+        "P": 68.9,
+        "R": 69.7,
+        "mAP50": 71.5,
+        "F1": 69.3
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-tr-tr": {
+        "P": 85.9,
+        "R": 67.0,
+        "mAP50": 78.0,
+        "F1": 75.3
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-c3-c3": {
+        "P": 69.7,
+        "R": 69.0,
+        "mAP50": 69.4,
+        "F1": 69.3
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-c3-tr": {
+        "P": 79.9,
+        "R": 59.2,
+        "mAP50": 65.1,
+        "F1": 68.0
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-tr-c3": {
+        "P": 75.1,
+        "R": 58.5,
+        "mAP50": 67.5,
+        "F1": 65.8
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-tr-tr": {
+        "P": 78.4,
+        "R": 74.9,
+        "mAP50": 78.8,
+        "F1": 76.6
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-c3-c3": {
+        "P": 76.0,
+        "R": 72.7,
+        "mAP50": 78.3,
+        "F1": 74.3
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-c3-tr": {
+        "P": 66.5,
+        "R": 71.2,
+        "mAP50": 74.0,
+        "F1": 68.8
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-tr-c3": {
+        "P": 74.3,
+        "R": 71.7,
+        "mAP50": 78.8,
+        "F1": 73.0
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-tr-tr": {
+        "P": 70.8,
+        "R": 72.7,
+        "mAP50": 75.7,
+        "F1": 71.7
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-c3-c3": {
+        "P": 71.5,
+        "R": 72.7,
+        "mAP50": 72.6,
+        "F1": 72.1
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-c3-tr": {
+        "P": 71.0,
+        "R": 63.9,
+        "mAP50": 71.5,
+        "F1": 67.3
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-tr-c3": {
+        "P": 92.5,
+        "R": 59.1,
+        "mAP50": 69.1,
+        "F1": 72.1
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-tr-tr": {
+        "P": 83.3,
+        "R": 69.0,
+        "mAP50": 77.1,
+        "F1": 75.5
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-c3-c3": {
+        "P": 81.3,
+        "R": 69.7,
+        "mAP50": 78.8,
+        "F1": 75.1
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-c3-tr": {
+        "P": 72.8,
+        "R": 73.9,
+        "mAP50": 81.3,
+        "F1": 73.3
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-tr-c3": {
+        "P": 70.9,
+        "R": 68.3,
+        "mAP50": 76.1,
+        "F1": 69.6
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-tr-tr": {
+        "P": 75.3,
+        "R": 69.7,
+        "mAP50": 71.3,
+        "F1": 72.4
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-c3-c3": {
+        "P": 90.5,
+        "R": 62.4,
+        "mAP50": 72.0,
+        "F1": 73.9
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-c3-tr": {
+        "P": 71.2,
+        "R": 61.9,
+        "mAP50": 66.5,
+        "F1": 66.2
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-tr-c3": {
+        "P": 77.3,
+        "R": 73.9,
+        "mAP50": 76.5,
+        "F1": 75.6
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-tr-tr": {
+        "P": 81.0,
+        "R": 61.3,
+        "mAP50": 72.1,
+        "F1": 69.8
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-c3-tr": {
+        "P": 95.3,
+        "R": 62.5,
+        "mAP50": 74.5,
+        "F1": 75.5
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-tr-c3": {
+        "P": 76.8,
+        "R": 72.7,
+        "mAP50": 77.1,
+        "F1": 74.7
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-tr-tr": {
+        "P": 74.1,
+        "R": 78.5,
+        "mAP50": 83.5,
+        "F1": 76.2
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-c3-c3": {
+        "P": 90.4,
+        "R": 63.7,
+        "mAP50": 70.5,
+        "F1": 74.7
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-c3-tr": {
+        "P": 78.6,
+        "R": 79.8,
+        "mAP50": 80.0,
+        "F1": 79.2
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-tr-c3": {
+        "P": 88.0,
+        "R": 66.9,
+        "mAP50": 78.7,
+        "F1": 76.0
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-tr-tr": {
+        "P": 90.1,
+        "R": 69.8,
+        "mAP50": 83.8,
+        "F1": 78.7
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-c3-c3": {
+        "P": 74.6,
+        "R": 85.1,
+        "mAP50": 86.2,
+        "F1": 79.5
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-c3-tr": {
+        "P": 68.1,
+        "R": 78.5,
+        "mAP50": 74.7,
+        "F1": 72.9
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-tr-c3": {
+        "P": 83.8,
+        "R": 59.8,
+        "mAP50": 73.6,
+        "F1": 69.8
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-tr-tr": {
+        "P": 77.0,
+        "R": 71.6,
+        "mAP50": 79.1,
+        "F1": 74.2
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-c3-c3": {
+        "P": 70.7,
+        "R": 73.4,
+        "mAP50": 75.9,
+        "F1": 72.0
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-c3-tr": {
+        "P": 64.4,
+        "R": 82.8,
+        "mAP50": 75.6,
+        "F1": 72.5
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-tr-c3": {
+        "P": 90.4,
+        "R": 68.5,
+        "mAP50": 75.8,
+        "F1": 77.9
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-tr-tr": {
+        "P": 74.2,
+        "R": 75.9,
+        "mAP50": 82.0,
+        "F1": 75.0
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-c3-c3": {
+        "P": 60.8,
+        "R": 72.7,
+        "mAP50": 64.6,
+        "F1": 66.2
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-c3-tr": {
+        "P": 78.3,
+        "R": 77.7,
+        "mAP50": 79.3,
+        "F1": 78.0
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-tr-c3": {
+        "P": 68.0,
+        "R": 75.6,
+        "mAP50": 79.7,
+        "F1": 71.6
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-tr-tr": {
+        "P": 76.9,
+        "R": 79.8,
+        "mAP50": 79.4,
+        "F1": 78.3
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-c3-c3": {
+        "P": 72.5,
+        "R": 78.0,
+        "mAP50": 77.0,
+        "F1": 75.1
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-c3-tr": {
+        "P": 68.9,
+        "R": 74.5,
+        "mAP50": 76.4,
+        "F1": 71.6
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-tr-c3": {
+        "P": 94.1,
+        "R": 71.9,
+        "mAP50": 80.6,
+        "F1": 81.5
+      }
+    },
+    "333334": {
+      "backbone_c3-c3-c3-c3_head_tr-tr-tr-c3": {
+        "P": 93.3,
+        "R": 82.8,
+        "mAP50": 90.3,
+        "F1": 87.7
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-c3-c3": {
+        "P": 81.9,
+        "R": 74.9,
+        "mAP50": 78.5,
+        "F1": 78.2
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-c3-tr": {
+        "P": 78.9,
+        "R": 58.2,
+        "mAP50": 69.6,
+        "F1": 67.0
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-c3-c3": {
+        "P": 82.2,
+        "R": 62.8,
+        "mAP50": 77.2,
+        "F1": 71.2
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-c3-c3": {
+        "P": 70.5,
+        "R": 75.6,
+        "mAP50": 72.7,
+        "F1": 73.0
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-c3-tr": {
+        "P": 54.0,
+        "R": 94.1,
+        "mAP50": 70.9,
+        "F1": 68.6
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-tr-c3": {
+        "P": 76.5,
+        "R": 66.0,
+        "mAP50": 72.9,
+        "F1": 70.9
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-tr-tr": {
+        "P": 71.4,
+        "R": 79.8,
+        "mAP50": 81.3,
+        "F1": 75.4
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-c3-c3": {
+        "P": 72.5,
+        "R": 76.9,
+        "mAP50": 81.4,
+        "F1": 74.6
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-c3-tr": {
+        "P": 79.7,
+        "R": 79.8,
+        "mAP50": 84.4,
+        "F1": 79.8
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-tr-c3": {
+        "P": 81.1,
+        "R": 68.4,
+        "mAP50": 79.6,
+        "F1": 74.2
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-tr-tr": {
+        "P": 88.8,
+        "R": 64.1,
+        "mAP50": 79.8,
+        "F1": 74.5
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-c3-c3": {
+        "P": 76.1,
+        "R": 71.0,
+        "mAP50": 76.2,
+        "F1": 73.5
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-c3-tr": {
+        "P": 69.8,
+        "R": 72.7,
+        "mAP50": 73.0,
+        "F1": 71.2
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-tr-c3": {
+        "P": 66.9,
+        "R": 88.4,
+        "mAP50": 82.8,
+        "F1": 76.2
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-tr-tr": {
+        "P": 75.4,
+        "R": 68.2,
+        "mAP50": 72.7,
+        "F1": 71.6
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-c3-c3": {
+        "P": 84.2,
+        "R": 79.8,
+        "mAP50": 85.1,
+        "F1": 81.9
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-c3-tr": {
+        "P": 83.5,
+        "R": 77.0,
+        "mAP50": 85.9,
+        "F1": 80.1
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-tr-c3": {
+        "P": 86.1,
+        "R": 78.4,
+        "mAP50": 85.3,
+        "F1": 82.1
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-tr-tr": {
+        "P": 88.4,
+        "R": 82.5,
+        "mAP50": 87.3,
+        "F1": 85.3
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-c3-c3": {
+        "P": 71.9,
+        "R": 67.7,
+        "mAP50": 71.8,
+        "F1": 69.7
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-c3-tr": {
+        "P": 83.7,
+        "R": 71.1,
+        "mAP50": 80.9,
+        "F1": 76.9
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-tr-c3": {
+        "P": 64.8,
+        "R": 82.8,
+        "mAP50": 76.4,
+        "F1": 72.7
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-tr-tr": {
+        "P": 67.7,
+        "R": 75.6,
+        "mAP50": 75.3,
+        "F1": 71.4
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-c3-c3": {
+        "P": 77.1,
+        "R": 78.3,
+        "mAP50": 79.2,
+        "F1": 77.7
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-c3-tr": {
+        "P": 69.7,
+        "R": 89.9,
+        "mAP50": 80.3,
+        "F1": 78.5
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-tr-c3": {
+        "P": 77.2,
+        "R": 81.9,
+        "mAP50": 81.3,
+        "F1": 79.5
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-tr-tr": {
+        "P": 75.4,
+        "R": 79.8,
+        "mAP50": 83.1,
+        "F1": 77.5
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-c3-c3": {
+        "P": 75.8,
+        "R": 75.6,
+        "mAP50": 78.8,
+        "F1": 75.7
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-c3-tr": {
+        "P": 77.4,
+        "R": 64.3,
+        "mAP50": 70.6,
+        "F1": 70.2
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-tr-c3": {
+        "P": 72.5,
+        "R": 68.3,
+        "mAP50": 77.8,
+        "F1": 70.3
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-tr-tr": {
+        "P": 75.4,
+        "R": 89.9,
+        "mAP50": 83.3,
+        "F1": 82.0
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-c3-c3": {
+        "P": 70.4,
+        "R": 82.8,
+        "mAP50": 77.5,
+        "F1": 76.1
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-c3-tr": {
+        "P": 73.4,
+        "R": 72.7,
+        "mAP50": 75.5,
+        "F1": 73.0
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-tr-c3": {
+        "P": 64.6,
+        "R": 62.3,
+        "mAP50": 69.8,
+        "F1": 63.4
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-tr-tr": {
+        "P": 63.8,
+        "R": 69.5,
+        "mAP50": 70.0,
+        "F1": 66.5
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-c3-c3": {
+        "P": 61.2,
+        "R": 80.2,
+        "mAP50": 76.8,
+        "F1": 69.4
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-c3-c3": {
+        "P": 63.6,
+        "R": 69.4,
+        "mAP50": 73.1,
+        "F1": 66.4
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-c3-tr": {
+        "P": 76.7,
+        "R": 71.7,
+        "mAP50": 76.9,
+        "F1": 74.1
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-tr-c3": {
+        "P": 64.8,
+        "R": 72.7,
+        "mAP50": 73.0,
+        "F1": 68.5
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-c3-c3": {
+        "P": 71.4,
+        "R": 81.1,
+        "mAP50": 76.7,
+        "F1": 75.9
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-c3-c3": {
+        "P": 87.1,
+        "R": 79.1,
+        "mAP50": 83.6,
+        "F1": 82.9
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-c3-c3": {
+        "P": 71.3,
+        "R": 73.5,
+        "mAP50": 76.1,
+        "F1": 72.4
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-c3-tr": {
+        "P": 79.4,
+        "R": 69.7,
+        "mAP50": 79.7,
+        "F1": 74.2
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-tr-c3": {
+        "P": 64.4,
+        "R": 75.6,
+        "mAP50": 78.1,
+        "F1": 69.6
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-tr-tr": {
+        "P": 70.4,
+        "R": 64.1,
+        "mAP50": 75.4,
+        "F1": 67.1
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-c3-c3": {
+        "P": 84.2,
+        "R": 72.7,
+        "mAP50": 77.6,
+        "F1": 78.0
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-c3-tr": {
+        "P": 69.3,
+        "R": 66.4,
+        "mAP50": 74.3,
+        "F1": 67.8
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-tr-c3": {
+        "P": 79.3,
+        "R": 49.0,
+        "mAP50": 66.7,
+        "F1": 60.6
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-tr-tr": {
+        "P": 72.6,
+        "R": 68.6,
+        "mAP50": 70.6,
+        "F1": 70.5
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-c3-c3": {
+        "P": 79.3,
+        "R": 65.5,
+        "mAP50": 71.3,
+        "F1": 71.7
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-c3-tr": {
+        "P": 63.5,
+        "R": 82.8,
+        "mAP50": 76.0,
+        "F1": 71.9
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-tr-c3": {
+        "P": 53.8,
+        "R": 75.6,
+        "mAP50": 71.4,
+        "F1": 62.9
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-tr-tr": {
+        "P": 63.9,
+        "R": 66.2,
+        "mAP50": 69.2,
+        "F1": 65.0
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-c3-c3": {
+        "P": 65.3,
+        "R": 65.5,
+        "mAP50": 67.5,
+        "F1": 65.4
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-c3-tr": {
+        "P": 63.8,
+        "R": 69.7,
+        "mAP50": 70.6,
+        "F1": 66.6
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-tr-c3": {
+        "P": 79.7,
+        "R": 63.3,
+        "mAP50": 72.4,
+        "F1": 70.6
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-tr-tr": {
+        "P": 73.8,
+        "R": 62.6,
+        "mAP50": 68.2,
+        "F1": 67.7
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-c3-c3": {
+        "P": 64.9,
+        "R": 85.7,
+        "mAP50": 79.0,
+        "F1": 73.9
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-c3-tr": {
+        "P": 66.1,
+        "R": 70.9,
+        "mAP50": 69.7,
+        "F1": 68.4
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-tr-c3": {
+        "P": 91.7,
+        "R": 62.6,
+        "mAP50": 77.4,
+        "F1": 74.4
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-tr-tr": {
+        "P": 60.6,
+        "R": 72.7,
+        "mAP50": 73.9,
+        "F1": 66.1
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-c3-c3": {
+        "P": 69.2,
+        "R": 67.8,
+        "mAP50": 72.8,
+        "F1": 68.5
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-c3-tr": {
+        "P": 83.2,
+        "R": 72.0,
+        "mAP50": 78.2,
+        "F1": 77.2
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-tr-c3": {
+        "P": 77.6,
+        "R": 62.2,
+        "mAP50": 72.9,
+        "F1": 69.1
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-tr-tr": {
+        "P": 78.8,
+        "R": 69.7,
+        "mAP50": 74.2,
+        "F1": 74.0
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-c3-c3": {
+        "P": 72.5,
+        "R": 69.7,
+        "mAP50": 74.9,
+        "F1": 71.1
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-c3-tr": {
+        "P": 64.3,
+        "R": 75.6,
+        "mAP50": 70.5,
+        "F1": 69.5
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-tr-c3": {
+        "P": 93.0,
+        "R": 69.5,
+        "mAP50": 74.8,
+        "F1": 79.6
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-tr-tr": {
+        "P": 76.4,
+        "R": 69.8,
+        "mAP50": 77.6,
+        "F1": 73.0
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-c3-c3": {
+        "P": 87.6,
+        "R": 59.7,
+        "mAP50": 72.2,
+        "F1": 71.0
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-c3-tr": {
+        "P": 61.7,
+        "R": 66.8,
+        "mAP50": 66.8,
+        "F1": 64.1
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-tr-c3": {
+        "P": 90.8,
+        "R": 59.3,
+        "mAP50": 70.4,
+        "F1": 71.7
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-tr-tr": {
+        "P": 82.1,
+        "R": 63.9,
+        "mAP50": 75.4,
+        "F1": 71.9
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-c3-c3": {
+        "P": 74.0,
+        "R": 70.0,
+        "mAP50": 75.7,
+        "F1": 71.9
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-c3-tr": {
+        "P": 82.6,
+        "R": 76.9,
+        "mAP50": 85.5,
+        "F1": 79.6
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-tr-c3": {
+        "P": 82.4,
+        "R": 55.5,
+        "mAP50": 72.4,
+        "F1": 66.3
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-tr-tr": {
+        "P": 72.3,
+        "R": 65.5,
+        "mAP50": 75.1,
+        "F1": 68.7
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-c3-tr": {
+        "P": 85.8,
+        "R": 49.6,
+        "mAP50": 67.8,
+        "F1": 62.9
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-tr-c3": {
+        "P": 81.7,
+        "R": 69.7,
+        "mAP50": 69.9,
+        "F1": 75.2
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-tr-tr": {
+        "P": 71.6,
+        "R": 66.2,
+        "mAP50": 71.6,
+        "F1": 68.8
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-c3-c3": {
+        "P": 74.9,
+        "R": 52.5,
+        "mAP50": 68.7,
+        "F1": 61.7
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-c3-tr": {
+        "P": 68.2,
+        "R": 66.8,
+        "mAP50": 74.0,
+        "F1": 67.5
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-tr-c3": {
+        "P": 59.4,
+        "R": 62.6,
+        "mAP50": 67.5,
+        "F1": 61.0
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-tr-tr": {
+        "P": 70.3,
+        "R": 62.6,
+        "mAP50": 68.0,
+        "F1": 66.2
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-c3-c3": {
+        "P": 87.0,
+        "R": 42.8,
+        "mAP50": 60.3,
+        "F1": 57.4
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-c3-tr": {
+        "P": 63.0,
+        "R": 64.7,
+        "mAP50": 68.0,
+        "F1": 63.8
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-tr-c3": {
+        "P": 78.6,
+        "R": 40.1,
+        "mAP50": 57.3,
+        "F1": 53.1
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-tr-tr": {
+        "P": 79.7,
+        "R": 61.5,
+        "mAP50": 67.5,
+        "F1": 69.4
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-c3-c3": {
+        "P": 64.7,
+        "R": 82.8,
+        "mAP50": 77.5,
+        "F1": 72.6
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-c3-tr": {
+        "P": 73.6,
+        "R": 69.7,
+        "mAP50": 78.8,
+        "F1": 71.6
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-tr-c3": {
+        "P": 89.7,
+        "R": 62.5,
+        "mAP50": 73.1,
+        "F1": 73.7
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-tr-tr": {
+        "P": 68.9,
+        "R": 72.7,
+        "mAP50": 74.2,
+        "F1": 70.7
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-c3-c3": {
+        "P": 95.7,
+        "R": 56.0,
+        "mAP50": 70.7,
+        "F1": 70.7
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-c3-tr": {
+        "P": 88.8,
+        "R": 53.2,
+        "mAP50": 73.0,
+        "F1": 66.5
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-tr-c3": {
+        "P": 92.3,
+        "R": 43.2,
+        "mAP50": 64.7,
+        "F1": 58.9
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-tr-tr": {
+        "P": 66.3,
+        "R": 60.0,
+        "mAP50": 65.8,
+        "F1": 63.0
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-c3-c3": {
+        "P": 64.2,
+        "R": 68.7,
+        "mAP50": 68.2,
+        "F1": 66.4
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-c3-tr": {
+        "P": 84.0,
+        "R": 55.5,
+        "mAP50": 68.6,
+        "F1": 66.8
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-tr-c3": {
+        "P": 56.2,
+        "R": 69.7,
+        "mAP50": 69.3,
+        "F1": 62.2
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-tr-tr": {
+        "P": 63.7,
+        "R": 65.5,
+        "mAP50": 67.6,
+        "F1": 64.6
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-c3-c3": {
+        "P": 95.2,
+        "R": 56.0,
+        "mAP50": 69.3,
+        "F1": 70.5
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-c3-tr": {
+        "P": 75.7,
+        "R": 46.6,
+        "mAP50": 59.3,
+        "F1": 57.7
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-tr-c3": {
+        "P": 76.6,
+        "R": 59.7,
+        "mAP50": 66.5,
+        "F1": 67.1
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-tr-tr": {
+        "P": 80.0,
+        "R": 59.7,
+        "mAP50": 65.9,
+        "F1": 68.4
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-c3-tr": {
+        "P": 81.3,
+        "R": 74.6,
+        "mAP50": 82.3,
+        "F1": 77.8
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-c3-c3": {
+        "P": 88.9,
+        "R": 66.5,
+        "mAP50": 85.9,
+        "F1": 76.1
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-c3-tr": {
+        "P": 86.7,
+        "R": 85.3,
+        "mAP50": 85.2,
+        "F1": 86.0
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-tr-c3": {
+        "P": 74.8,
+        "R": 87.5,
+        "mAP50": 82.5,
+        "F1": 80.7
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-tr-tr": {
+        "P": 82.1,
+        "R": 77.1,
+        "mAP50": 83.7,
+        "F1": 79.5
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-c3-c3": {
+        "P": 66.3,
+        "R": 85.7,
+        "mAP50": 78.9,
+        "F1": 74.8
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-tr-tr": {
+        "P": 82.1,
+        "R": 74.6,
+        "mAP50": 77.0,
+        "F1": 78.2
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-c3-c3": {
+        "P": 83.3,
+        "R": 74.9,
+        "mAP50": 84.5,
+        "F1": 78.9
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-c3-c3": {
+        "P": 83.1,
+        "R": 86.1,
+        "mAP50": 86.2,
+        "F1": 84.6
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-tr-c3": {
+        "P": 89.4,
+        "R": 86.2,
+        "mAP50": 89.2,
+        "F1": 87.8
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-c3-tr": {
+        "P": 81.7,
+        "R": 72.7,
+        "mAP50": 79.5,
+        "F1": 76.9
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-tr-tr": {
+        "P": 84.8,
+        "R": 82.8,
+        "mAP50": 84.7,
+        "F1": 83.8
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-c3-c3": {
+        "P": 83.4,
+        "R": 87.0,
+        "mAP50": 87.3,
+        "F1": 85.2
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-c3-c3": {
+        "P": 95.0,
+        "R": 75.6,
+        "mAP50": 85.7,
+        "F1": 84.2
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-c3-tr": {
+        "P": 74.9,
+        "R": 78.4,
+        "mAP50": 81.7,
+        "F1": 76.6
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-c3-tr": {
+        "P": 73.1,
+        "R": 69.7,
+        "mAP50": 75.3,
+        "F1": 71.4
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-c3-c3": {
+        "P": 72.9,
+        "R": 72.7,
+        "mAP50": 76.4,
+        "F1": 72.8
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-c3-c3": {
+        "P": 77.3,
+        "R": 64.2,
+        "mAP50": 77.7,
+        "F1": 70.1
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-tr-c3": {
+        "P": 75.7,
+        "R": 63.9,
+        "mAP50": 70.3,
+        "F1": 69.3
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-c3-c3": {
+        "P": 74.4,
+        "R": 69.6,
+        "mAP50": 78.8,
+        "F1": 71.9
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-c3-tr": {
+        "P": 67.3,
+        "R": 76.2,
+        "mAP50": 75.2,
+        "F1": 71.5
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-tr-c3": {
+        "P": 73.3,
+        "R": 68.5,
+        "mAP50": 73.8,
+        "F1": 70.8
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-tr-tr": {
+        "P": 67.5,
+        "R": 79.1,
+        "mAP50": 76.0,
+        "F1": 72.8
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-c3-c3": {
+        "P": 79.3,
+        "R": 69.7,
+        "mAP50": 77.7,
+        "F1": 74.2
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-c3-tr": {
+        "P": 85.2,
+        "R": 66.8,
+        "mAP50": 76.1,
+        "F1": 74.9
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-tr-c3": {
+        "P": 83.1,
+        "R": 78.3,
+        "mAP50": 82.6,
+        "F1": 80.6
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-tr-tr": {
+        "P": 57.1,
+        "R": 87.5,
+        "mAP50": 73.5,
+        "F1": 69.1
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-c3-tr": {
+        "P": 91.0,
+        "R": 66.8,
+        "mAP50": 85.8,
+        "F1": 77.0
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-c3-tr": {
+        "P": 75.4,
+        "R": 68.6,
+        "mAP50": 76.9,
+        "F1": 71.8
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-c3-c3": {
+        "P": 92.5,
+        "R": 68.1,
+        "mAP50": 81.9,
+        "F1": 78.4
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-tr-tr": {
+        "P": 96.0,
+        "R": 82.0,
+        "mAP50": 84.7,
+        "F1": 88.4
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-c3-c3": {
+        "P": 75.9,
+        "R": 68.0,
+        "mAP50": 76.5,
+        "F1": 71.7
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-c3-tr": {
+        "P": 90.2,
+        "R": 72.7,
+        "mAP50": 85.1,
+        "F1": 80.5
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-tr-c3": {
+        "P": 77.9,
+        "R": 84.0,
+        "mAP50": 81.4,
+        "F1": 80.8
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-tr-tr": {
+        "P": 88.9,
+        "R": 72.3,
+        "mAP50": 84.9,
+        "F1": 79.7
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-c3-c3": {
+        "P": 85.3,
+        "R": 67.3,
+        "mAP50": 76.2,
+        "F1": 75.2
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-c3-tr": {
+        "P": 91.8,
+        "R": 69.7,
+        "mAP50": 79.3,
+        "F1": 79.2
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-tr-c3": {
+        "P": 94.5,
+        "R": 61.9,
+        "mAP50": 74.1,
+        "F1": 74.8
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-tr-tr": {
+        "P": 97.5,
+        "R": 69.7,
+        "mAP50": 83.8,
+        "F1": 81.3
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-tr-c3": {
+        "P": 94.0,
+        "R": 71.2,
+        "mAP50": 82.6,
+        "F1": 81.0
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-c3-c3": {
+        "P": 79.5,
+        "R": 76.9,
+        "mAP50": 84.2,
+        "F1": 78.2
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-c3-tr": {
+        "P": 70.5,
+        "R": 76.9,
+        "mAP50": 72.9,
+        "F1": 73.6
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-tr-c3": {
+        "P": 69.8,
+        "R": 63.0,
+        "mAP50": 73.5,
+        "F1": 66.2
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-tr-tr": {
+        "P": 92.9,
+        "R": 62.6,
+        "mAP50": 77.4,
+        "F1": 74.8
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-c3-c3": {
+        "P": 90.9,
+        "R": 62.6,
+        "mAP50": 69.9,
+        "F1": 74.1
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-c3-tr": {
+        "P": 96.6,
+        "R": 61.1,
+        "mAP50": 72.3,
+        "F1": 74.9
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-tr-c3": {
+        "P": 67.7,
+        "R": 69.7,
+        "mAP50": 73.3,
+        "F1": 68.7
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-tr-tr": {
+        "P": 94.0,
+        "R": 69.6,
+        "mAP50": 75.1,
+        "F1": 80.0
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-tr-c3": {
+        "P": 75.9,
+        "R": 72.7,
+        "mAP50": 74.5,
+        "F1": 74.3
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-c3-c3": {
+        "P": 72.9,
+        "R": 65.9,
+        "mAP50": 71.2,
+        "F1": 69.2
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-tr-c3": {
+        "P": 83.6,
+        "R": 73.7,
+        "mAP50": 74.6,
+        "F1": 78.3
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-c3-c3": {
+        "P": 73.1,
+        "R": 78.5,
+        "mAP50": 72.9,
+        "F1": 75.7
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-tr-c3": {
+        "P": 82.6,
+        "R": 92.7,
+        "mAP50": 91.8,
+        "F1": 87.4
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-tr-tr": {
+        "P": 84.5,
+        "R": 86.3,
+        "mAP50": 90.4,
+        "F1": 85.4
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-c3-tr": {
+        "P": 69.7,
+        "R": 97.1,
+        "mAP50": 88.1,
+        "F1": 81.2
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-tr-c3": {
+        "P": 71.8,
+        "R": 77.8,
+        "mAP50": 81.2,
+        "F1": 74.7
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-c3-c3": {
+        "P": 74.4,
+        "R": 89.8,
+        "mAP50": 87.6,
+        "F1": 81.4
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-c3-tr": {
+        "P": 80.1,
+        "R": 88.0,
+        "mAP50": 88.1,
+        "F1": 83.9
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-tr-tr": {
+        "P": 74.8,
+        "R": 66.3,
+        "mAP50": 75.7,
+        "F1": 70.3
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-c3-tr": {
+        "P": 58.2,
+        "R": 97.1,
+        "mAP50": 80.5,
+        "F1": 72.8
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-tr-c3": {
+        "P": 77.0,
+        "R": 89.9,
+        "mAP50": 86.1,
+        "F1": 83.0
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-tr-tr": {
+        "P": 70.6,
+        "R": 78.5,
+        "mAP50": 76.4,
+        "F1": 74.3
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-c3-tr": {
+        "P": 63.9,
+        "R": 97.1,
+        "mAP50": 84.3,
+        "F1": 77.1
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-tr-tr": {
+        "P": 79.5,
+        "R": 79.8,
+        "mAP50": 82.3,
+        "F1": 79.7
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-c3-c3": {
+        "P": 81.0,
+        "R": 79.8,
+        "mAP50": 86.1,
+        "F1": 80.4
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-tr-c3": {
+        "P": 92.7,
+        "R": 82.8,
+        "mAP50": 85.0,
+        "F1": 87.5
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-c3-tr": {
+        "P": 76.2,
+        "R": 82.8,
+        "mAP50": 85.8,
+        "F1": 79.4
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-tr-c3": {
+        "P": 75.6,
+        "R": 78.5,
+        "mAP50": 81.5,
+        "F1": 77.0
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-tr-tr": {
+        "P": 85.9,
+        "R": 87.2,
+        "mAP50": 93.7,
+        "F1": 86.5
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-tr-c3": {
+        "P": 92.0,
+        "R": 69.0,
+        "mAP50": 78.1,
+        "F1": 78.9
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-tr-tr": {
+        "P": 67.1,
+        "R": 63.9,
+        "mAP50": 72.0,
+        "F1": 65.5
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-c3-c3": {
+        "P": 85.3,
+        "R": 80.0,
+        "mAP50": 87.2,
+        "F1": 82.6
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-tr-c3": {
+        "P": 70.5,
+        "R": 69.7,
+        "mAP50": 77.7,
+        "F1": 70.1
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-tr-tr": {
+        "P": 80.7,
+        "R": 79.2,
+        "mAP50": 85.1,
+        "F1": 79.9
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-c3-c3": {
+        "P": 89.7,
+        "R": 69.2,
+        "mAP50": 81.9,
+        "F1": 78.1
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-c3-tr": {
+        "P": 81.4,
+        "R": 73.9,
+        "mAP50": 82.3,
+        "F1": 77.5
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-tr-c3": {
+        "P": 71.3,
+        "R": 71.1,
+        "mAP50": 77.5,
+        "F1": 71.2
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-tr-tr": {
+        "P": 76.7,
+        "R": 73.9,
+        "mAP50": 81.7,
+        "F1": 75.3
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-c3-c3": {
+        "P": 75.4,
+        "R": 76.9,
+        "mAP50": 82.0,
+        "F1": 76.1
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-c3-tr": {
+        "P": 71.8,
+        "R": 73.9,
+        "mAP50": 77.6,
+        "F1": 72.8
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-tr-c3": {
+        "P": 77.3,
+        "R": 71.6,
+        "mAP50": 79.7,
+        "F1": 74.3
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-tr-tr": {
+        "P": 86.9,
+        "R": 65.0,
+        "mAP50": 81.1,
+        "F1": 74.4
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-c3-tr": {
+        "P": 82.8,
+        "R": 69.1,
+        "mAP50": 81.2,
+        "F1": 75.3
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-tr-c3": {
+        "P": 83.9,
+        "R": 68.3,
+        "mAP50": 82.5,
+        "F1": 75.3
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-tr-tr": {
+        "P": 84.1,
+        "R": 69.7,
+        "mAP50": 79.8,
+        "F1": 76.2
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-c3-tr": {
+        "P": 69.5,
+        "R": 68.4,
+        "mAP50": 74.6,
+        "F1": 68.9
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-tr-tr": {
+        "P": 67.0,
+        "R": 66.8,
+        "mAP50": 74.9,
+        "F1": 66.9
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-c3-c3": {
+        "P": 68.2,
+        "R": 84.8,
+        "mAP50": 82.2,
+        "F1": 75.6
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-tr-c3": {
+        "P": 73.4,
+        "R": 80.9,
+        "mAP50": 82.7,
+        "F1": 77.0
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-tr-tr": {
+        "P": 85.9,
+        "R": 66.6,
+        "mAP50": 80.6,
+        "F1": 75.0
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-c3-c3": {
+        "P": 84.3,
+        "R": 65.5,
+        "mAP50": 78.5,
+        "F1": 73.7
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-tr-c3": {
+        "P": 71.9,
+        "R": 62.6,
+        "mAP50": 69.6,
+        "F1": 66.9
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-tr-tr": {
+        "P": 65.7,
+        "R": 78.5,
+        "mAP50": 76.5,
+        "F1": 71.5
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-c3-c3": {
+        "P": 81.6,
+        "R": 79.2,
+        "mAP50": 84.7,
+        "F1": 80.4
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-c3-tr": {
+        "P": 90.8,
+        "R": 61.8,
+        "mAP50": 74.2,
+        "F1": 73.5
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-tr-c3": {
+        "P": 91.1,
+        "R": 72.7,
+        "mAP50": 87.5,
+        "F1": 80.9
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-tr-tr": {
+        "P": 87.7,
+        "R": 69.9,
+        "mAP50": 81.1,
+        "F1": 77.8
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-c3-c3": {
+        "P": 77.1,
+        "R": 71.2,
+        "mAP50": 77.2,
+        "F1": 74.0
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-c3-tr": {
+        "P": 71.6,
+        "R": 63.9,
+        "mAP50": 70.5,
+        "F1": 67.5
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-tr-c3": {
+        "P": 80.4,
+        "R": 63.9,
+        "mAP50": 74.2,
+        "F1": 71.2
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-tr-tr": {
+        "P": 86.5,
+        "R": 66.8,
+        "mAP50": 79.2,
+        "F1": 75.4
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-c3-tr": {
+        "P": 88.1,
+        "R": 72.7,
+        "mAP50": 82.1,
+        "F1": 79.7
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-tr-c3": {
+        "P": 72.1,
+        "R": 79.8,
+        "mAP50": 81.1,
+        "F1": 75.8
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-tr-tr": {
+        "P": 92.2,
+        "R": 59.7,
+        "mAP50": 79.6,
+        "F1": 72.5
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-c3-c3": {
+        "P": 76.1,
+        "R": 75.1,
+        "mAP50": 79.5,
+        "F1": 75.6
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-c3-tr": {
+        "P": 64.6,
+        "R": 76.9,
+        "mAP50": 75.4,
+        "F1": 70.2
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-tr-c3": {
+        "P": 93.3,
+        "R": 69.8,
+        "mAP50": 79.8,
+        "F1": 79.9
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-c3-tr": {
+        "P": 76.6,
+        "R": 69.7,
+        "mAP50": 77.0,
+        "F1": 73.0
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-tr-c3": {
+        "P": 74.7,
+        "R": 62.3,
+        "mAP50": 69.5,
+        "F1": 67.9
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-tr-tr": {
+        "P": 71.0,
+        "R": 68.3,
+        "mAP50": 72.5,
+        "F1": 69.6
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-tr-tr": {
+        "P": 82.7,
+        "R": 72.7,
+        "mAP50": 80.0,
+        "F1": 77.4
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-c3-tr": {
+        "P": 84.1,
+        "R": 73.1,
+        "mAP50": 81.2,
+        "F1": 78.2
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-tr-tr": {
+        "P": 79.2,
+        "R": 72.7,
+        "mAP50": 79.3,
+        "F1": 75.8
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-c3-c3": {
+        "P": 88.9,
+        "R": 60.5,
+        "mAP50": 74.9,
+        "F1": 72.0
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-c3-tr": {
+        "P": 82.0,
+        "R": 65.8,
+        "mAP50": 80.9,
+        "F1": 73.0
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-tr-c3": {
+        "P": 60.4,
+        "R": 62.6,
+        "mAP50": 67.1,
+        "F1": 61.5
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-tr-tr": {
+        "P": 73.4,
+        "R": 71.0,
+        "mAP50": 82.4,
+        "F1": 72.2
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-c3-c3": {
+        "P": 71.0,
+        "R": 67.3,
+        "mAP50": 74.1,
+        "F1": 69.1
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-c3-tr": {
+        "P": 93.4,
+        "R": 56.0,
+        "mAP50": 70.9,
+        "F1": 70.0
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-tr-c3": {
+        "P": 82.9,
+        "R": 66.8,
+        "mAP50": 74.5,
+        "F1": 74.0
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-tr-tr": {
+        "P": 82.7,
+        "R": 68.5,
+        "mAP50": 78.0,
+        "F1": 74.9
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-c3-c3": {
+        "P": 63.3,
+        "R": 79.8,
+        "mAP50": 73.5,
+        "F1": 70.6
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-c3-c3": {
+        "P": 87.8,
+        "R": 62.6,
+        "mAP50": 74.5,
+        "F1": 73.1
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-tr-tr": {
+        "P": 89.1,
+        "R": 56.7,
+        "mAP50": 74.4,
+        "F1": 69.3
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-c3-tr": {
+        "P": 75.5,
+        "R": 72.5,
+        "mAP50": 72.6,
+        "F1": 74.0
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-c3-tr": {
+        "P": 80.0,
+        "R": 65.5,
+        "mAP50": 72.8,
+        "F1": 72.0
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-tr-c3": {
+        "P": 76.8,
+        "R": 72.7,
+        "mAP50": 77.1,
+        "F1": 74.7
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-tr-tr": {
+        "P": 74.1,
+        "R": 78.5,
+        "mAP50": 83.5,
+        "F1": 76.2
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-c3-c3": {
+        "P": 90.4,
+        "R": 63.7,
+        "mAP50": 70.5,
+        "F1": 74.7
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-c3-tr": {
+        "P": 71.0,
+        "R": 81.7,
+        "mAP50": 76.9,
+        "F1": 76.0
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-tr-c3": {
+        "P": 88.0,
+        "R": 66.9,
+        "mAP50": 78.7,
+        "F1": 76.0
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-tr-tr": {
+        "P": 90.1,
+        "R": 69.8,
+        "mAP50": 83.8,
+        "F1": 78.7
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-c3-c3": {
+        "P": 74.6,
+        "R": 85.1,
+        "mAP50": 86.2,
+        "F1": 79.5
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-c3-tr": {
+        "P": 71.0,
+        "R": 65.5,
+        "mAP50": 70.6,
+        "F1": 68.1
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-tr-c3": {
+        "P": 83.8,
+        "R": 59.8,
+        "mAP50": 73.6,
+        "F1": 69.8
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-tr-tr": {
+        "P": 77.0,
+        "R": 71.6,
+        "mAP50": 79.1,
+        "F1": 74.2
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-c3-c3": {
+        "P": 70.7,
+        "R": 73.4,
+        "mAP50": 75.9,
+        "F1": 72.0
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-c3-tr": {
+        "P": 64.4,
+        "R": 82.8,
+        "mAP50": 75.6,
+        "F1": 72.5
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-tr-c3": {
+        "P": 90.4,
+        "R": 68.5,
+        "mAP50": 75.8,
+        "F1": 77.9
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-tr-tr": {
+        "P": 67.2,
+        "R": 65.7,
+        "mAP50": 68.7,
+        "F1": 66.4
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-tr-tr": {
+        "P": 74.9,
+        "R": 79.8,
+        "mAP50": 79.6,
+        "F1": 77.3
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-c3-c3": {
+        "P": 72.5,
+        "R": 78.0,
+        "mAP50": 77.0,
+        "F1": 75.1
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-c3-tr": {
+        "P": 67.7,
+        "R": 79.8,
+        "mAP50": 76.5,
+        "F1": 73.2
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-tr-c3": {
+        "P": 94.1,
+        "R": 71.9,
+        "mAP50": 80.6,
+        "F1": 81.5
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-tr-tr": {
+        "P": 75.2,
+        "R": 72.7,
+        "mAP50": 79.0,
+        "F1": 73.9
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-c3-tr": {
+        "P": 74.6,
+        "R": 69.7,
+        "mAP50": 74.2,
+        "F1": 72.1
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-tr-c3": {
+        "P": 86.2,
+        "R": 59.7,
+        "mAP50": 70.4,
+        "F1": 70.5
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-tr-tr": {
+        "P": 66.1,
+        "R": 66.8,
+        "mAP50": 68.1,
+        "F1": 66.5
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-c3-tr": {
+        "P": 71.6,
+        "R": 70.7,
+        "mAP50": 77.5,
+        "F1": 71.2
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-tr-c3": {
+        "P": 74.5,
+        "R": 72.7,
+        "mAP50": 73.5,
+        "F1": 73.6
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-tr-tr": {
+        "P": 82.8,
+        "R": 65.6,
+        "mAP50": 77.5,
+        "F1": 73.2
+      }
+    },
+    "map1": {
+      "backbone_c3-c3-c3-c3_head_tr-tr-tr-tr": {
+        "P": 96.5,
+        "R": 67.8,
+        "mAP50": 83.8,
+        "F1": 79.6
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-c3-tr": {
+        "P": 73.6,
+        "R": 70.8,
+        "mAP50": 78.1,
+        "F1": 72.2
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-c3-c3": {
+        "P": 66.7,
+        "R": 86.9,
+        "mAP50": 78.4,
+        "F1": 75.5
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-c3-tr": {
+        "P": 94.0,
+        "R": 70.3,
+        "mAP50": 83.6,
+        "F1": 80.4
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-tr-c3": {
+        "P": 75.5,
+        "R": 76.9,
+        "mAP50": 81.3,
+        "F1": 76.2
+      },
+      "backbone_tr-c3-c3-c3_head_c3-c3-tr-tr": {
+        "P": 78.7,
+        "R": 69.7,
+        "mAP50": 76.3,
+        "F1": 73.9
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-c3-c3": {
+        "P": 80.2,
+        "R": 78.4,
+        "mAP50": 83.3,
+        "F1": 79.3
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-c3-tr": {
+        "P": 92.3,
+        "R": 70.1,
+        "mAP50": 84.0,
+        "F1": 79.7
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-tr-c3": {
+        "P": 74.2,
+        "R": 66.8,
+        "mAP50": 82.4,
+        "F1": 70.3
+      },
+      "backbone_tr-c3-c3-c3_head_c3-tr-tr-tr": {
+        "P": 63.3,
+        "R": 82.8,
+        "mAP50": 78.0,
+        "F1": 71.7
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-c3-c3": {
+        "P": 67.6,
+        "R": 82.8,
+        "mAP50": 78.9,
+        "F1": 74.4
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-c3-tr": {
+        "P": 79.6,
+        "R": 82.6,
+        "mAP50": 79.0,
+        "F1": 81.1
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-tr-c3": {
+        "P": 76.3,
+        "R": 71.3,
+        "mAP50": 75.5,
+        "F1": 73.7
+      },
+      "backbone_tr-c3-c3-c3_head_tr-c3-tr-tr": {
+        "P": 94.3,
+        "R": 58.8,
+        "mAP50": 79.0,
+        "F1": 72.4
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-c3-c3": {
+        "P": 71.7,
+        "R": 76.9,
+        "mAP50": 76.9,
+        "F1": 74.2
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-c3-tr": {
+        "P": 74.8,
+        "R": 69.7,
+        "mAP50": 76.9,
+        "F1": 72.2
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-tr-c3": {
+        "P": 73.7,
+        "R": 72.7,
+        "mAP50": 72.8,
+        "F1": 73.2
+      },
+      "backbone_tr-c3-c3-c3_head_tr-tr-tr-tr": {
+        "P": 77.6,
+        "R": 74.7,
+        "mAP50": 77.4,
+        "F1": 76.1
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-c3-c3": {
+        "P": 67.4,
+        "R": 75.6,
+        "mAP50": 73.2,
+        "F1": 71.3
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-c3-tr": {
+        "P": 86.4,
+        "R": 65.5,
+        "mAP50": 81.8,
+        "F1": 74.5
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-tr-c3": {
+        "P": 84.9,
+        "R": 72.7,
+        "mAP50": 82.2,
+        "F1": 78.3
+      },
+      "backbone_tr-c3-c3-tr_head_c3-c3-tr-tr": {
+        "P": 74.6,
+        "R": 72.7,
+        "mAP50": 78.2,
+        "F1": 73.6
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-c3-c3": {
+        "P": 75.5,
+        "R": 74.9,
+        "mAP50": 80.0,
+        "F1": 75.2
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-c3-tr": {
+        "P": 68.0,
+        "R": 74.7,
+        "mAP50": 75.7,
+        "F1": 71.2
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-tr-c3": {
+        "P": 59.7,
+        "R": 79.8,
+        "mAP50": 74.1,
+        "F1": 68.3
+      },
+      "backbone_tr-c3-c3-tr_head_c3-tr-tr-tr": {
+        "P": 78.2,
+        "R": 71.5,
+        "mAP50": 77.7,
+        "F1": 74.7
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-c3-c3": {
+        "P": 74.4,
+        "R": 69.6,
+        "mAP50": 74.8,
+        "F1": 71.9
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-c3-tr": {
+        "P": 73.2,
+        "R": 74.4,
+        "mAP50": 73.9,
+        "F1": 73.8
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-tr-c3": {
+        "P": 84.7,
+        "R": 79.6,
+        "mAP50": 80.7,
+        "F1": 82.1
+      },
+      "backbone_tr-c3-c3-tr_head_tr-c3-tr-tr": {
+        "P": 69.6,
+        "R": 84.7,
+        "mAP50": 83.4,
+        "F1": 76.4
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-c3-c3": {
+        "P": 70.5,
+        "R": 75.3,
+        "mAP50": 74.8,
+        "F1": 72.8
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-c3-tr": {
+        "P": 74.8,
+        "R": 87.6,
+        "mAP50": 80.4,
+        "F1": 80.7
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-tr-c3": {
+        "P": 81.6,
+        "R": 72.1,
+        "mAP50": 76.9,
+        "F1": 76.6
+      },
+      "backbone_tr-c3-c3-tr_head_tr-tr-tr-tr": {
+        "P": 71.4,
+        "R": 82.0,
+        "mAP50": 78.3,
+        "F1": 76.3
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-c3-c3": {
+        "P": 92.0,
+        "R": 65.4,
+        "mAP50": 80.7,
+        "F1": 76.5
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-c3-tr": {
+        "P": 78.7,
+        "R": 72.3,
+        "mAP50": 77.7,
+        "F1": 75.4
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-tr-c3": {
+        "P": 73.4,
+        "R": 82.8,
+        "mAP50": 88.4,
+        "F1": 77.8
+      },
+      "backbone_tr-c3-tr-c3_head_c3-c3-tr-tr": {
+        "P": 88.0,
+        "R": 69.7,
+        "mAP50": 80.7,
+        "F1": 77.8
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-c3-c3": {
+        "P": 83.0,
+        "R": 69.7,
+        "mAP50": 79.6,
+        "F1": 75.8
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-c3-tr": {
+        "P": 80.0,
+        "R": 69.0,
+        "mAP50": 79.3,
+        "F1": 74.1
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-tr-c3": {
+        "P": 74.3,
+        "R": 72.7,
+        "mAP50": 74.8,
+        "F1": 73.5
+      },
+      "backbone_tr-c3-tr-c3_head_c3-tr-tr-tr": {
+        "P": 74.2,
+        "R": 79.8,
+        "mAP50": 78.6,
+        "F1": 76.9
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-c3-c3": {
+        "P": 62.3,
+        "R": 76.9,
+        "mAP50": 75.9,
+        "F1": 68.8
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-c3-tr": {
+        "P": 76.8,
+        "R": 74.6,
+        "mAP50": 78.2,
+        "F1": 75.7
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-tr-c3": {
+        "P": 76.9,
+        "R": 70.0,
+        "mAP50": 76.5,
+        "F1": 73.3
+      },
+      "backbone_tr-c3-tr-c3_head_tr-c3-tr-tr": {
+        "P": 93.9,
+        "R": 62.8,
+        "mAP50": 73.2,
+        "F1": 75.3
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-c3-c3": {
+        "P": 68.9,
+        "R": 66.8,
+        "mAP50": 72.3,
+        "F1": 67.8
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-c3-tr": {
+        "P": 76.1,
+        "R": 65.5,
+        "mAP50": 71.0,
+        "F1": 70.4
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-tr-c3": {
+        "P": 92.9,
+        "R": 63.5,
+        "mAP50": 78.4,
+        "F1": 75.4
+      },
+      "backbone_tr-c3-tr-c3_head_tr-tr-tr-tr": {
+        "P": 76.8,
+        "R": 59.7,
+        "mAP50": 71.8,
+        "F1": 67.2
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-c3-c3": {
+        "P": 93.9,
+        "R": 61.4,
+        "mAP50": 77.5,
+        "F1": 74.2
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-c3-tr": {
+        "P": 69.1,
+        "R": 82.4,
+        "mAP50": 76.5,
+        "F1": 75.2
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-tr-c3": {
+        "P": 77.4,
+        "R": 71.7,
+        "mAP50": 75.3,
+        "F1": 74.4
+      },
+      "backbone_tr-c3-tr-tr_head_c3-c3-tr-tr": {
+        "P": 72.7,
+        "R": 69.9,
+        "mAP50": 71.9,
+        "F1": 71.3
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-c3-c3": {
+        "P": 66.2,
+        "R": 72.2,
+        "mAP50": 75.1,
+        "F1": 69.1
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-c3-tr": {
+        "P": 82.0,
+        "R": 68.2,
+        "mAP50": 78.6,
+        "F1": 74.5
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-tr-c3": {
+        "P": 76.4,
+        "R": 71.9,
+        "mAP50": 82.4,
+        "F1": 74.1
+      },
+      "backbone_tr-c3-tr-tr_head_c3-tr-tr-tr": {
+        "P": 88.9,
+        "R": 67.9,
+        "mAP50": 78.6,
+        "F1": 77.0
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-c3-c3": {
+        "P": 59.5,
+        "R": 82.8,
+        "mAP50": 79.7,
+        "F1": 69.2
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-c3-tr": {
+        "P": 67.2,
+        "R": 87.0,
+        "mAP50": 76.1,
+        "F1": 75.8
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-tr-c3": {
+        "P": 74.0,
+        "R": 72.7,
+        "mAP50": 78.0,
+        "F1": 73.3
+      },
+      "backbone_tr-c3-tr-tr_head_tr-c3-tr-tr": {
+        "P": 67.3,
+        "R": 71.4,
+        "mAP50": 69.1,
+        "F1": 69.3
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-c3-c3": {
+        "P": 93.6,
+        "R": 66.8,
+        "mAP50": 81.5,
+        "F1": 78.0
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-c3-tr": {
+        "P": 83.8,
+        "R": 71.2,
+        "mAP50": 82.9,
+        "F1": 77.0
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-tr-c3": {
+        "P": 92.3,
+        "R": 62.6,
+        "mAP50": 74.0,
+        "F1": 74.6
+      },
+      "backbone_tr-c3-tr-tr_head_tr-tr-tr-tr": {
+        "P": 80.2,
+        "R": 63.6,
+        "mAP50": 71.1,
+        "F1": 70.9
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-c3-c3": {
+        "P": 73.9,
+        "R": 67.8,
+        "mAP50": 76.7,
+        "F1": 70.7
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-c3-tr": {
+        "P": 78.9,
+        "R": 69.7,
+        "mAP50": 78.6,
+        "F1": 74.0
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-tr-c3": {
+        "P": 75.3,
+        "R": 69.0,
+        "mAP50": 73.3,
+        "F1": 72.0
+      },
+      "backbone_tr-tr-c3-c3_head_c3-c3-tr-tr": {
+        "P": 76.7,
+        "R": 65.5,
+        "mAP50": 76.0,
+        "F1": 70.7
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-c3-c3": {
+        "P": 67.6,
+        "R": 66.8,
+        "mAP50": 68.3,
+        "F1": 67.2
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-c3-tr": {
+        "P": 78.8,
+        "R": 64.3,
+        "mAP50": 72.8,
+        "F1": 70.8
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-tr-c3": {
+        "P": 79.7,
+        "R": 64.9,
+        "mAP50": 69.8,
+        "F1": 71.5
+      },
+      "backbone_tr-tr-c3-c3_head_c3-tr-tr-tr": {
+        "P": 77.2,
+        "R": 70.9,
+        "mAP50": 75.0,
+        "F1": 73.9
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-c3-c3": {
+        "P": 64.3,
+        "R": 68.5,
+        "mAP50": 75.7,
+        "F1": 66.3
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-c3-tr": {
+        "P": 72.5,
+        "R": 72.7,
+        "mAP50": 80.7,
+        "F1": 72.6
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-tr-c3": {
+        "P": 78.2,
+        "R": 65.9,
+        "mAP50": 75.3,
+        "F1": 71.5
+      },
+      "backbone_tr-tr-c3-c3_head_tr-c3-tr-tr": {
+        "P": 64.1,
+        "R": 72.7,
+        "mAP50": 75.9,
+        "F1": 68.1
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-c3-c3": {
+        "P": 69.9,
+        "R": 76.1,
+        "mAP50": 75.9,
+        "F1": 72.9
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-c3-tr": {
+        "P": 63.5,
+        "R": 69.7,
+        "mAP50": 71.5,
+        "F1": 66.5
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-tr-c3": {
+        "P": 72.7,
+        "R": 62.6,
+        "mAP50": 69.3,
+        "F1": 67.3
+      },
+      "backbone_tr-tr-c3-c3_head_tr-tr-tr-tr": {
+        "P": 70.5,
+        "R": 67.7,
+        "mAP50": 77.3,
+        "F1": 69.1
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-c3-c3": {
+        "P": 67.0,
+        "R": 81.6,
+        "mAP50": 75.8,
+        "F1": 73.6
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-c3-tr": {
+        "P": 87.2,
+        "R": 67.1,
+        "mAP50": 85.3,
+        "F1": 75.8
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-tr-c3": {
+        "P": 69.7,
+        "R": 75.9,
+        "mAP50": 78.6,
+        "F1": 72.7
+      },
+      "backbone_tr-tr-c3-tr_head_c3-c3-tr-tr": {
+        "P": 70.3,
+        "R": 69.7,
+        "mAP50": 78.8,
+        "F1": 70.0
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-c3-c3": {
+        "P": 73.2,
+        "R": 79.8,
+        "mAP50": 82.5,
+        "F1": 76.4
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-c3-tr": {
+        "P": 66.0,
+        "R": 66.8,
+        "mAP50": 71.5,
+        "F1": 66.4
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-tr-c3": {
+        "P": 95.0,
+        "R": 69.5,
+        "mAP50": 77.0,
+        "F1": 80.3
+      },
+      "backbone_tr-tr-c3-tr_head_c3-tr-tr-tr": {
+        "P": 80.1,
+        "R": 56.3,
+        "mAP50": 71.7,
+        "F1": 66.1
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-c3-c3": {
+        "P": 93.8,
+        "R": 71.5,
+        "mAP50": 80.7,
+        "F1": 81.1
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-c3-tr": {
+        "P": 70.9,
+        "R": 76.9,
+        "mAP50": 78.0,
+        "F1": 73.8
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-tr-c3": {
+        "P": 78.8,
+        "R": 68.5,
+        "mAP50": 76.3,
+        "F1": 73.3
+      },
+      "backbone_tr-tr-c3-tr_head_tr-c3-tr-tr": {
+        "P": 80.8,
+        "R": 78.2,
+        "mAP50": 81.4,
+        "F1": 79.5
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-c3-c3": {
+        "P": 88.3,
+        "R": 58.8,
+        "mAP50": 69.8,
+        "F1": 70.6
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-c3-tr": {
+        "P": 64.8,
+        "R": 66.8,
+        "mAP50": 71.0,
+        "F1": 65.8
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-tr-c3": {
+        "P": 63.0,
+        "R": 61.4,
+        "mAP50": 61.2,
+        "F1": 62.2
+      },
+      "backbone_tr-tr-c3-tr_head_tr-tr-tr-tr": {
+        "P": 83.6,
+        "R": 69.2,
+        "mAP50": 76.3,
+        "F1": 75.7
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-c3-c3": {
+        "P": 77.2,
+        "R": 65.5,
+        "mAP50": 76.2,
+        "F1": 70.9
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-c3-tr": {
+        "P": 78.6,
+        "R": 74.9,
+        "mAP50": 77.8,
+        "F1": 76.7
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-tr-c3": {
+        "P": 65.4,
+        "R": 75.6,
+        "mAP50": 78.9,
+        "F1": 70.1
+      },
+      "backbone_tr-tr-tr-c3_head_c3-c3-tr-tr": {
+        "P": 96.4,
+        "R": 65.8,
+        "mAP50": 79.2,
+        "F1": 78.2
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-c3-c3": {
+        "P": 79.7,
+        "R": 73.9,
+        "mAP50": 77.8,
+        "F1": 76.7
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-c3-tr": {
+        "P": 66.1,
+        "R": 69.1,
+        "mAP50": 75.8,
+        "F1": 67.6
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-tr-c3": {
+        "P": 70.6,
+        "R": 68.7,
+        "mAP50": 72.6,
+        "F1": 69.6
+      },
+      "backbone_tr-tr-tr-c3_head_c3-tr-tr-tr": {
+        "P": 64.2,
+        "R": 63.9,
+        "mAP50": 69.0,
+        "F1": 64.0
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-c3-c3": {
+        "P": 58.5,
+        "R": 68.5,
+        "mAP50": 70.2,
+        "F1": 63.1
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-c3-tr": {
+        "P": 73.1,
+        "R": 69.7,
+        "mAP50": 70.6,
+        "F1": 71.4
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-tr-c3": {
+        "P": 62.0,
+        "R": 63.9,
+        "mAP50": 62.8,
+        "F1": 62.9
+      },
+      "backbone_tr-tr-tr-c3_head_tr-c3-tr-tr": {
+        "P": 71.3,
+        "R": 60.5,
+        "mAP50": 72.5,
+        "F1": 65.5
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-c3-c3": {
+        "P": 77.1,
+        "R": 52.5,
+        "mAP50": 65.8,
+        "F1": 62.5
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-c3-tr": {
+        "P": 68.5,
+        "R": 60.9,
+        "mAP50": 67.3,
+        "F1": 64.5
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-tr-c3": {
+        "P": 61.9,
+        "R": 64.6,
+        "mAP50": 64.4,
+        "F1": 63.2
+      },
+      "backbone_tr-tr-tr-c3_head_tr-tr-tr-tr": {
+        "P": 94.7,
+        "R": 58.9,
+        "mAP50": 67.1,
+        "F1": 72.6
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-c3-c3": {
+        "P": 90.7,
+        "R": 72.7,
+        "mAP50": 80.8,
+        "F1": 80.7
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-c3-tr": {
+        "P": 92.6,
+        "R": 64.7,
+        "mAP50": 75.3,
+        "F1": 76.2
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-tr-c3": {
+        "P": 90.8,
+        "R": 65.4,
+        "mAP50": 75.5,
+        "F1": 76.0
+      },
+      "backbone_tr-tr-tr-tr_head_c3-c3-tr-tr": {
+        "P": 81.0,
+        "R": 67.6,
+        "mAP50": 74.3,
+        "F1": 73.7
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-c3-c3": {
+        "P": 94.9,
+        "R": 56.3,
+        "mAP50": 76.3,
+        "F1": 70.7
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-c3-tr": {
+        "P": 66.9,
+        "R": 66.8,
+        "mAP50": 69.2,
+        "F1": 66.8
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-tr-c3": {
+        "P": 71.4,
+        "R": 56.7,
+        "mAP50": 61.4,
+        "F1": 63.2
+      },
+      "backbone_tr-tr-tr-tr_head_c3-tr-tr-tr": {
+        "P": 91.5,
+        "R": 59.7,
+        "mAP50": 71.1,
+        "F1": 72.3
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-c3-c3": {
+        "P": 62.4,
+        "R": 72.7,
+        "mAP50": 71.3,
+        "F1": 67.2
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-c3-tr": {
+        "P": 77.0,
+        "R": 62.4,
+        "mAP50": 72.3,
+        "F1": 68.9
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-tr-c3": {
+        "P": 66.3,
+        "R": 73.9,
+        "mAP50": 73.4,
+        "F1": 69.9
+      },
+      "backbone_tr-tr-tr-tr_head_tr-c3-tr-tr": {
+        "P": 86.6,
+        "R": 55.5,
+        "mAP50": 70.5,
+        "F1": 67.6
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-c3-c3": {
+        "P": 55.7,
+        "R": 69.7,
+        "mAP50": 66.5,
+        "F1": 61.9
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-c3-tr": {
+        "P": 58.5,
+        "R": 62.0,
+        "mAP50": 61.8,
+        "F1": 60.2
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-tr-c3": {
+        "P": 96.1,
+        "R": 43.7,
+        "mAP50": 62.4,
+        "F1": 60.1
+      },
+      "backbone_tr-tr-tr-tr_head_tr-tr-tr-tr": {
+        "P": 71.5,
+        "R": 69.7,
+        "mAP50": 68.7,
+        "F1": 70.6
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-c3-c3": {
+        "P": 83.6,
+        "R": 80.6,
+        "mAP50": 84.6,
+        "F1": 82.1
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-c3-tr": {
+        "P": 74.0,
+        "R": 89.9,
+        "mAP50": 86.3,
+        "F1": 81.2
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-tr-c3": {
+        "P": 83.4,
+        "R": 89.9,
+        "mAP50": 92.0,
+        "F1": 86.5
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-c3-tr": {
+        "P": 73.7,
+        "R": 87.0,
+        "mAP50": 84.1,
+        "F1": 79.8
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-tr-c3": {
+        "P": 75.3,
+        "R": 75.6,
+        "mAP50": 79.0,
+        "F1": 75.4
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-c3-tr": {
+        "P": 76.8,
+        "R": 89.9,
+        "mAP50": 89.2,
+        "F1": 82.8
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-tr-c3": {
+        "P": 86.0,
+        "R": 74.9,
+        "mAP50": 81.0,
+        "F1": 80.1
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-tr-tr": {
+        "P": 79.3,
+        "R": 78.8,
+        "mAP50": 82.6,
+        "F1": 79.0
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-c3-c3": {
+        "P": 76.7,
+        "R": 72.7,
+        "mAP50": 81.4,
+        "F1": 74.6
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-c3-tr": {
+        "P": 89.0,
+        "R": 89.9,
+        "mAP50": 92.9,
+        "F1": 89.4
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-c3-c3": {
+        "P": 78.3,
+        "R": 81.1,
+        "mAP50": 81.8,
+        "F1": 79.7
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-c3-tr": {
+        "P": 75.3,
+        "R": 82.8,
+        "mAP50": 81.8,
+        "F1": 78.9
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-tr-c3": {
+        "P": 78.2,
+        "R": 77.5,
+        "mAP50": 83.6,
+        "F1": 77.8
+      },
+      "backbone_c3-c3-c3-tr_head_c3-c3-tr-tr": {
+        "P": 86.6,
+        "R": 94.1,
+        "mAP50": 92.1,
+        "F1": 90.2
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-c3-c3": {
+        "P": 63.9,
+        "R": 72.7,
+        "mAP50": 78.1,
+        "F1": 68.0
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-c3-tr": {
+        "P": 80.9,
+        "R": 87.0,
+        "mAP50": 82.5,
+        "F1": 83.8
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-tr-c3": {
+        "P": 77.3,
+        "R": 82.1,
+        "mAP50": 84.2,
+        "F1": 79.6
+      },
+      "backbone_c3-c3-c3-tr_head_c3-tr-tr-tr": {
+        "P": 64.8,
+        "R": 75.5,
+        "mAP50": 76.5,
+        "F1": 69.7
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-c3-c3": {
+        "P": 80.2,
+        "R": 89.9,
+        "mAP50": 84.9,
+        "F1": 84.8
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-c3-tr": {
+        "P": 80.8,
+        "R": 87.0,
+        "mAP50": 88.7,
+        "F1": 83.8
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-tr-c3": {
+        "P": 87.9,
+        "R": 79.8,
+        "mAP50": 90.6,
+        "F1": 83.7
+      },
+      "backbone_c3-c3-c3-tr_head_tr-c3-tr-tr": {
+        "P": 83.0,
+        "R": 69.7,
+        "mAP50": 87.3,
+        "F1": 75.8
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-c3-c3": {
+        "P": 91.0,
+        "R": 82.8,
+        "mAP50": 86.9,
+        "F1": 86.7
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-c3-tr": {
+        "P": 80.3,
+        "R": 82.8,
+        "mAP50": 87.3,
+        "F1": 81.5
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-tr-c3": {
+        "P": 84.5,
+        "R": 82.8,
+        "mAP50": 86.7,
+        "F1": 83.6
+      },
+      "backbone_c3-c3-c3-tr_head_tr-tr-tr-tr": {
+        "P": 78.7,
+        "R": 87.4,
+        "mAP50": 89.6,
+        "F1": 82.8
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-c3-c3": {
+        "P": 94.4,
+        "R": 69.7,
+        "mAP50": 83.1,
+        "F1": 80.2
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-c3-tr": {
+        "P": 92.8,
+        "R": 59.7,
+        "mAP50": 77.8,
+        "F1": 72.7
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-tr-c3": {
+        "P": 93.8,
+        "R": 72.3,
+        "mAP50": 87.7,
+        "F1": 81.7
+      },
+      "backbone_c3-c3-tr-c3_head_c3-c3-tr-tr": {
+        "P": 96.6,
+        "R": 76.6,
+        "mAP50": 86.7,
+        "F1": 85.4
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-c3-c3": {
+        "P": 75.6,
+        "R": 71.6,
+        "mAP50": 74.6,
+        "F1": 73.5
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-c3-tr": {
+        "P": 85.0,
+        "R": 79.8,
+        "mAP50": 85.2,
+        "F1": 82.3
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-tr-c3": {
+        "P": 78.1,
+        "R": 69.7,
+        "mAP50": 79.7,
+        "F1": 73.7
+      },
+      "backbone_c3-c3-tr-c3_head_c3-tr-tr-tr": {
+        "P": 70.7,
+        "R": 82.8,
+        "mAP50": 84.4,
+        "F1": 76.3
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-c3-c3": {
+        "P": 95.3,
+        "R": 58.0,
+        "mAP50": 83.5,
+        "F1": 72.1
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-c3-tr": {
+        "P": 84.5,
+        "R": 75.7,
+        "mAP50": 81.8,
+        "F1": 79.9
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-tr-c3": {
+        "P": 85.4,
+        "R": 70.2,
+        "mAP50": 82.0,
+        "F1": 77.1
+      },
+      "backbone_c3-c3-tr-c3_head_tr-c3-tr-tr": {
+        "P": 77.3,
+        "R": 76.9,
+        "mAP50": 80.4,
+        "F1": 77.1
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-c3-c3": {
+        "P": 68.2,
+        "R": 78.9,
+        "mAP50": 77.9,
+        "F1": 73.2
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-c3-tr": {
+        "P": 83.2,
+        "R": 88.5,
+        "mAP50": 89.7,
+        "F1": 85.8
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-tr-c3": {
+        "P": 94.0,
+        "R": 70.9,
+        "mAP50": 78.4,
+        "F1": 80.8
+      },
+      "backbone_c3-c3-tr-c3_head_tr-tr-tr-tr": {
+        "P": 96.2,
+        "R": 71.2,
+        "mAP50": 87.6,
+        "F1": 81.8
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-c3-c3": {
+        "P": 69.1,
+        "R": 67.9,
+        "mAP50": 75.3,
+        "F1": 68.5
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-c3-tr": {
+        "P": 73.2,
+        "R": 81.6,
+        "mAP50": 79.3,
+        "F1": 77.2
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-tr-c3": {
+        "P": 75.4,
+        "R": 76.9,
+        "mAP50": 86.7,
+        "F1": 76.1
+      },
+      "backbone_c3-c3-tr-tr_head_c3-c3-tr-tr": {
+        "P": 86.1,
+        "R": 76.9,
+        "mAP50": 82.2,
+        "F1": 81.2
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-c3-c3": {
+        "P": 75.1,
+        "R": 67.7,
+        "mAP50": 79.8,
+        "F1": 71.2
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-c3-tr": {
+        "P": 82.2,
+        "R": 68.1,
+        "mAP50": 79.1,
+        "F1": 74.5
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-tr-c3": {
+        "P": 86.4,
+        "R": 81.7,
+        "mAP50": 86.2,
+        "F1": 84.0
+      },
+      "backbone_c3-c3-tr-tr_head_c3-tr-tr-tr": {
+        "P": 81.3,
+        "R": 82.8,
+        "mAP50": 81.5,
+        "F1": 82.0
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-c3-c3": {
+        "P": 67.7,
+        "R": 62.1,
+        "mAP50": 70.3,
+        "F1": 64.8
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-c3-tr": {
+        "P": 82.0,
+        "R": 65.8,
+        "mAP50": 76.1,
+        "F1": 73.0
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-tr-c3": {
+        "P": 69.4,
+        "R": 65.2,
+        "mAP50": 76.0,
+        "F1": 67.2
+      },
+      "backbone_c3-c3-tr-tr_head_tr-c3-tr-tr": {
+        "P": 71.4,
+        "R": 84.0,
+        "mAP50": 82.9,
+        "F1": 77.2
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-c3-c3": {
+        "P": 72.8,
+        "R": 68.7,
+        "mAP50": 76.8,
+        "F1": 70.7
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-c3-tr": {
+        "P": 75.1,
+        "R": 80.7,
+        "mAP50": 84.3,
+        "F1": 77.8
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-tr-c3": {
+        "P": 86.0,
+        "R": 67.6,
+        "mAP50": 83.1,
+        "F1": 75.7
+      },
+      "backbone_c3-c3-tr-tr_head_tr-tr-tr-tr": {
+        "P": 75.2,
+        "R": 73.9,
+        "mAP50": 83.4,
+        "F1": 74.5
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-c3-c3": {
+        "P": 86.0,
+        "R": 87.0,
+        "mAP50": 88.8,
+        "F1": 86.5
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-c3-tr": {
+        "P": 81.0,
+        "R": 70.8,
+        "mAP50": 80.4,
+        "F1": 75.6
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-tr-c3": {
+        "P": 81.3,
+        "R": 72.1,
+        "mAP50": 82.9,
+        "F1": 76.4
+      },
+      "backbone_c3-tr-c3-c3_head_c3-c3-tr-tr": {
+        "P": 83.7,
+        "R": 79.8,
+        "mAP50": 89.4,
+        "F1": 81.7
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-c3-c3": {
+        "P": 73.6,
+        "R": 67.7,
+        "mAP50": 73.7,
+        "F1": 70.5
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-c3-tr": {
+        "P": 74.2,
+        "R": 72.7,
+        "mAP50": 78.6,
+        "F1": 73.4
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-tr-c3": {
+        "P": 69.9,
+        "R": 70.0,
+        "mAP50": 76.6,
+        "F1": 70.0
+      },
+      "backbone_c3-tr-c3-c3_head_c3-tr-tr-tr": {
+        "P": 83.9,
+        "R": 79.8,
+        "mAP50": 82.3,
+        "F1": 81.8
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-c3-c3": {
+        "P": 84.9,
+        "R": 74.2,
+        "mAP50": 85.0,
+        "F1": 79.2
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-c3-tr": {
+        "P": 78.9,
+        "R": 71.4,
+        "mAP50": 79.1,
+        "F1": 75.0
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-tr-c3": {
+        "P": 70.7,
+        "R": 84.0,
+        "mAP50": 83.3,
+        "F1": 76.8
+      },
+      "backbone_c3-tr-c3-c3_head_tr-c3-tr-tr": {
+        "P": 89.8,
+        "R": 69.7,
+        "mAP50": 83.7,
+        "F1": 78.5
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-c3-c3": {
+        "P": 66.8,
+        "R": 69.7,
+        "mAP50": 68.1,
+        "F1": 68.2
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-c3-tr": {
+        "P": 79.0,
+        "R": 70.6,
+        "mAP50": 81.2,
+        "F1": 74.6
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-tr-c3": {
+        "P": 73.8,
+        "R": 69.7,
+        "mAP50": 75.0,
+        "F1": 71.7
+      },
+      "backbone_c3-tr-c3-c3_head_tr-tr-tr-tr": {
+        "P": 82.0,
+        "R": 71.1,
+        "mAP50": 78.9,
+        "F1": 76.2
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-c3-c3": {
+        "P": 70.0,
+        "R": 80.8,
+        "mAP50": 82.8,
+        "F1": 75.0
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-c3-tr": {
+        "P": 87.6,
+        "R": 79.8,
+        "mAP50": 82.9,
+        "F1": 83.5
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-tr-c3": {
+        "P": 83.7,
+        "R": 79.8,
+        "mAP50": 82.5,
+        "F1": 81.7
+      },
+      "backbone_c3-tr-c3-tr_head_c3-c3-tr-tr": {
+        "P": 79.3,
+        "R": 69.4,
+        "mAP50": 78.7,
+        "F1": 74.0
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-c3-c3": {
+        "P": 74.3,
+        "R": 76.0,
+        "mAP50": 78.6,
+        "F1": 75.1
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-c3-tr": {
+        "P": 89.9,
+        "R": 58.1,
+        "mAP50": 75.3,
+        "F1": 70.6
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-tr-c3": {
+        "P": 77.1,
+        "R": 75.6,
+        "mAP50": 79.8,
+        "F1": 76.3
+      },
+      "backbone_c3-tr-c3-tr_head_c3-tr-tr-tr": {
+        "P": 85.9,
+        "R": 67.0,
+        "mAP50": 81.9,
+        "F1": 75.3
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-c3-c3": {
+        "P": 82.8,
+        "R": 69.1,
+        "mAP50": 77.7,
+        "F1": 75.3
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-c3-tr": {
+        "P": 72.9,
+        "R": 85.4,
+        "mAP50": 84.9,
+        "F1": 78.7
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-tr-c3": {
+        "P": 81.9,
+        "R": 72.7,
+        "mAP50": 81.6,
+        "F1": 77.0
+      },
+      "backbone_c3-tr-c3-tr_head_tr-c3-tr-tr": {
+        "P": 75.6,
+        "R": 72.7,
+        "mAP50": 83.4,
+        "F1": 74.1
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-c3-c3": {
+        "P": 96.9,
+        "R": 61.5,
+        "mAP50": 77.3,
+        "F1": 75.2
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-c3-tr": {
+        "P": 96.4,
+        "R": 66.1,
+        "mAP50": 77.8,
+        "F1": 78.4
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-tr-c3": {
+        "P": 82.6,
+        "R": 69.2,
+        "mAP50": 76.6,
+        "F1": 75.3
+      },
+      "backbone_c3-tr-c3-tr_head_tr-tr-tr-tr": {
+        "P": 61.5,
+        "R": 73.9,
+        "mAP50": 69.5,
+        "F1": 67.1
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-c3-c3": {
+        "P": 62.4,
+        "R": 77.2,
+        "mAP50": 75.7,
+        "F1": 69.0
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-c3-tr": {
+        "P": 77.9,
+        "R": 62.6,
+        "mAP50": 76.2,
+        "F1": 69.4
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-tr-c3": {
+        "P": 91.0,
+        "R": 68.5,
+        "mAP50": 79.9,
+        "F1": 78.2
+      },
+      "backbone_c3-tr-tr-c3_head_c3-c3-tr-tr": {
+        "P": 67.5,
+        "R": 79.8,
+        "mAP50": 82.7,
+        "F1": 73.1
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-c3-c3": {
+        "P": 70.6,
+        "R": 66.1,
+        "mAP50": 71.7,
+        "F1": 68.3
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-c3-tr": {
+        "P": 72.5,
+        "R": 66.8,
+        "mAP50": 69.6,
+        "F1": 69.5
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-tr-c3": {
+        "P": 87.7,
+        "R": 74.4,
+        "mAP50": 82.1,
+        "F1": 80.5
+      },
+      "backbone_c3-tr-tr-c3_head_c3-tr-tr-tr": {
+        "P": 77.6,
+        "R": 69.7,
+        "mAP50": 70.7,
+        "F1": 73.4
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-c3-c3": {
+        "P": 79.5,
+        "R": 67.7,
+        "mAP50": 77.8,
+        "F1": 73.1
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-tr-c3": {
+        "P": 83.6,
+        "R": 62.1,
+        "mAP50": 77.1,
+        "F1": 71.3
+      },
+      "backbone_c3-tr-tr-c3_head_tr-c3-tr-tr": {
+        "P": 59.1,
+        "R": 71.6,
+        "mAP50": 71.2,
+        "F1": 64.8
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-c3-c3": {
+        "P": 76.8,
+        "R": 59.7,
+        "mAP50": 71.6,
+        "F1": 67.2
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-c3-tr": {
+        "P": 81.7,
+        "R": 58.8,
+        "mAP50": 67.4,
+        "F1": 68.4
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-tr-c3": {
+        "P": 62.3,
+        "R": 66.0,
+        "mAP50": 66.2,
+        "F1": 64.1
+      },
+      "backbone_c3-tr-tr-c3_head_tr-tr-tr-tr": {
+        "P": 65.1,
+        "R": 62.6,
+        "mAP50": 68.4,
+        "F1": 63.8
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-c3-c3": {
+        "P": 66.8,
+        "R": 79.8,
+        "mAP50": 77.8,
+        "F1": 72.7
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-c3-tr": {
+        "P": 81.0,
+        "R": 70.2,
+        "mAP50": 81.3,
+        "F1": 75.2
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-tr-c3": {
+        "P": 65.9,
+        "R": 72.7,
+        "mAP50": 73.8,
+        "F1": 69.1
+      },
+      "backbone_c3-tr-tr-tr_head_c3-c3-tr-tr": {
+        "P": 73.2,
+        "R": 69.2,
+        "mAP50": 79.1,
+        "F1": 71.1
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-c3-c3": {
+        "P": 84.9,
+        "R": 66.8,
+        "mAP50": 77.3,
+        "F1": 74.8
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-c3-tr": {
+        "P": 83.9,
+        "R": 79.4,
+        "mAP50": 83.1,
+        "F1": 81.6
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-tr-c3": {
+        "P": 89.5,
+        "R": 69.7,
+        "mAP50": 74.2,
+        "F1": 78.4
+      },
+      "backbone_c3-tr-tr-tr_head_c3-tr-tr-tr": {
+        "P": 93.6,
+        "R": 69.7,
+        "mAP50": 80.0,
+        "F1": 79.9
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-c3-c3": {
+        "P": 74.4,
+        "R": 74.8,
+        "mAP50": 84.4,
+        "F1": 74.6
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-c3-tr": {
+        "P": 70.3,
+        "R": 69.7,
+        "mAP50": 71.7,
+        "F1": 70.0
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-tr-c3": {
+        "P": 78.6,
+        "R": 66.8,
+        "mAP50": 73.5,
+        "F1": 72.2
+      },
+      "backbone_c3-tr-tr-tr_head_tr-c3-tr-tr": {
+        "P": 78.9,
+        "R": 78.6,
+        "mAP50": 83.9,
+        "F1": 78.8
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-c3-c3": {
+        "P": 79.5,
+        "R": 60.6,
+        "mAP50": 67.0,
+        "F1": 68.8
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-c3-tr": {
+        "P": 95.5,
+        "R": 62.0,
+        "mAP50": 70.0,
+        "F1": 75.2
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-tr-c3": {
+        "P": 78.3,
+        "R": 65.3,
+        "mAP50": 72.9,
+        "F1": 71.2
+      },
+      "backbone_c3-tr-tr-tr_head_tr-tr-tr-tr": {
+        "P": 68.0,
+        "R": 62.6,
+        "mAP50": 69.4,
+        "F1": 65.2
+      },
+      "backbone_c3-c3-c3-c3_head_c3-c3-tr-tr": {
+        "P": 87.1,
+        "R": 88.6,
+        "mAP50": 90.6,
+        "F1": 87.8
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-c3-c3": {
+        "P": 80.8,
+        "R": 76.3,
+        "mAP50": 80.8,
+        "F1": 78.5
+      },
+      "backbone_c3-c3-c3-c3_head_c3-tr-tr-tr": {
+        "P": 79.9,
+        "R": 84.0,
+        "mAP50": 85.5,
+        "F1": 81.9
+      },
+      "backbone_c3-c3-c3-c3_head_tr-c3-c3-c3": {
+        "P": 70.9,
+        "R": 78.6,
+        "mAP50": 77.7,
+        "F1": 74.6
+      },
+      "backbone_c3-c3-c3-c3_head_tr-tr-tr-c3": {
+        "P": 76.9,
+        "R": 81.1,
+        "mAP50": 83.9,
+        "F1": 78.9
+      }
+    }
+  },
+  "izgara_ozet": {
+    "252550": {
+      "n": 256,
+      "ort": 76.9,
+      "ss": 6.26,
+      "min": 56.0,
+      "maks": 91.8,
+      "en_iyi": "backbone_c3-c3-c3-tr_head_c3-tr-tr-c3",
+      "en_kotu": "backbone_tr-tr-tr-tr_head_tr-tr-c3-tr",
+      "kaynak": "ham kosum ciktisi C3TR_kanonik_768.csv (conf 0.001 / iou 0.5)"
+    },
+    "333334": {
+      "n": 256,
+      "ort": 76.94,
+      "ss": 6.07,
+      "min": 57.3,
+      "maks": 93.7,
+      "en_iyi": "backbone_c3-c3-c3-tr_head_tr-tr-tr-tr",
+      "en_kotu": "backbone_tr-tr-tr-c3_head_tr-tr-tr-c3",
+      "kaynak": "ham kosum ciktisi C3TR_kanonik_768.csv (conf 0.001 / iou 0.5)"
+    },
+    "map1": {
+      "n": 256,
+      "ort": 77.92,
+      "ss": 6.03,
+      "min": 61.2,
+      "maks": 92.9,
+      "en_iyi": "backbone_c3-c3-c3-c3_head_tr-tr-c3-tr",
+      "en_kotu": "backbone_tr-tr-c3-tr_head_tr-tr-tr-c3",
+      "kaynak": "ham kosum ciktisi C3TR_kanonik_768.csv (conf 0.001 / iou 0.5)"
+    }
+  },
+  "_izgara_dogrulama": {
+    "karsilastirilan": 3072,
+    "ayrisan": 0,
+    "ornekler": [],
+    "duyarlik": "bir ondalik (kayit ve ek2.tex ikisi de 1 basamak tasiyor)",
+    "ham_duyarlikta_sinandi_mi": false,
+    "sonuc": "BIR ONDALIK DUYARLIKTA ORTUSUYOR; ham duyarlikta sinanmadi",
+    "not_": "ek2.tex burada kaynak degil sinama hedefidir; kayit ham veriden uretilir"
+  },
+  "secim_korlugu": {
+    "doyma_aile_epok": {
+      "ultralytics_1000": {
+        "n": 128,
+        "ss": 0.002236,
+        "benzersiz": 20,
+        "ort": 0.9944,
+        "ust099": 95.3
+      },
+      "ultralytics_3000": {
+        "n": 126,
+        "ss": 0.0,
+        "benzersiz": 1,
+        "ort": 0.995,
+        "ust099": 100.0
+      },
+      "ultralytics_6000": {
+        "n": 139,
+        "ss": 0.0,
+        "benzersiz": 1,
+        "ort": 0.995,
+        "ust099": 100.0
+      },
+      "v4_1000": {
+        "n": 4,
+        "ss": 0.022678,
+        "benzersiz": 4,
+        "ort": 0.562,
+        "ust099": 0.0
+      },
+      "v4_3000": {
+        "n": 4,
+        "ss": 0.009919,
+        "benzersiz": 4,
+        "ort": 0.5929,
+        "ust099": 0.0
+      },
+      "v4_6000": {
+        "n": 4,
+        "ss": 0.009262,
+        "benzersiz": 4,
+        "ort": 0.6039,
+        "ust099": 0.0
+      },
+      "v7_1000": {
+        "n": 24,
+        "ss": 0.216033,
+        "benzersiz": 24,
+        "ort": 0.7749,
+        "ust099": 12.5
+      },
+      "v7_3000": {
+        "n": 24,
+        "ss": 0.079916,
+        "benzersiz": 20,
+        "ort": 0.9628,
+        "ust099": 62.5
+      },
+      "v7_6000": {
+        "n": 24,
+        "ss": 0.007568,
+        "benzersiz": 17,
+        "ort": 0.994,
+        "ust099": 95.8
+      }
+    },
+    "doyma_ozet": "ULTRALYTICS 3000 ve 6000 epok: ss=0,000000 tek deger 0,995 (tam sabit; secim olcutu ayirt edici degiskenlik tasimiyor); 1000 epok ~%95 >0,99. v7 6000'de yakinsiyor (~%96), v4 ayri dusuk aile (~0,60). COK KAYNAK: PLATO CSV + 910 disk-scan 420 hucre + 155 raw results.csv.",
+    "best_last": {
+      "n": 261,
+      "ortanca_puan": 0.139,
+      "yuzde_lehte": 52.5,
+      "wilcoxon_p": 0.0195,
+      "epok_ortanca": {
+        "1000": 0.751,
+        "3000": 0.0,
+        "6000": 0.0
+      },
+      "kaynak": "best.pt vs last.pt test mAP@0,5 farki (puan). Hikaye epoga gore SONUM: 1000 lehte, 3000/6000 sifir."
+    }
+  },
+  "sinif_bazli": {
+    "n_hucre": 504,
+    "n_model": 43,
+    "koken_uyarisi": "mAP sutunlari ek6 yayimlanmis; K/D sutunlari 910 yeniden-olcum; v7 protokol karisik; 4 hucrede K/D belirsiz. mAP tabanli grafik guvenli.",
+    "asimetri": {
+      "n": 504,
+      "pozitif": 504,
+      "ort_puan": 47.2,
+      "not_": "malign(kotu) hep benign(iyi) ustunde. Tezde bolum3:293'te ZATEN VAR - TEYIT, yeni bulgu degil."
+    },
+    "rho": {
+      "genel_iyi": 0.901,
+      "genel_kotu": 0.456,
+      "kotu_iyi": 0.073,
+      "kotu_iyi_p": 0.1,
+      "not_": "kotu_iyi BAGIMSIZLIK DEGIL (fazla soylem; p=0,10 sifiri reddetmiyor ama bagimsizlik kaniti degil). Asil kontrast: genel-iyi(0,90) >> genel-kotu(0,46) => genel mAP siralamasi buyuk olcude BENIGN siralamasi."
+    },
+    "epok_sinif_etkisi": {
+      "kontrast": "6000 eksi 1000 epok",
+      "n_model": 43,
+      "iyi_ort_puan": 7.46,
+      "iyi_pozitif": 38,
+      "iyi_p": 2.6e-08,
+      "kotu_ort_puan": -1.49,
+      "kotu_pozitif": 13,
+      "kotu_p": 0.029,
+      "not_": "MODEL duzeyi (n=43); hucre duzeyi (n=168) SOZDE-YINELEME (ayni model 4 cozunurlukte). Epok artinca BENIGN iyilesir, MALIGN geriler (ters etki)."
+    }
+  },
+  "ayristirma_kolu": {
+    "tanim": "sampiyonun cozulmus yapilandirmasi, toplu is boyutu 8'e SABIT, 30 tohum, Kohort B'nin makinesinde (dnnlab3)",
+    "n": 30,
+    "ort": 69.6001,
+    "ss": 3.7496,
+    "medyan": 69.7028,
+    "min": 63.4639,
+    "maks": 79.9009,
+    "sampiyon": {
+      "deger": 79.9009,
+      "sira_genel": 1,
+      "malign": 89.1043,
+      "sira_malign": 26,
+      "benign": 70.6975,
+      "sira_benign": 1
+    },
+    "sampiyon_disi_29": {
+      "n": 29,
+      "ort": 69.2449,
+      "ss": 3.2621,
+      "maks": 76.021,
+      "z_sampiyon": 3.2666,
+      "ustunde_kosum": 0
+    },
+    "sinif": {
+      "malign_ort": 91.5191,
+      "malign_ss": 2.4324,
+      "benign_ort": 47.6811,
+      "benign_ss": 7.1426
+    },
+    "varyans_ayrisimi": {
+      "birim": "puan^2",
+      "kimlik": "Var(genel)=[Var(mal)+Var(ben)+2Cov]/4",
+      "var_malign": 5.9168,
+      "var_benign": 51.0168,
+      "kovaryans": -0.3479,
+      "var_genel_hesaplanan": 14.0594,
+      "var_genel_olculen": 14.0594,
+      "kimlik_artik": 3.8324e-05,
+      "kimlik_kapandi": true,
+      "esik_gerekcesi": "CSV 6 haneye yuvarli; 100x olcekte yuvarlama 1e-4 puan -> varyansta ~1e-5 puan^2. Esik 1e-3 bu mertebenin iki kat ustunde secildi. Cebirsel kimlik TAM; artik yalniz yuvarlamadandir.",
+      "pay_benign_yuzde": 90.72,
+      "pay_malign_yuzde": 10.52,
+      "pay_kovaryans_yuzde": -1.24
+    },
+    "korelasyon": {
+      "birim": "kosum",
+      "n": 30,
+      "pearson_genel_benign": 0.946,
+      "pearson_genel_malign": 0.3053,
+      "spearman_genel_benign": 0.9101,
+      "spearman_genel_malign": 0.4082,
+      "not_": "BIRIM KOSUM (n=30). sinif_bazli.rho ise 504 HUCRE uzerinde; iki buyukluk ayridir, karsilastirilmaz."
+    },
+    "sira_ortusmesi": {
+      "en_iyi_1": {
+        "genel_kesisim_benign": 1,
+        "genel_kesisim_malign": 0
+      },
+      "en_iyi_3": {
+        "genel_kesisim_benign": 3,
+        "genel_kesisim_malign": 0
+      },
+      "en_iyi_5": {
+        "genel_kesisim_benign": 5,
+        "genel_kesisim_malign": 0
+      }
+    },
+    "kaynak": "veri/_ayristirma30_sgd_b8_155_20261015.csv",
+    "not_": "EK-82. Kanonik sinif_bazli.rho notu 504 hucre duzeyinde 'genel siralama buyuk olcude benign siralamasi' demisti; bu blok ayni olguyu 30 KOSUM duzeyinde niceler (varyans payi + sira ortusmesi). Yeni bulgu degil, nicelemedir."
+  },
+  "capraz_makine": {
+    "tanim": "ayni yapilandirma + ayni tohum + ayni kart modeli (RTX 2080 Ti) + ayni ultralytics 8.3.63 + BAYT-AYNI veri; fark yalniz fiziksel makine ve CUDA derlemesi (cu118 vs cu121)",
+    "eksen_ayristirilabilir_mi": false,
+    "eksen_notu": "makine ile CUDA derlemesi BIRLIKTE degisiyor; iki etken ayristirilamaz",
+    "UCUNCU_ETKEN_UYARISI": {
+      "bulgu": "SURUCU SURUMU bu olcumun HER IKI UCUNDA DA KAYITLI DEGIL. CSV'de surucu kolonu yok (kolonlar: kosum, mAP50, mAP5095, P, R, AP_malign, AP_benign) ve kosum kutuklerinde surucu kaydi bulunamadi -- kutukler yalniz Python/torch surumunu tasiyor.",
+      "sonuc": "Dolayisiyla 'iki etken' ifadesi EKSIK olabilir: eksen makine + CUDA derlemesi + SURUCU tasiyor olabilir ve ucuncusu DISLANAMAZ. Kayitta olmayan bir etkenin yoklugu iddia edilemez.",
+      "E2_TABLOSU_TASINAMAZ": "19.10'da E2 icin olculen surucu tablosu (155: 570.124.04 · dnnlab3: 525.125.06 · 910: 520.61.05 · 475: 470.256.02) BU OLCUMU TARIF ETMEZ: E2 yigini torch 2.4.1, M3 yigini torch 2.2.2+cu118 / ultralytics 8.3.63, ve olcum tarihleri ayri (16.10 ↔ 19.10). Baska bir deneyin donanim tablosunu buraya tasimak, gun icinde uc kez curuttugumuz hatanin aynisi olurdu.",
+      "nasil_kapanir": "yeniden olcumde surucu surumu CSV kolonu olarak kaydedilir (dnnlab3 kuyrugundaki IS 1 ve IS 2 bu sarti tasiyor)",
+      "GERIYE_DONUK_ATIF_21_10": {
+        "yontem": "910'un 21.10 bulgusu: surucu surumu KOSUM ANINDA kaydedilmemis olsa da DOLAYLI olarak atfedilebilir. Iki bagimsiz iz: (a) surum-adli modul dosyasinin mtime'i, (b) paket yoneticisi kutuklerinin ilgili penceredeki sessizligi. Kurtarilamaz olan surucunun kendisi degil, o anda hangisinin yuklu oldugunun KAYDI.",
+        "olcum_tarihi": "2026-10-16 (veri/_capraz_makine_155_20261016.csv)",
+        "uc_155": {
+          "surucu": "570.124.04",
+          "modul_mtime": "2025-03-05 22:29 (libnvidia-glcore.so.570.124.04, x86_64 ve i386)",
+          "paket_izi": "apt history 2025-03-05 22:09:14 'apt-get purge nvidia-*'; modul dosyalari 22:29'da yazilmis -> .run yukleyicisiyle kurulum, dpkg'de install satiri olmamasinin nedeni bu. TUM dpkg kutuklerinde (sikistirilmis dahil) nvidia install/upgrade satiri: 0. 2025-03-05 sonrasi herhangi bir nvidia hareketi: YOK.",
+          "libnvidia_mtime_kumesi": [
+            "2022-09-29 (eski 520 kalintisi)",
+            "2025-03-05 (570 kurulumu)"
+          ],
+          "hukum": "570.124.04 2025-03-05'ten beri kesintisiz -> 16.10.2026 olcumunu KAPSIYOR"
+        },
+        "uc_dnnlab3": {
+          "surucu": "525.125.06",
+          "modul_mtime": "2023-05-30 (i386 07:59, x86_64 08:37)",
+          "paket_izi": "son nvidia paket hareketi 2023-07-10 11:11:07 'Upgrade: libnvidia-compute-515 -> 525.125.06'. nvidia install/upgrade olan gunler: 2022-10-03, 2023-01-06, 2023-05-30, 2023-06-16, 2023-07-03, 2023-07-10. 2026-10-16 sonrasi hareket: YOK.",
+          "hukum": "525.125.06 en gec 2023-07-10'dan beri kesintisiz -> 16.10.2026 olcumunu KAPSIYOR"
+        },
+        "SONUC": "UCUNCU ETKEN DISLANAMAZ DEGIL -- VAR VE OLCULU. Iki ucun surucusu FARKLI: 155 570.124.04 ↔ dnnlab3 525.125.06. Eksen UC etken tasiyor: (1) fiziksel makine, (2) CUDA derlemesi cu118 ↔ cu121, (3) surucu surumu. Ucu de BIRLIKTE degisiyor ve n=1 ile ayristirilamaz.",
+        "artik_belirsizlik": "`.run` ile zaman damgasini KORUYAN bir yeniden kurulum teorik olarak mumkundur ve mtime'i degistirmez. Iki ucta da mtime buna karsi kanit ama mutlak degil; kanit sinifi cagdas_kayit ustu, kolon_ayirt_edici DEGIL.",
+        "kapanmayan": "475'in s22 kolu (iskarta) ve kart modeli ekseni ayridir. Bu atif M3 yigini icin kuruldu; ustteki E2_TABLOSU_TASINAMAZ gecerliligini korur."
+      }
+    },
+    "dnnlab3_mAP50": 0.799009,
+    "mak155_mAP50": 0.702184,
+    "fark_puan": 9.6825,
+    "malign_fark_puan": -3.3475,
+    "benign_fark_puan": 22.7124,
+    "tensor_ayni_ayni_makine": "937/937",
+    "tensor_ayni_capraz_makine": "162/937",
+    "n_yineleme": 1,
+    "kaynak": "veri/_capraz_makine_155_20261016.csv",
+    "not_": "EK-85. TEK yineleme: acikligin VARLIGI kurulur, BUYUKLUGU kurulmaz. Eslesen 162 tensor dejenere (donmus BN, sabit DFL cekirdegi, tamsayi sayaclar); ogrenilmis tensorde eslesme yok."
+  },
+  "cozulen_optimizer": {
+    "n_hucre": 504,
+    "istenen": {
+      "SGD": 174,
+      "auto": 124,
+      "yok": 206
+    },
+    "cozulen": {
+      "SGD": 255,
+      "COZULEMEDI": 249
+    },
+    "auto_hucre_epok_dagilimi": {
+      "6000": 124
+    },
+    "momentum_sapmasi": {
+      "n_hucre": 124,
+      "beyan": 0.937,
+      "gercek": 0.9,
+      "gerekce": "auto dali momentumu 0,9'a zorlar (ultralytics 8.3.63 trainer.py); beyan edilen 0,937 o hucrelerde kullanilmamistir"
+    },
+    "kaynak": "veri/_504_cozulen_optimizer_155_20261013.csv",
+    "not_": "EK-80. optimizer:auto yazan hucrelerin TAMAMI 6000 epoktadir ve SGD'ye cozulur; 1000/3000 epokta auto YOKTUR."
+  },
+  "belirlenimcilik": {
+    "tanim": "YOLOv9-c 640/1000 hucresi: ayni yapilandirma + ayni tohum (0) + ayni makine (dnnlab3) + ayni surum (8.3.63) ile UC kosum",
+    "sampiyon_yeniden_olculen": 79.9009,
+    "kohortB_seed00": 68.522712,
+    "cift_farki_puan": 11.3782,
+    "kohortB_dagilimi": {
+      "n": 30,
+      "ort": 68.8824,
+      "ss": 4.8821,
+      "maks": 75.3017,
+      "not_": "Kohort B toplu is boyutu AutoBatch'e birakilmis: 8/7/6 olarak 1/6/23 tohumda cozulmustur"
+    },
+    "bayt_aynilik": {
+      "gozlenen_kosum": 3,
+      "ayni": 2,
+      "ayrisik": 1,
+      "oran": "2/3",
+      "tensor_ayni_makine": "937/937",
+      "tensor_capraz_makine": "162/937",
+      "not_": "ORAN KESTIRILEMEZ: n=3. 'oran 2/3' oldugu gibi bildirilir, siklik iddiasi yapilmaz. n>=5 olcumu tamamlanmadi."
+    },
+    "dislanan_adaylar": [
+      {
+        "aday": "kayitli yapilandirma",
+        "gerekce": "92/92 alan ckpt train_args + args.yaml'dan okundu",
+        "gerekce_turu": "pozitif_olcum"
+      },
+      {
+        "aday": "cozulmus toplu is boyutu",
+        "gerekce": "ckpt train_args.batch=8 ucunde de",
+        "gerekce_turu": "pozitif_olcum"
+      },
+      {
+        "aday": "AutoBatch bellek yoklamasi",
+        "gerekce": "sampiyon da batch:-1 ile kostu; yeni kol sabit 8 ile kostu ve BAYT-AYNI cikti (karsit kosum)",
+        "gerekce_turu": "pozitif_olcum"
+      },
+      {
+        "aday": "egitim verisi",
+        "gerekce": "labels.jpg md5 ortustu (c171c876)",
+        "gerekce_turu": "pozitif_olcum"
+      },
+      {
+        "aday": "baslangic agirliklari",
+        "gerekce": "epok 1 dogrulama kayiplari ucunde ayni",
+        "gerekce_turu": "pozitif_olcum"
+      },
+      {
+        "aday": "karisik duyarlik (AMP)",
+        "gerekce": "bit-ozdes dokuz ciftin args.yaml'inda amp:true okundu; sampiyon hucresiyle ayni",
+        "gerekce_turu": "pozitif_olcum"
+      },
+      {
+        "aday": "etiket onbellegi (labels.cache)",
+        "gerekce": "iki mekanizma olculdu: dosya sirasi md5 ayni (48653e13e591) ve dataset kurulduktan sonra random/numpy/torch durumlari ayni",
+        "gerekce_turu": "pozitif_olcum"
+      }
+    ],
+    "kalan_aciklama": "calisma zamani nondeterminizmi; kok neden tekil bir isleme indirgenemedi",
+    "h87_denetimi": "yedi dislamanin yedisi POZITIF OLCUM; hicbiri 'bulamadim' turu yokluk cikarimi degil",
+    "kaynak": [
+      "veri/seed30_yolov9c_20260728.csv",
+      "veri/_capraz_makine_155_20261016.csv"
+    ],
+    "not_": "EK-81 + EK-83. Cift farki, sampiyonun YENIDEN OLCULEN degeriyle (0,799009) hesaplanir; izgarada kayitli deger (0,801) ile hesaplanirsa 11,6 cikar ve bu ayrim metinde beyan edilmistir."
+  },
+  "kohort_C": {
+    "tanim": "Kohort C -- tipik yapilandirma: YOLOv5-s 640 / 1000 epok, Ultralytics; SURUM KARSILASTIRMASI IZGARASININ KENDI ardisik duzeni. conf 0,001 / IoU 0,5.",
+    "n": 30,
+    "ort": 67.9131,
+    "ss": 5.0017,
+    "medyan": 68.013,
+    "min": 59.3685,
+    "maks": 78.3895,
+    "sinif": {
+      "malign_ort": 86.0868,
+      "malign_ss": 4.4229,
+      "benign_ort": 49.7393,
+      "benign_ss": 9.1629
+    },
+    "kaynak": "veri/seed30_yolov5s_surumkohortu_20260730.csv",
+    "not_": "KOHORT A ILE KARISTIRILMAZ. Kohort A = YOLOv5-s 448, transformer catali (COCO on-egitimli, lr0 0,001, mixup 0,243, 6000 epok), ss 4,38. Aile ortalamalari izgaradan geldigi icin aile kiyasinin bandi KOHORT C'dir."
+  },
+  "heldout_altkume": {
+    "tanim": "Tutulan alt kume denetimi: egitim/test ortusmesi olan ve olmayan hucreler ayri olculdu. conf 0,001 / IoU 0,5. Tavan etkisi savinin kanit tabani.",
+    "altkumeler": {
+      "ORTUSEN": {
+        "n": 22,
+        "ort": 0.7036,
+        "ortanca": 0.716,
+        "min": 0.4887,
+        "maks": 0.8871,
+        "tavana_ulasan": 0,
+        "tavan_esigi": 0.995
+      },
+      "ORTUSMEYEN": {
+        "n": 22,
+        "ort": 0.9687,
+        "ortanca": 0.9817,
+        "min": 0.8581,
+        "maks": 0.995,
+        "tavana_ulasan": 10,
+        "tavan_esigi": 0.995
+      },
+      "TUM": {
+        "n": 22,
+        "ort": 0.735,
+        "ortanca": 0.7388,
+        "min": 0.5148,
+        "maks": 0.8954,
+        "tavana_ulasan": 0,
+        "tavan_esigi": 0.995
+      }
+    },
+    "kaynak": "veri/_heldout_altkume_v3_910_20260910.csv (910 olcumu, 10.09.2026)",
+    "not_": "ORTALAMA ile ORTANCA AYRI RAPORLANIR: ortusmeyen alt kumede ortalama 0,97, ortanca 0,98; 0,99 degeri HICBIR istatistige karsilik gelmez (maks 0,995). Metinde hangi istatistik oldugu yazilmazsa ayni cumlede celiski uretir (bulgu #9)."
+  },
+  "parametre_nc2": {
+    "tanim": "YOLOv5 varyantlarinin parametre sayisi, BU CALISMANIN sinif sayisiyla (nc=2), deponun kendi model tanimlarindan olculdu: models.yolo.Model(yaml, ch=3, nc=2).",
+    "varyantlar": {
+      "yolov5n": {
+        "parametre": 1766623,
+        "yaml": "models/yolov5n.yaml",
+        "yaml_md5": "61a6067c3ceb",
+        "depo": "damla_makale/yolov5"
+      },
+      "yolov5s": {
+        "parametre": 7025023,
+        "yaml": "models/yolov5s.yaml",
+        "yaml_md5": "058702fd2b37",
+        "depo": "damla_makale/yolov5"
+      },
+      "yolov5m": {
+        "parametre": 20875359,
+        "yaml": "models/yolov5m.yaml",
+        "yaml_md5": "71c3b3513a68",
+        "depo": "damla_makale/yolov5"
+      },
+      "yolov5l": {
+        "parametre": 46143679,
+        "yaml": "models/yolov5l.yaml",
+        "yaml_md5": "2ad0b457ad6a",
+        "depo": "damla_makale/yolov5"
+      }
+    },
+    "oranlar": {
+      "yolov5n": 1.0,
+      "yolov5s": 3.98,
+      "yolov5m": 11.82,
+      "yolov5l": 26.12
+    },
+    "kaynak": "veri/_parametre_nc2_155_20261017.csv",
+    "not_": "YAYIMLI DEGERLERLE KARISTIRILMAZ: Ultralytics model karti nc=80 icindir (2,6/9,1/25,1M -> 3,5x ve 9,7x). nc=2'de Detect basi kuculdugu icin oranlar 3,98x ve 11,82x olur; 'dort ve on iki kat' nitelemesi bu olcume dayanir. Tez parametre sayisini olcmedigini beyan ettigi icin (kanonik/bolum3.tex:139) sayi burada olculup kaydedildi."
+  },
+  "esli_rejim_farki": {
+    "tanim": "Uygunluk rejimleri arasindaki TOHUM-ESLI fark (kazanan konfigurasyon, n=30). Isaret 'birinci eksi ikinci' olarak tanimlidir.",
+    "ciftler": {
+      "map1_eksi_252550": {
+        "n": 30,
+        "fark_puan": 0.1367,
+        "ga95": [
+          -1.1799,
+          1.4533
+        ],
+        "ort_map1": 83.4267,
+        "ort_252550": 83.29,
+        "yon": "ilk terim yuksek"
+      },
+      "map1_eksi_333334": {
+        "n": 30,
+        "fark_puan": 0.7233,
+        "ga95": [
+          -0.9015,
+          2.3481
+        ],
+        "ort_map1": 83.4267,
+        "ort_333334": 82.7033,
+        "yon": "ilk terim yuksek"
+      },
+      "252550_eksi_333334": {
+        "n": 30,
+        "fark_puan": 0.5867,
+        "ga95": [
+          -1.1314,
+          2.3047
+        ],
+        "ort_252550": 83.29,
+        "ort_333334": 82.7033,
+        "yon": "ilk terim yuksek"
+      }
+    },
+    "kaynak": "veri/_bandA_BIRLESIK_conf0001_20260814.csv",
+    "not_": "ISARET TANIMI ZORUNLU: fark yonunun metinde hangi terimden hangisine oldugu yazilmazisa ayni cumledeki ortalamalarla celisir (bulgu #11)."
+  },
+  "ikiz_egitim": {
+    "tanim": "Ayni hucrenin iki bagimsiz egitimi arasindaki mAP@0,5 farki (conf 0,001 / IoU 0,5). Iki kanonik izgara ihracinin ORTAK hucrelerinden, birebir ayni olanlar (369, ayni kosumun yeniden ihraci) DISLANARAK elde edildi.",
+    "n_konfig": 39,
+    "n_varyant": 17,
+    "min": 0.0357,
+    "maks": 9.5656,
+    "medyan": 2.0946,
+    "ort": 2.8966,
+    "ima_edilen_sigma": 2.1959,
+    "band_karsilastirmasi": {
+      "kohortA": {
+        "sigma": 4.38,
+        "beklenen_medyan_puan": 4.178,
+        "olculen_bolu_beklenen": 0.5013
+      },
+      "kohortC": {
+        "sigma": 5.0,
+        "beklenen_medyan_puan": 4.7694,
+        "olculen_bolu_beklenen": 0.4392
+      }
+    },
+    "varyantlar": [
+      "10l",
+      "10n",
+      "10s",
+      "11m",
+      "11n",
+      "11s",
+      "12m",
+      "12n",
+      "12x",
+      "5m",
+      "5s",
+      "6l",
+      "6s",
+      "8n",
+      "8s",
+      "9m",
+      "9s"
+    ],
+    "kaynak": "veri/_ikiz_egitim_155_20261017.csv (kaynaklar: kanonik_kaynak/BIRLESIK_v3_v12_grid_20260708.csv ve BIRLESIK_v3_v12_grid_SGDfinal_20260728.xlsx)",
+    "not_": "BAND KANITI DEGIL ALT SINIR: ciftler ayni makinede ve ayni derlemede kosuldu, yani tohum + cozulmus parti disindaki oynaklik kaynaklari sabit. Olculen medyan bandin ongordugunun yarisi (0,50x Kohort A, 0,44x Kohort C); 'bandin ongordugu mertebede' nitelemesi bu nedenle fazladir (bulgu #13)."
+  },
+  "kohortB_esikler": {
+    "tanim": "Kohort B (YOLOv9-c, 30 tohum) iki guven esiginde ayri ayri. ESIK DEGERIN KIMLIGIDIR: iki esikteki degerler karsilastirilamaz.",
+    "esikler": {
+      "0.001": {
+        "n": 30,
+        "ort": 68.8824,
+        "ss": 4.8821,
+        "maks": 75.3017,
+        "en_yuksek_tohum": "8",
+        "en_yuksek_kosumun_siniflari": {
+          "malign": 94.3,
+          "malign_sirasi": 7,
+          "benign": 56.3034,
+          "benign_sirasi": 4
+        },
+        "kohort_sinif_ort": {
+          "malign": 91.0024,
+          "benign": 46.7625
+        }
+      },
+      "0.25": {
+        "n": 30,
+        "ort": 68.6499,
+        "ss": 5.9152,
+        "maks": 79.8587,
+        "en_yuksek_tohum": "8",
+        "en_yuksek_kosumun_siniflari": {
+          "malign": 95.4333,
+          "malign_sirasi": 3,
+          "benign": 64.284,
+          "benign_sirasi": 2
+        },
+        "kohort_sinif_ort": {
+          "malign": 88.6431,
+          "benign": 48.6568
+        }
+      }
+    },
+    "esik_kararliligi": {
+      "en_yuksek_tohum_her_iki_esikte_ayni": true,
+      "yorum": "Esigin degistirdigi sey kosumlarin siralamasi degil degerlerin duzeyidir."
+    },
+    "zit_yonlu_cift_conf0001": [
+      {
+        "tohum": "8",
+        "genel": 75.3017,
+        "malign": 94.3,
+        "benign": 56.3034
+      },
+      {
+        "tohum": "16",
+        "genel": 75.0036,
+        "malign": 89.2692,
+        "benign": 60.738
+      }
+    ],
+    "kaynak": "veri/seed30_yolov9c_20260728.csv",
+    "not_": "SAMPIYONUN conf 0,25 KARSILIGI OLCULMEMISTIR; conf 0,25'teki kohort maksimumu (79,9) ile sampiyonun conf 0,001 degeri (79,90) arasinda kurulacak eslesme GECERSIZDIR. Sayisal yakinlik rastlantidir."
+  },
+  "degerlendirme_hatti": {
+    "tanim": "Ayni agirlik dosyasinin ayni esikte (conf 0,001 / IoU 0,5) iki ayri degerlendirme gecisinde verdigi degerler.",
+    "olculen": {
+      "kanonik_ek6": {
+        "mAP50": 0.8009532468,
+        "P": 0.9280985849,
+        "R": 0.6974789916,
+        "AP_malign": 0.8910428571,
+        "AP_benign": 0.7108636364,
+        "kaynak": "kanonik/_910_EK6_504_sinif_bazli_20260910.csv (YOLOv9-c 640/1000)",
+        "parti": "BILINMIYOR -- bu bir KAYIT ADI, parti ayari degil"
+      },
+      "yeniden_olcum_parti1": {
+        "mAP50": 0.799009,
+        "P": 0.928098,
+        "R": 0.697479,
+        "AP_malign": 0.891043,
+        "AP_benign": 0.706975,
+        "kaynak": "veri/_sampiyon_seed00_yeniden_degerlendirme_155_20261013.csv",
+        "parti": 1,
+        "donanim": "155, CPU"
+      },
+      "yeniden_olcum_parti16": {
+        "mAP50": 0.800396,
+        "P": null,
+        "R": null,
+        "AP_malign": null,
+        "AP_benign": null,
+        "kaynak": "PLAN_makale_20261003.md:2908 (cagdas kayit)",
+        "parti": 16,
+        "not_": "P/R ve sinif degerleri KAYITTA YOK; yalniz genel mAP var"
+      }
+    },
+    "yayilim_puan": 0.1944,
+    "ayrisma_yeri": {
+      "P_fark": 5.8e-07,
+      "R_fark": 1e-08,
+      "AP_malign_fark_hesaplanan_puan": -1.429e-05,
+      "AP_malign_fark_ust_siniri_puan": 5e-05,
+      "AP_malign_fark_olculebilirlik": "OLCULEMEZ: parti1 alti haneye yuvarlak; gercek fark 5e-05 puanin altinda olabilir",
+      "AP_benign_fark_puan": 0.3889,
+      "kimlik": "genel = (AP_malign + AP_benign)/2",
+      "kimlik_denetimi": 0.0,
+      "hukum": "P, R ve AP_malign ALTI HANEDE BIREBIR; butun fark TEK SINIFIN (7 ornekli benign) AP degerinde (0,3889 puan), iki sinifli ortalamada yarilanarak 0,1944 puan veriyor."
+    },
+    "cikarim": {
+      "sav": "P ve R birebir ortustugune gore TESPITLER OZDES; ozdes tespitlerden farkli AP cikmasi, ancak AP'nin TOPLANMA DISIPLININDEN olabilir (kurede havuzlanip bir kez integre edilmesi mi, parti basina ortalanmasi mi). Dolayisiyla PARTI BOYUTU NEDENSEL DEGISKEN DEGIL, toplanma disiplinini GORUNUR KILAN belirtidir.",
+      "kaynak": "Mac-inceleme itirazi 18.10.2026; 155 P/R esitligini olcerek dogruladi",
+      "onceki_yanlis_ifadem": "'0,19 puan degerlendirme parti boyutunun etkisidir' demistim; parti belirti, neden degil. Duzeltildi.",
+      "durum": "CIKARIM -- olculmedi",
+      "yanlislanabilir_ongoru": {
+        "1": "Kurede havuzlanmis hesap BIREBIR 0,800953 vermeli (yaklasik degil).",
+        "2": "Parti 2/4/8 degerleri 0,799009 ile 0,800953 arasina TEKDUZE dusmeli.",
+        "gozlenen_uyum": "parti_1 < parti_16 < EK6 siralamasi ongoruyle uyumlu",
+        "sinama_maliyeti": "tek degerlendirme gecisi; EGITIM GEREKMEZ",
+        "engel": "sampiyon agirligi dnnlab3'un SSD'sinde (/media/.../dnnlab3/...), 155'te yerel kopya YOK -> sinama dnnlab3'te kosulmali"
+      }
+    },
+    "duzey_uyarisi": "UC DUZEYDEN BIRININ DUZEY-DEGERI BILINMIYOR: 'kanonik_ek6' bir KAYIT ADI, bir parti ayari degil. Bu haliyle parti en iyi halde SIRALI bir degisken; nicel bir parti-etkisi egrisi kurulamaz. Ayrica duzey basina n=1.",
+    "cerceve_dersi": "Cerceve, esik ve IoU ile bitmiyor: ayni baytlar ayni esikte iki degerlendirme gecisinde farkli sayi veriyor. Bildirilmesi gereken sey PARTI BOYUTU degil, AP TOPLANMA DISIPLINIDIR; parti onu gorunur kilar.",
+    "kaynak": "kanonik/_910_EK6_504_sinif_bazli_20260910.csv + veri/_sampiyon_seed00_yeniden_degerlendirme_155_20261013.csv + PLAN_makale_20261003.md:2907-2908 (parti-16 icin cagdas kayit)"
+  },
+  "olumsuz_sonuc_esik_cikarimi": {
+    "soru": "Kaydedilmis P/R degerlerinden, kaydi olmayan bir olcumun guven esigi geriye dogru cikarilabilir mi?",
+    "yontem": "Ayni kohortun iki esikteki Pm/Rm dagilimlari karsilastirildi (n=30+30).",
+    "conf_0001": {
+      "Pm_ort": 0.8693,
+      "Pm_aralik": [
+        0.775,
+        1.0
+      ],
+      "Rm_ort": 0.8706
+    },
+    "conf_025": {
+      "Pm_ort": 0.8877,
+      "Pm_aralik": [
+        0.762,
+        1.0
+      ],
+      "Rm_ort": 0.8283
+    },
+    "yon": "beklendigi gibi: esik artinca P yukari, R asagi",
+    "buyukluk": 0.0183,
+    "araliklar_ortusuyor": true,
+    "hukum": "AYIRT ETMIYOR",
+    "ikinci_gerekce": "Ustelik kiyas kendi ilkemize takiliyor (H93): kopru dosyasinin P'si GENEL, kohortun Pm'si SINIF BAZLI -- iki buyukluk ayni cercevede degil.",
+    "sonuc": "P/R rejimi uzerinden esik cikarimi bu veri kumesinde kullanilamaz; cerceve ya kayitta olur ya da satir kimligiyle/cagdas kayitla kurulur.",
+    "kaynak": "veri/seed30_yolov9c_20260728.csv (Mac-inceleme onerdi, 155 dogruladi)"
+  },
+  "alanyazin_bildirim_orani": {
+    "soru": "Alanyazinda sinif ustu ozetin ortalama disiplini hangi siklikta bildiriliyor?",
+    "durum": "OLCULMEDI",
+    "gerekce": "M5 derlemesinin cikarim semasi (tab:ozet43) bildirilen metrik DEGERLERINI ve etiketlerini tasiyor; ortalama disiplinini tasimiyor. Derlemenin duzyazisinda da ortalama anlaminda makro/mikro gecmiyor.",
+    "neden_orana_cevrilemez": "Derlemenin NE KAYDETTIGI ile kaynaklarin NE BILDIRDIGI ayri seylerdir. Birinciden ikincisini cikarsamak, ozetten kaynagi cikarsamaktir (H87 ailesi). Dolayisiyla dogru ifade 'bildirilmiyor' degil 'OLCULMEDI'dir.",
+    "metinde_duzeltilen": "Taslaga iki olculmemis siklik iddiasi yazmisim ve ikisi de son iki turda eklenmisti: §2.3 'alanyazinda ... siklikla belirtilmez' ve (xiii) 'toplanma disiplini alanyazinda nadiren bildirilir'. Ikisi de 'bu calismada OLCULMEMISTIR' beyanina cevrildi.",
+    "olculmeye_deger_asil_soru": "Cok sinifli ve sinif dengesizligi olan calismalarin kaci YALNIZ toplulastirilmis degeri bildiriyor? (Mac-inceleme [4])",
+    "geri_alinan_genelleme": {
+      "iddia": "Mac-inceleme ilk olarak 'Ultralytics/COCO ekosisteminde mAP YAPI GEREGI makrodur; disiplini ARAC belirler, yazar secmez' demisti; 155 bu genellemeye dayanarak §2.3'e 'kullanilan catilarda disiplin aracin kendisi tarafindan belirlenir' yazdi.",
+      "durum": "GERI ALINDI -- Mac kendi genellemesini olcerek sinirladi (18.10)",
+      "karsi_ornek": {
+        "kaynak_calisma": "10.1016/j.cmpb.2020.105823 (Aly), IOU=0,5",
+        "raporlanan": {
+          "AP_benign": 33.0,
+          "AP_malign": 52.0,
+          "mAP": 42.21
+        },
+        "makro_beklenen": 42.5,
+        "fark_puan": 0.29,
+        "yuvarlama_kurtariyor_mu": "HAYIR: makro icin AP toplami 84,42 olmaliydi, yazili toplam 85,00",
+        "agirlikli_cozum": {
+          "w_benign": 0.515263,
+          "kontrol": 42.21,
+          "ima_edilen_oran_nm_nb": 0.9408
+        },
+        "hukum": "bu SATIR makro ile tutmuyor; agirlikli ortalama ile birebir tutuyor",
+        "UCUNCU_KATMAN_18_10": {
+          "windows_olcumu": "Windows ASIL TABLOYU okudu: 27 satirin 21'i MAKRO. Agirlikli hipotez isaret sinamasiyla CURUK -- bir satir w>0,5, oteki w<0,5 gerektiriyor, sabit agirlik IMKANSIZ. Alti satir makroyla tutmuyor ve yuvarlama bunu ortmuyor (Windows'un sinirlari 0,0325-0,055, gozlenen 0,10); yani sapanlar NEDENSIZ, 'agirlikli' degil.",
+          "sonuc": "Mac'in tek satirdan cikardigi 'o calisma agirlikli kullaniyor' hukmu CURUDU. Dolayisiyla bu karsi ornek, BASKA CALISMALARIN farkli disiplin kullandigini KURMUYOR; yalniz alti satirin aciklanmamis kaldigini gosteriyor.",
+          "§2.3_ETKILENMEDI_NEDEN": "Daraltma bastan ALY'YE DAYANMADI, kendi olcumumun KAPSAMINA dayandi: '504/504 dogrulama bu calismanin ardisik duzeniyle sinirlidir'. Bir kapsam beyani, baskalarinin ne yaptigina dair hicbir iddia tasimaz. Karsi ornek curuse de, cuurumese de metin ayni kalir. Hukmu olculene baglamanin bedeli yoktu, getirisi bu.",
+          "ders": "UC KATMANLI ZINCIR: (1) Mac genelleme yapti, (2) Mac kendi genellemesini tek satirlik bir olcumle geri aldi, (3) Windows o tek satirlik olcumun HUKMUNU asil tablodan curuttu. Her katmanda sav daraldi. Metin hicbirinden etkilenmedi cunku hicbirine dayanmamisti."
+        },
+        "CEKINCE": "Hesap windows'un ALINTISINDAN yapildi, makalenin ASIL TABLOSUNDAN DOGRULANMADI; alinti kismi olabilir. Bu cekince DOGRU CIKTI: Windows tabloyu okudugunda 21/27 makro buldu. DERS CEKINCEDE, YARGIDA DEGIL (Mac'in kendi duzeltmesi): Mac yanlis sonuca vardi; cekince o sonucun BEDELINI ucuzlatti ve hatayi BIR ILETIDE kapatti. Dogrulanan sey Mac'in hukmu degil, KAPSAM CEKINCESININ ISLEVI. Ne makro kaniti ne karsi kanit olarak KULLANILMAZ; metinde KULLANILMADI."
+      },
+      "metne_etkisi": "§2.3 daraltildi ve daraltma BU CALISMANIN KENDI OLCUMUNE dayaniyor, Aly'ye degil: 'bu dogrulama bu calismanin ardisik duzeniyle sinirlidir; farkli bir ardisik duzende ya da kendi degerlendirme kodunu yazan bir calismada disiplin degisebilir'. Boylece hukum olculenle sinirli kalir ve disarisi icin siklik ima etmez."
+    },
+    "ucuza_olculebilir_kilma": "M5-R cikarim protokolune uc alan, 134 tam metin OKUNMADAN once: ortalama_disiplini {makro,mikro,agirlikli,belirtilmemis} · sinif_bazli_bildirim {var,yok,tek_sinif} · sinif_sayisi. Ucu de BILDIRILEN DEGERIN YAKIN BAGLAMINDAN okunmali. Sonra eklenirse ikinci bir tam metin turu demek. M5-R windows'un dosyasi (H85); Mac windows'a iletti, 155 uygulamadi.",
+    "m5_ile_iliski": "M5'in oneri kumesi (iv) 'sinif bazli sonuclarin genel ortalamayla birlikte verilmesi' diyor; M3 ayni eksenin FIYATINI olcuyor (5,2521 puan). Recete + olculmus fiyat etiketi, bir orandan guclu bir katki: 'kac calisma yapiyor' degil 'yapmazsan su kadar kaybediyorsun'."
+  },
+  "ortalama_disiplini": {
+    "tanim": "Sinif ustu ozetlerin MAKRO mu MIKRO mu alindigi. Makro: siniflarin duz ortalamasi. Mikro: ornek sayilariyla agirlikli.",
+    "deger": "MAKRO (sinif duz ortalamasi)",
+    "dogrulama": {
+      "makro_R": {
+        "kimlik": "R_all = (R_m + R_b)/2",
+        "sonuc": "504/504",
+        "tanimli_mi": true
+      },
+      "makro_mAP": {
+        "kimlik": "mAP50_all = (mAP50_m + mAP50_b)/2",
+        "sonuc": "504/504",
+        "tanimli_mi": true
+      },
+      "mikro_R": {
+        "kimlik": "R_all = (17*R_m + 7*R_b)/24",
+        "sonuc": "0/504",
+        "tanimli_mi": true,
+        "not_": "ELEME sinamasi: kayit mikro degil, makro"
+      },
+      "mikro_mAP": {
+        "sonuc": "SINANMADI",
+        "tanimli_mi": false,
+        "neden": "AP bir PR egrisi integralidir, ornek basina ortalanamaz. 'mikro mAP' diye standart bir buyukluk YOKTUR; sinif AP'lerini agirliklandirmak bir olcut uretmez. UYDURULMAMALIDIR."
+      }
+    },
+    "sampiyonda_fark": {
+      "R_malign": 0.823529,
+      "R_benign": 0.571429,
+      "makro_R": 0.697479,
+      "mikro_R": 0.75,
+      "fark_puan": 5.2521,
+      "mikro_kesri": "18/24 (14 malign + 4 benign dogru pozitif)"
+    },
+    "OLCUT_ADI_ZORUNLU": "5,2521 puan GERI CAGIRMA (R) eksenindendir. mAP sinif AP'lerinden gelen sayi AP_tarafi.aralik_puan'dir ve o BIR STANDART OLCUT DEGILDIR (agirlikli birlesim). Iki sayi ayni kipte yazilamaz; sayinin yaninda OLCUT ADI durmali. Mac-inceleme bu sayiyi uc iletide niteleyici olmadan tasidi; taslak 'duyarliligi' dedigi icin dogru kalmisti, ama IKINCI gecis olcut adi tasimiyordu -> eklendi (H93: degerin kimligi hangi olcutten geldigini icerir).",
+    "AP_tarafi": {
+      "makro_AP_sampiyon": 0.8009532468,
+      "agirlikli_makro_AP_sampiyon": 0.8384905844,
+      "aralik_puan": 3.7537,
+      "aralik_tam_puan": 3.7537337645833335,
+      "ozdeslik": "aralik = (17/24 - 1/2) x (AP_malign - AP_benign)",
+      "ara_yuvarlama_notu": "Bu alan bir kez YANLIS hesaplandi: makro icin yuvarlanmis 0,800953 kullanilmis, sonuc 3,7538 cikmisti. Tam girdilerle 3,7537. Ara yuvarlama son haneyi bozar.",
+      "UYARI": "Yukaridaki aralik_puan bir OLCUT ARALIGI DEGIL: AGIRLIKLI MAKRO standart bir buyukluk olmadigi icin kiyas noktasi da yoktur. Kayda yalniz 'mikro mAP uydurulmamali' gerekcesini belgelemek icin girdi; METINDE KULLANILMAZ.",
+      "ADLANDIRMA_DUZELTMESI": "Windows (18.10): sinif AP'lerinin ornek sayisiyla agirlikli ortalamasi 'MIKRO' DEGIL, AGIRLIKLI MAKRO'dur. Mikronun gercek karsiligi butun tespitlerin TEK PR egrisinde havuzlanmasidir ve o sinif AP'lerinden TURETILEMEZ. Alan adi duzeltildi.",
+      "SIFIRINCI_BASAMAK": "Windows'un genellemesi: OLCUTUN TANIMI, DEGERLERIN ARITMETIGINDEN ONCE GELIR. Butun gun 'hangi sayi hangi kuralla kurulmus' diye sorduk; bir basamak geride 'bu olcut icin o kural TANIMLI MI' sorusu duruyor. Anlamsiz bir olcumun nufusunu, birimini ve kuralini dogru secmek onu anlamli kilmaz. Somut sonucu: Aly'nin 'agirlikli disiplin kullandigi' hipotezi UCUNCU ve en temel biciminde curudu -- havuzlanmis tespit B AP ile M AP'den HICBIR BICIMDE kurulamaz, yani VAR OLMAYAN bir alternatif sinaniyordu.",
+      "gercek_alternatif": "tespitlerin HAVUZLANIP tek AP hesaplanmasi; sinif AP'lerinden turetilemez, bu calismada OLCULMEDI -- degerlendirme_hatti.cikarim'daki havuzlama ongorusuyle AYNI SORU."
+    },
+    "neden_onemli": "Sinif dengesizligi 17/7 oldugundan makro-mikro ayrimi buyuk: sampiyonda duyarlilik makro ile 0,697479, mikro ile tam 0,750000 -- 5,25 puan. Yedinci boyut (degerlendirme partisi) 0,19 puandi; bu onun yirmi yedi kati.",
+    "kaynak": "kanonik/_910_EK6_504_sinif_bazli_20260910.csv",
+    "cerceve_kaniti": "kolon_ayirt_edici (veriden turetildi: 504/504 hucrede kimlik tutuyor)",
+    "bulan": "Mac-inceleme 18.10.2026; 155 bagimsiz dogruladi (504/504 ve 0/504)"
+  },
+  "veri_kumesi": {
+    "tanim": "INbreast kitle alt kumesi, bu calismanin sabit bolunmesi. Sinif sayilari YOLO etiket dosyalarindan dogrudan sayildi.",
+    "bolunmeler": {
+      "train": {
+        "goruntu": 86,
+        "kutu": 88,
+        "malign": 58,
+        "benign": 30
+      },
+      "test": {
+        "goruntu": 21,
+        "kutu": 24,
+        "malign": 17,
+        "benign": 7
+      }
+    },
+    "sinif_adlari": {
+      "0": "malign",
+      "1": "benign"
+    },
+    "kaynak": "damla_makale/dataset/{train,test}/labels/*.txt (data_4_1.yaml)",
+    "not_": "val: train ile AYNI dizin (data_4_1.yaml) -- secim korlugunun mekanizmasi burada gorunuyor.",
+    "kapatilan": "taslaktaki '24 kitlelik test kumesi', '21 test goruntusu' ve '7 ornekli benign sinif' ifadeleri artik kaynakli."
+  },
+  "_izgara_makine_karismasi": {
+    "soru": "izgara_ozet'in uc grup ortalamasi karsilastirilabilir mi?",
+    "gruplar": {
+      "regime_25-25-50": {
+        "n": 256,
+        "makine_bilesimi": {
+          "475": 107,
+          "910": 5,
+          "155": 122,
+          "994": 22
+        },
+        "makine_ortalamalari": {
+          "155": 79.06,
+          "475": 74.01,
+          "910": 82.98,
+          "994": 77.64
+        },
+        "havuz_ort": 76.9,
+        "makine_dengeli_ort": 78.42,
+        "makine_araligi_puan": 8.97,
+        "makine_basina_omurga_tr_sayisi_ort": {
+          "475": 2.51,
+          "910": 0,
+          "155": 1.57,
+          "994": 2.32
+        }
+      },
+      "regime_33-33-34": {
+        "n": 256,
+        "makine_bilesimi": {
+          "475": 106,
+          "910": 51,
+          "155": 70,
+          "994": 29
+        },
+        "makine_ortalamalari": {
+          "155": 79.9,
+          "475": 74.15,
+          "910": 79.21,
+          "994": 76.01
+        },
+        "havuz_ort": 76.94,
+        "makine_dengeli_ort": 77.32,
+        "makine_araligi_puan": 5.75,
+        "makine_basina_omurga_tr_sayisi_ort": {
+          "475": 2.49,
+          "910": 1.57,
+          "155": 1.4,
+          "994": 2.41
+        }
+      },
+      "regime_map1": {
+        "n": 256,
+        "makine_bilesimi": {
+          "475": 130,
+          "910": 121,
+          "155": 5
+        },
+        "makine_ortalamalari": {
+          "155": 83.7,
+          "475": 75.57,
+          "910": 80.21
+        },
+        "havuz_ort": 77.92,
+        "makine_dengeli_ort": 79.83,
+        "makine_araligi_puan": 8.13,
+        "makine_basina_omurga_tr_sayisi_ort": {
+          "475": 2.48,
+          "910": 1.57,
+          "155": 0
+        }
+      }
+    },
+    "siralama_tersiniyor": {
+      "havuz": {
+        "regime_25-25-50": 76.9,
+        "regime_33-33-34": 76.94,
+        "regime_map1": 77.92
+      },
+      "dengeli": {
+        "regime_25-25-50": 78.42,
+        "regime_33-33-34": 77.32,
+        "regime_map1": 79.83
+      },
+      "hukum": "Gruplar DORT MAKINEDEN havuzlanmis ve makine bilesimleri AYNI DEGIL (910'un payi 5 ile 121 arasinda degisiyor). Havuz siralamasiyla makine-dengeli siralama 25-25-50 ve 33-33-34 arasinda TERSINIYOR. Ustelik havuzda o ikisinin farki 0,04 puan -- bu calismanin kendi onemlilik tabaninin (0,19 puan) besde biri. Uc grup ortalamasindan siralama OKUNAMAZ."
+    },
+    "karisma_denetimi": {
+      "birden_fazla_makinede_kosan_yapilandirma": 0,
+      "toplam_yapilandirma": 768,
+      "hukum": "768 yapilandirmanin TAMAMI TEK makinede kosmus; ORTUSME SIFIR. Dolayisiyla makine etkisi YAPILANDIRMA ATAMASINDAN AYRISTIRILAMAZ.",
+      "atama_rastgele_degil": "Makine basina omurga transformer sayisi sistematik olarak farkli (bkz. makine_basina_omurga_tr_sayisi_ort): bir grupta 910'un bes yapilandirmasinda omurgada HIC transformer yok. Yani makine ortalamalari mimari AILELERININ ortalamalari.",
+      "CURUYEN_ONERI": "Mac-inceleme bu bloktaki makine araligini (8,97 / 5,75 / 8,13 puan) ozetin 9,68 puanlik makineler arasi acikligina BAGIMSIZ DESTEK olarak onerdi. KULLANILMAZ: burada makine ile mimari ailesi karismis ve mimari farki TAM OLARAK o deneyin OLCTUGU SEY. Makine araligini makine etkisi saymak, OLCULEN DEGISKENI OLCUM ARACINA KOYMAK olur -- ki bu, Mac'in iki ileti once windows'a alti sinifli calisma icin soyledigi olcutun kendisi. Oneri kendi olcutuyle curudu.",
+      "capraz_makine_NEDEN_FARKLI": "capraz_makine blogunda AYNI yapilandirma, AYNI tohum, bayt duzeyinde AYNI veri ikinci bir makinede kosuldu; orada makine TEK degisken. Burada ise her yapilandirma tek makinede, yani kiyas capraz DEGIL.",
+      "ozet_9_68_DEGISMEDI": "n_yineleme 1 olarak kaliyor; metinde degisiklik YAPILMADI."
+    },
+    "ad_belirsizligi": {
+      "dosya_adi": "C3TR_kanonik_768.csv",
+      "imgsz_kolonu": [
+        "448"
+      ],
+      "ayrik_yapilandirma": 768,
+      "hukum": "Addaki 768 YAPILANDIRMA SAYISIDIR, imgsz degil; imgsz kolonun tamaminda 448. Ad yanlis degil, CIFT OKUNABILIR -- YOLO ekosisteminde dosya adindaki ciplak sayi imgsz okunur. Latent bir celiski, beyan edilmis bir cift anlamdan kotudur, bu nedenle burada beyan edilir."
+    },
+    "mimari_gradyani": {
+      "tanim": "Omurgadaki transformer blogu sayisi ile mAP@0,5 iliskisi. Karismayi YARATAN sey bu; ve kendi basina bloğun EN SAGLAM bulgusu.",
+      "pearson": -0.5612,
+      "n": 768,
+      "katmanlar": {
+        "tr=0": {
+          "n": 48,
+          "ort": 83.51
+        },
+        "tr=1": {
+          "n": 192,
+          "ort": 81.07
+        },
+        "tr=2": {
+          "n": 288,
+          "ort": 76.88
+        },
+        "tr=3": {
+          "n": 192,
+          "ort": 74.42
+        },
+        "tr=4": {
+          "n": 48,
+          "ort": 69.29
+        }
+      },
+      "uctan_uca_puan": 14.22,
+      "tekduze_mi": true,
+      "hukum": "Bu gorevde omurgaya transformer koymak mAP'yi TEKDUZE dusuruyor; uctan uca 14,22 puan. Bu bir cerceve artefakti DEGIL, deneyin GERCEK sonucu. Mimari etkisi (14,22) makine araligindan (8,97) BUYUK -- yani makine araligi kismen mimari etkisini olcuyor.",
+      "M3_ICIN": "M3 yeniden uretilebilirlik uzerine; bu gradyan M3'e GIRMEZ. Kayda giriyor cunku izgara blogu kayitta varken bloğun en saglam bulgusunu disarida birakmak olurdu (Mac-inceleme onerisi).",
+      "kaynak": "veri/C3TR_kanonik_768.csv, conf 0,001 / iou 0,5 dilimi, n=768"
+    },
+    "KAPSAM_UYARISI": {
+      "vaka": "Omurga tr ortalamalari IKI KAPSAMDA olculdu ve sayilar ayristi; IKISI DE DOGRU: grup ici (regime_25-25-50) 155: 1,57 · 475: 2,51 · 910: 0,00 · 994: 2,32 ↔ TUM DILIM (3 grup, n=768) 155: 1,47 (n=197) · 475: 2,49 (n=343) · 910: 1,53 (n=177) · 994: 2,37 (n=51).",
+      "neden_onemli": "'910: 0,00' okuyan biri 910'un HIC transformer kosmadigini sanir; oysa 177 kosumda ortalama 1,53. Grup ici n=5 oldugu icin o bes yapilandirmanin omurgasinda transformer yok, hepsi bu.",
+      "kural": "Her katman ortalamasi KAPSAMIYLA yazilir (grup ici mi, tum dilim mi)."
+    },
+    "yeni_cerceve_boyutu": "MAKINE. parti'nin birebir ayni bicimi: havuzlanan bir ozet, katmanlarin agirliklari esit degilse katman kimligini tasimak zorundadir. havuz - dengeli = (agirlik dengesizligi) x (katman farki).",
+    "kaynak": "veri/C3TR_kanonik_768.csv (conf 0.001 / iou 0.5 dilimi)"
+  },
+  "_cerceve_denetimi": {
+    "cerceveler": {
+      "arklar": {
+        "kaynak": "band_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "dosya_adi",
+        "iou": "kayitta yok",
+        "birim": "kosum",
+        "n": 30,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "dosya_adi",
+        "cerceve_kaniti_aciklama": "dosya adindan (H78 sinifi: kimligi addan okumak)"
+      },
+      "esli": {
+        "kaynak": "band_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "dosya_adi",
+        "iou": "kayitta yok",
+        "birim": "kosum (tohum-esli fark)",
+        "n": 30,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "dosya_adi",
+        "cerceve_kaniti_aciklama": "dosya adindan (H78 sinifi: kimligi addan okumak)"
+      },
+      "rejim_etkisi": {
+        "kaynak": "band_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "dosya_adi",
+        "iou": "kayitta yok",
+        "birim": "kosum",
+        "n": 30,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "dosya_adi",
+        "cerceve_kaniti_aciklama": "dosya adindan (H78 sinifi: kimligi addan okumak)"
+      },
+      "tekil_zirve": {
+        "kaynak": "band_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "dosya_adi",
+        "iou": "kayitta yok",
+        "birim": "kosum",
+        "karsilastirilan": "tez tablosu degeri",
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "dosya_adi",
+        "cerceve_kaniti_aciklama": "dosya adindan (H78 sinifi: kimligi addan okumak)"
+      },
+      "izgara": {
+        "kaynak": "izgara_ham",
+        "esik": "conf 0.001",
+        "esik_kaynagi": "kolon",
+        "iou": "0.5 (kolon)",
+        "birim": "model",
+        "parti": "KAYITTA YOK",
+        "makine": "KOLONDA; yapilandirma atamasiyla KARISMIS -- grup ortalamalari karsilastirilamaz (bkz. _izgara_makine_karismasi)",
+        "kayit": "veri/C3TR_kanonik_768.csv",
+        "not_": "ham kosum ciktisi; conf/iou dosyada KOLON olarak var",
+        "surucu": "KAYITTA YOK",
+        "cerceve_kaniti": "kolon_ayirt_edici",
+        "cerceve_kaniti_aciklama": "kosum dongusunce degistirilmis kolon (en guclu)"
+      },
+      "izgara_ozet": {
+        "kaynak": "izgara_ham",
+        "esik": "conf 0.001",
+        "esik_kaynagi": "kolon",
+        "iou": "0.5 (kolon)",
+        "birim": "model",
+        "parti": "KAYITTA YOK",
+        "makine": "KOLONDA; yapilandirma atamasiyla KARISMIS -- grup ortalamalari karsilastirilamaz (bkz. _izgara_makine_karismasi)",
+        "kayit": "veri/C3TR_kanonik_768.csv",
+        "surucu": "KAYITTA YOK",
+        "cerceve_kaniti": "kolon_ayirt_edici",
+        "cerceve_kaniti_aciklama": "kosum dongusunce degistirilmis kolon (en guclu)"
+      },
+      "secim_korlugu": {
+        "kaynak": "plato_csv+bvl_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "beyan",
+        "iou": "kayitta yok",
+        "birim": "hucre",
+        "epok": "aile x epok ayrimi kalemde",
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "beyan",
+        "cerceve_kaniti_aciklama": "ardisik duzen beyani (H78 sinifi)"
+      },
+      "sinif_bazli": {
+        "kaynak": "ek6_sinif_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "beyan",
+        "iou": "0,5 (ardisik duzen)",
+        "birim": "hucre",
+        "n": 504,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "beyan",
+        "cerceve_kaniti_aciklama": "ardisik duzen beyani (H78 sinifi)"
+      },
+      "ayristirma_kolu": {
+        "kaynak": "ayristirma30",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "yok",
+        "iou": "kayitta yok",
+        "birim": "kosum",
+        "n": 30,
+        "sinif": "malign/benign ayri",
+        "tasidigi": "§3.3 varyans ayrisimi, sira ortusmesi, z=3,27",
+        "surucu": "KAYITTA YOK",
+        "parti": {
+          "durum": "kismi",
+          "deger": 1,
+          "donanim": "155/CPU",
+          "kayitli_satir": 1,
+          "kayitta_yok_satir": 29,
+          "not_": "yalniz kopru satiri (tohum 0) olculdu"
+        },
+        "capraz_baglanti": {
+          "bulgu_sayisi": 1,
+          "ornekler": [
+            {
+              "aday_satir": {
+                "tohum": "0"
+              },
+              "havuz_dosyasi": "sampiyon_yeniden",
+              "esit_kolonlar": [
+                "P",
+                "R",
+                "mAP50",
+                "mAP5095"
+              ],
+              "esit_kolon_sayisi": 4,
+              "havuz_esigi": null
+            }
+          ],
+          "esikler": [],
+          "tekil_esik": "0.001",
+          "olcut": "satir kimligi: ayni adli >=2 kolonda birebir esitlik",
+          "atlama": 2,
+          "devralinan_esik": "0.001",
+          "atlama_notu": "ara dosya uzerinden satir kimligi (iki atlama); esik ara dosyadan devralindi"
+        },
+        "ek_kanit": {
+          "sinif": "cagdas_kayit",
+          "kayit": "_capsule_repo_hazirlik/PLAN_makale_20261003.md:2740 ve :2804",
+          "commit_sha": "94108279004326aa02f463c68c6bcd78995bb39b",
+          "yazar_tarihi": "2026-10-13 13:40:04 +0300",
+          "alinti": "tek protokolde (155, CPU, conf 0,001 / IoU 0,5) yeniden degerlendirme: 0,799009 <-> 0,685227",
+          "on_kayit_savi": "Basamagi 'beyan'in ustune cikaran sey olcumle cagdas olmasi DEGIL, cerceve demirinin HENUZ VAR OLMADIGI bir anda yazilmis olmasi: kayit 13.10 13:40, demir 18.10 00:00 (commit 00fb567). Dort gun oncesinde yazilan bir satir, henuz icat edilmemis bir denetimi tatmin etmek icin yazilmis olamaz.",
+          "demir_commit": "00fb567",
+          "demir_tarihi": "2026-10-17T23:59:55+03:00",
+          "on_kayit_marji_gun": 4.4,
+          "durum": "yanlislanabilir; DOGRULANABILIR DEGIL -- kaynak depo (_capsule_repo_hazirlik) yatirilmiyor",
+          "dogrulanabilirlige_yukseltme": "arsive kucuk bir metin dosyasi: alinti + `git log -1 --format='%H %aI'` cikti + dosyanin `git hash-object` blob hash'i. O zaman sarkan gonderme yerine, depo yayimlandiginda ESLESMEK ZORUNDA olan bir hash kalir. (Mac-inceleme [E]; gonderim sonrasi.)",
+          "yazili_protokol": "155, CPU, conf 0,001 / IoU 0,5",
+          "etki": "ikinci atlamanin 'ayni dosya => ayni cerceve' varsayimi artik gerekli DEGIL: kopru dosyasinin protokolu bagimsiz bir cagdas kayitta duruyor. Varsayim kaldirilmadi, GEREKSIZLESTI.",
+          "kaynak_turu": "ekleme-yalniz, surumlu, olcum aninda yazilmis"
+        },
+        "cerceve_kaniti": "capraz_baglanti",
+        "cerceve_kaniti_aciklama": "capraz baglanti: deger, ayirt edici cerceve kolonu TASIYAN bir dosyadaki satirla BIREBIR esit -- cerceve beyanla degil OLCUMLE kuruluyor"
+      },
+      "capraz_makine": {
+        "kaynak": "capraz_makine",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "yok",
+        "iou": "kayitta yok",
+        "birim": "puan ve tensor sayisi",
+        "n": 1,
+        "tasidigi": "ozdeki ve (xii)'deki 9,68 puanlik makineler arasi aciklik",
+        "surucu": "KAYITTA YOK",
+        "parti": {
+          "durum": "kismi",
+          "deger": 1,
+          "donanim": "155/CPU",
+          "kayitli_satir": 1,
+          "kayitta_yok_satir": 1,
+          "not_": "dnnlab3_sampiyon satiri olculdu; 155_caprazmakine icin yok"
+        },
+        "capraz_baglanti": {
+          "bulgu_sayisi": 1,
+          "ornekler": [
+            {
+              "aday_satir": {
+                "kosum": "dnnlab3_sampiyon"
+              },
+              "havuz_dosyasi": "sampiyon_yeniden",
+              "esit_kolonlar": [
+                "P",
+                "R",
+                "mAP50",
+                "mAP5095"
+              ],
+              "esit_kolon_sayisi": 4,
+              "havuz_esigi": null
+            }
+          ],
+          "esikler": [],
+          "tekil_esik": "0.001",
+          "olcut": "satir kimligi: ayni adli >=2 kolonda birebir esitlik",
+          "atlama": 2,
+          "devralinan_esik": "0.001",
+          "atlama_notu": "ara dosya uzerinden satir kimligi (iki atlama); esik ara dosyadan devralindi"
+        },
+        "ek_kanit": {
+          "sinif": "cagdas_kayit",
+          "kayit": "_capsule_repo_hazirlik/PLAN_makale_20261003.md:2740 ve :2804",
+          "commit_sha": "94108279004326aa02f463c68c6bcd78995bb39b",
+          "yazar_tarihi": "2026-10-13 13:40:04 +0300",
+          "alinti": "tek protokolde (155, CPU, conf 0,001 / IoU 0,5) yeniden degerlendirme: 0,799009 <-> 0,685227",
+          "on_kayit_savi": "Basamagi 'beyan'in ustune cikaran sey olcumle cagdas olmasi DEGIL, cerceve demirinin HENUZ VAR OLMADIGI bir anda yazilmis olmasi: kayit 13.10 13:40, demir 18.10 00:00 (commit 00fb567). Dort gun oncesinde yazilan bir satir, henuz icat edilmemis bir denetimi tatmin etmek icin yazilmis olamaz.",
+          "demir_commit": "00fb567",
+          "demir_tarihi": "2026-10-17T23:59:55+03:00",
+          "on_kayit_marji_gun": 4.4,
+          "durum": "yanlislanabilir; DOGRULANABILIR DEGIL -- kaynak depo (_capsule_repo_hazirlik) yatirilmiyor",
+          "dogrulanabilirlige_yukseltme": "arsive kucuk bir metin dosyasi: alinti + `git log -1 --format='%H %aI'` cikti + dosyanin `git hash-object` blob hash'i. O zaman sarkan gonderme yerine, depo yayimlandiginda ESLESMEK ZORUNDA olan bir hash kalir. (Mac-inceleme [E]; gonderim sonrasi.)",
+          "yazili_protokol": "155, CPU, conf 0,001 / IoU 0,5",
+          "etki": "ikinci atlamanin 'ayni dosya => ayni cerceve' varsayimi artik gerekli DEGIL: kopru dosyasinin protokolu bagimsiz bir cagdas kayitta duruyor. Varsayim kaldirilmadi, GEREKSIZLESTI.",
+          "kaynak_turu": "ekleme-yalniz, surumlu, olcum aninda yazilmis"
+        },
+        "cerceve_kaniti": "capraz_baglanti",
+        "cerceve_kaniti_aciklama": "capraz baglanti: deger, ayirt edici cerceve kolonu TASIYAN bir dosyadaki satirla BIREBIR esit -- cerceve beyanla degil OLCUMLE kuruluyor"
+      },
+      "cozulen_optimizer": {
+        "kaynak": "cozulen_optimizer",
+        "esik": "uygulanmaz",
+        "esik_kaynagi": "uygulanmaz",
+        "iou": "uygulanmaz",
+        "birim": "hucre",
+        "n": 504,
+        "not_": "optimizer denetiminin guven esigi yoktur",
+        "surucu": "uygulanmaz",
+        "parti": "uygulanmaz",
+        "cerceve_kaniti": null,
+        "cerceve_kaniti_aciklama": "uygulanmaz"
+      },
+      "belirlenimcilik": {
+        "kaynak": "kohortB_seed30+capraz_makine",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "kolon",
+        "iou": "0,5 (kolon)",
+        "birim": "puan ve tensor sayisi",
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "kolon_ayirt_edici",
+        "cerceve_kaniti_aciklama": "kosum dongusunce degistirilmis kolon (en guclu)"
+      },
+      "kohort_C": {
+        "kaynak": "kohort_C",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "kolon",
+        "iou": "0,5 (kolon)",
+        "birim": "kosum",
+        "n": 30,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "kolon_ayirt_edici",
+        "cerceve_kaniti_aciklama": "kosum dongusunce degistirilmis kolon (en guclu)"
+      },
+      "heldout_altkume": {
+        "kaynak": "heldout_altkume",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "kolon",
+        "iou": "0,5 (ardisik duzen)",
+        "birim": "hucre",
+        "n": 22,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "kolon_ayirt_edici",
+        "cerceve_kaniti_aciklama": "kosum dongusunce degistirilmis kolon (en guclu)"
+      },
+      "parametre_nc2": {
+        "kaynak": "parametre_nc2",
+        "esik": "uygulanmaz",
+        "esik_kaynagi": "uygulanmaz",
+        "iou": "uygulanmaz",
+        "birim": "parametre sayisi",
+        "nc": 2,
+        "not_": "CERCEVE nc'dir: nc=80 yayimli degerler farkli oran verir",
+        "surucu": "uygulanmaz",
+        "parti": "uygulanmaz",
+        "cerceve_kaniti": null,
+        "cerceve_kaniti_aciklama": "uygulanmaz"
+      },
+      "esli_rejim_farki": {
+        "kaynak": "band_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "dosya_adi",
+        "iou": "kayitta yok",
+        "birim": "kosum (tohum-esli)",
+        "n": 30,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "dosya_adi",
+        "cerceve_kaniti_aciklama": "dosya adindan (H78 sinifi: kimligi addan okumak)"
+      },
+      "ikiz_egitim": {
+        "kaynak": "ikiz_egitim",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "kolon",
+        "iou": "0,5 (kolon)",
+        "birim": "konfigurasyon",
+        "n": 39,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "beyan_duzeltildi": "kolon dendi; kolon VAR ama SABIT -- kanit degeri beyanla ayni (Mac-inceleme [1])",
+        "cerceve_kaniti": "kolon_sabit",
+        "cerceve_kaniti_aciklama": "sabit kolon -- kanit degeri BEYANLA AYNI"
+      },
+      "kohortB_esikler": {
+        "kaynak": "kohortB_seed30",
+        "esik": "conf 0,001 VE 0,25 (ayri kalem)",
+        "esik_kaynagi": "kolon",
+        "iou": "0,5 (kolon)",
+        "birim": "kosum",
+        "n": 30,
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "kolon_ayirt_edici",
+        "cerceve_kaniti_aciklama": "kosum dongusunce degistirilmis kolon (en guclu)"
+      },
+      "degerlendirme_hatti": {
+        "kaynak": "",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "cagdas_kayit",
+        "iou": "0,5",
+        "birim": "puan",
+        "parti": "DEGISKEN: 1 / 16 / EK6 (EK6'nin duzeyi bilinmiyor)",
+        "kayit": "_capsule_repo_hazirlik/PLAN_makale_20261003.md:2907",
+        "not_": "cerceveye DORDUNCU boyut: degerlendirme parti boyutu",
+        "surucu": "KAYITTA YOK",
+        "cerceve_kaniti": "cagdas_kayit",
+        "cerceve_kaniti_aciklama": "cagdas surumlu protokol kaydi: olcum aninda, ekleme-yalniz ve surumlu bir belgeye yazilmis tam protokol (dosya+satir verilir). Komut degil, ama sonradan hatirlama da degil"
+      },
+      "olumsuz_sonuc_esik_cikarimi": {
+        "kaynak": "kohortB_seed30",
+        "esik": "conf 0,001 VE 0,25 (karsilastirilan)",
+        "esik_kaynagi": "kolon",
+        "iou": "0,5 (kolon)",
+        "birim": "kosum",
+        "n": 30,
+        "not_": "OLUMSUZ SONUC kaydi: P/R uzerinden esik cikarimi ayirt etmiyor",
+        "surucu": "KAYITTA YOK",
+        "parti": "KAYITTA YOK",
+        "cerceve_kaniti": "kolon_ayirt_edici",
+        "cerceve_kaniti_aciklama": "kosum dongusunce degistirilmis kolon (en guclu)"
+      },
+      "alanyazin_bildirim_orani": {
+        "kaynak": "",
+        "esik": "uygulanmaz",
+        "esik_kaynagi": "uygulanmaz",
+        "iou": "uygulanmaz",
+        "birim": "uygulanmaz",
+        "parti": "uygulanmaz",
+        "kayit": "OLCUM YOKLUGU kaydi",
+        "not_": "olculmedi; derlemenin sessizligi kaynaklarin sessizligi degil",
+        "surucu": "uygulanmaz",
+        "cerceve_kaniti": null,
+        "cerceve_kaniti_aciklama": "uygulanmaz"
+      },
+      "ortalama_disiplini": {
+        "kaynak": "ek6_sinif_csv",
+        "esik": "conf 0,001",
+        "esik_kaynagi": "beyan",
+        "iou": "0,5 (ardisik duzen)",
+        "birim": "hucre",
+        "n": 504,
+        "parti": "KAYITTA YOK",
+        "not_": "SEKIZINCI BOYUT: makro/mikro; 504/504 olculdu",
+        "surucu": "KAYITTA YOK",
+        "cerceve_kaniti": "beyan",
+        "cerceve_kaniti_aciklama": "ardisik duzen beyani (H78 sinifi)"
+      },
+      "veri_kumesi": {
+        "kaynak": "",
+        "esik": "uygulanmaz",
+        "esik_kaynagi": "uygulanmaz",
+        "iou": "uygulanmaz",
+        "birim": "kutu",
+        "parti": "uygulanmaz",
+        "kayit": "damla_makale/dataset/*/labels/*.txt",
+        "not_": "etiket dosyalarindan dogrudan sayildi",
+        "surucu": "uygulanmaz",
+        "cerceve_kaniti": null,
+        "cerceve_kaniti_aciklama": "uygulanmaz"
+      }
+    },
+    "kutuksuz_blok": [],
+    "kaynak_bulunamadi": [],
+    "siniflar": {
+      "dosya_adi": [
+        "arklar",
+        "esli",
+        "rejim_etkisi",
+        "tekil_zirve",
+        "esli_rejim_farki"
+      ],
+      "kolon_ayirt_edici": [
+        "izgara",
+        "izgara_ozet",
+        "belirlenimcilik",
+        "kohort_C",
+        "heldout_altkume",
+        "kohortB_esikler",
+        "olumsuz_sonuc_esik_cikarimi"
+      ],
+      "beyan": [
+        "secim_korlugu",
+        "sinif_bazli",
+        "ortalama_disiplini"
+      ],
+      "capraz_baglanti": [
+        "ayristirma_kolu",
+        "capraz_makine"
+      ],
+      "uygulanmaz": [
+        "cozulen_optimizer",
+        "parametre_nc2",
+        "alanyazin_bildirim_orani",
+        "veri_kumesi"
+      ],
+      "kolon_sabit": [
+        "ikiz_egitim"
+      ],
+      "cagdas_kayit": [
+        "degerlendirme_hatti"
+      ]
+    },
+    "olcum": {
+      "kolon_ayirt_edici": 7,
+      "kolon_sabit": 1,
+      "dosya_adi": 5,
+      "beyan": 3,
+      "yok": 0,
+      "uygulanmaz": 4
+    },
+    "zayif_cerceveli_blok": [
+      "ikiz_egitim",
+      "arklar",
+      "esli",
+      "rejim_etkisi",
+      "tekil_zirve",
+      "esli_rejim_farki",
+      "secim_korlugu",
+      "sinif_bazli",
+      "ortalama_disiplini"
+    ],
+    "parti_denetimi": {
+      "kayitli": [
+        "degerlendirme_hatti"
+      ],
+      "kayitta_yok": [
+        "arklar",
+        "esli",
+        "rejim_etkisi",
+        "tekil_zirve",
+        "izgara",
+        "izgara_ozet",
+        "secim_korlugu",
+        "sinif_bazli",
+        "belirlenimcilik",
+        "kohort_C",
+        "heldout_altkume",
+        "esli_rejim_farki",
+        "ikiz_egitim",
+        "kohortB_esikler",
+        "olumsuz_sonuc_esik_cikarimi",
+        "ortalama_disiplini"
+      ],
+      "uygulanmaz": [
+        "cozulen_optimizer",
+        "parametre_nc2",
+        "alanyazin_bildirim_orani",
+        "veri_kumesi"
+      ],
+      "kismi": [
+        "ayristirma_kolu",
+        "capraz_makine"
+      ],
+      "ozet": "parti boyutu: 1 TAM kayitli, 2 KISMI (bir satir olculdu, dosya geneli yok), 16 KAYITTA YOK, 4 uygulanmaz -- toplam 23",
+      "sayma_kurali": "KISMI ayri sayilir. Onceki surum 'kismen kayitli => kayitli' sayiyordu ve ozet elle yaziliydi; bagimsiz bir sayac farkli bolunti uretiyordu (Mac-inceleme [D2]). Ozet artik alanlardan TURETILIYOR.",
+      "gerekce": "Cerceve yedi boyutlu ilan edildi; bu alan yedincisinin KAC girdide fiilen belgelendigini sayar. Kutugun tasimadigi boyut kutuge gorunmez (H63)."
+    },
+    "surucu_denetimi": {
+      "kayitli": [],
+      "kayitta_yok": [
+        "arklar",
+        "esli",
+        "rejim_etkisi",
+        "tekil_zirve",
+        "izgara",
+        "izgara_ozet",
+        "secim_korlugu",
+        "sinif_bazli",
+        "ayristirma_kolu",
+        "capraz_makine",
+        "belirlenimcilik",
+        "kohort_C",
+        "heldout_altkume",
+        "esli_rejim_farki",
+        "ikiz_egitim",
+        "kohortB_esikler",
+        "degerlendirme_hatti",
+        "olumsuz_sonuc_esik_cikarimi",
+        "ortalama_disiplini"
+      ],
+      "uygulanmaz": [
+        "cozulen_optimizer",
+        "parametre_nc2",
+        "alanyazin_bildirim_orani",
+        "veri_kumesi"
+      ],
+      "ozet": "surucu surumu 0 girdide kayitli, 19 girdide YOK, 4 girdide uygulanmaz",
+      "gerekce": "Dorduncu boyut atesleme. Ayni kart + ayni CUDA derlemesi + FARKLI SURUCU bir makine ciftini 'makine (x) surucu' yapar; M3'un capraz makine olcumunde surucu her iki ucta da kayitli DEGIL, dolayisiyla eksenin ucuncu bir etken tasiyip tasimadigi BILINMIYOR."
+    },
+    "havuz": {
+      "ayirt_edici_dosyalar": [
+        "izgara_ham",
+        "kohortB_seed30",
+        "kohort_C",
+        "heldout_altkume"
+      ],
+      "ara_dosyalar": {
+        "sampiyon_yeniden": "0.001"
+      },
+      "not_": "ayirt edici = cerceve kolonu dosyada BIRDEN FAZLA deger aliyor. ara = o dosyalardan biriyle SATIR KIMLIGI kuran dosya; esigi devralir.",
+      "varsayim": "Ikinci atlama DOSYA DUZEYINDE bir varsayim tasir: ara dosyanin bir satiri ayirt edici dosyaya demirlendiginde, AYNI DOSYANIN oteki satirlari da ayni cerceveden sayilir (ayni degerlendirme turu). Bu varsayim beyan edilir, gizlenmez; kirilabilecegi hal, bir dosyanin farkli esiklerde olculmus satirlari TEK dosyada toplamasidir. sampiyon_yeniden icin iki satir da ayni turda (sampiyon ve seed00'in ozdes protokolden yeniden gecirilmesi)."
+    },
+    "kapsam": "Kutuge kayitli her olcum blogunun CERCEVE KANIT SINIFI: cercevenin NEREDEN geldigi (kolon / capraz baglanti / cagdas kayit / dosya adi / beyan / yok) ve kaynak anahtarinin _kaynaklar'da cozulup cozulmedigi.",
+    "kapsam_disi": [
+      "CERCEVENIN DOGRU OLUP OLMADIGI: sinif yalniz kanitin TURUNU soyler. Bir kolon ayirt edici olabilir ve yine de yanlis esik tasiyabilir",
+      "KUTUKTE OLMAYAN BIR BOYUT: kutuk yedi boyut sayiyor ama boyut listesi KAPALI DEGIL -- 18.10'da parti, makine ve duyarlik UC AYRI TURDA eklendi. Sekizinci boyut bu demire GORUNMEZ olur (H63 / H95)",
+      "BLOK ICERIGININ DOGRULUGU: bir blok dogru cerceveyle yanlis sayi tasiyabilir; onu --dogrula ve ham veri denetimi kapsar, bu demir kapsamaz",
+      "VERI BOLUNMESI: egitim/test ayriminin kimligi cerceve boyutu olarak KAYITLI DEGIL"
+    ],
+    "gecti": false,
+    "ozet": "CERCEVE DEMIRI GECMEDI: 9 blokta cerceve kaniti beyan duzeyinde ya da yok (bunlarin 0'inde HICBIR KAYITTA YOK)",
+    "gerekce": "Demir BEYANLA TATMIN EDILEMEZ: 'kolon' iddiasi dosyadan dogrulanir ve kolon SABITSE sinif dusurulur, cunku sabit kolon 'okundu' ile 'yayildi' arasinda ayirt etmez (Mac-inceleme [1]). Siddet sirasi: ayirt edici kolon > sabit kolon > dosya adi > beyan > yok. Son ikisi H78 ile ayni epistemik siniftadir: kimligi addan/aliskanliktan okumak.",
+    "acik_kalan_is": "ayristirma_kolu ve capraz_makine cerceveleri HICBIR KAYITTA YOK ve en cok yuk tasiyan iki blok (§3.3 varyans ayrisimi; ozdeki 9,68). Tek care cerceve kolonlariyla YENIDEN OLCUM; dnnlab3 gerekir."
+  },
+  "_izlenebilirlik": {
+    "uyusmayan": [],
+    "izlenmeyen": [
+      {
+        "alan": "izgara_ozet.252550.kaynak",
+        "gonderme": "C3TR_kanonik_768.csv",
+        "sinif": "depoda_ad_ile_anilan",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "dosya DEPODA (veri/C3TR_kanonik_768.csv); kaynak alani yalniz dosya ADINI tasiyor, depo-goreli yol degil -- okur icin cozulebilir ama belirsiz"
+      },
+      {
+        "alan": "izgara_ozet.333334.kaynak",
+        "gonderme": "C3TR_kanonik_768.csv",
+        "sinif": "depoda_ad_ile_anilan",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "dosya DEPODA (veri/C3TR_kanonik_768.csv); kaynak alani yalniz dosya ADINI tasiyor, depo-goreli yol degil -- okur icin cozulebilir ama belirsiz"
+      },
+      {
+        "alan": "izgara_ozet.map1.kaynak",
+        "gonderme": "C3TR_kanonik_768.csv",
+        "sinif": "depoda_ad_ile_anilan",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "dosya DEPODA (veri/C3TR_kanonik_768.csv); kaynak alani yalniz dosya ADINI tasiyor, depo-goreli yol degil -- okur icin cozulebilir ama belirsiz"
+      },
+      {
+        "alan": "parametre_nc2.varyantlar.yolov5n.yaml",
+        "gonderme": "models/yolov5n.yaml",
+        "sinif": "kamuya_acik_ucuncu_taraf",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "ultralytics/yolov5 model tanimi; yaml_md5 alaninda sagiama kayitli, dosya kamuya acik"
+      },
+      {
+        "alan": "parametre_nc2.varyantlar.yolov5s.yaml",
+        "gonderme": "models/yolov5s.yaml",
+        "sinif": "kamuya_acik_ucuncu_taraf",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "ultralytics/yolov5 model tanimi; yaml_md5 alaninda sagiama kayitli, dosya kamuya acik"
+      },
+      {
+        "alan": "parametre_nc2.varyantlar.yolov5m.yaml",
+        "gonderme": "models/yolov5m.yaml",
+        "sinif": "kamuya_acik_ucuncu_taraf",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "ultralytics/yolov5 model tanimi; yaml_md5 alaninda sagiama kayitli, dosya kamuya acik"
+      },
+      {
+        "alan": "parametre_nc2.varyantlar.yolov5l.yaml",
+        "gonderme": "models/yolov5l.yaml",
+        "sinif": "kamuya_acik_ucuncu_taraf",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "ultralytics/yolov5 model tanimi; yaml_md5 alaninda sagiama kayitli, dosya kamuya acik"
+      },
+      {
+        "alan": "ikiz_egitim.kaynak",
+        "gonderme": "kanonik_kaynak/BIRLESIK_v3_v12_grid_20260708.csv",
+        "sinif": "turetilmis_veri_depoda",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "ham izgara ihraclari depo disi; onlardan turetilen veri/_ikiz_egitim CSV'si DEPODA ve hash'li"
+      },
+      {
+        "alan": "ikiz_egitim.kaynak",
+        "gonderme": "BIRLESIK_v3_v12_grid_SGDfinal_20260728.xlsx",
+        "sinif": "turetilmis_veri_depoda",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "ham izgara ihraclari depo disi; onlardan turetilen veri/_ikiz_egitim CSV'si DEPODA ve hash'li"
+      },
+      {
+        "alan": "degerlendirme_hatti.olculen.yeniden_olcum_parti16.kaynak",
+        "gonderme": "PLAN_makale_20261003.md:2908",
+        "sinif": "cagdas_kayit",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "depo disi; commit SHA + yazar tarihi ile belgelenmis (ek_kanit alanlari)"
+      },
+      {
+        "alan": "degerlendirme_hatti.kaynak",
+        "gonderme": "PLAN_makale_20261003.md:2907-2908",
+        "sinif": "cagdas_kayit",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "depo disi; commit SHA + yazar tarihi ile belgelenmis (ek_kanit alanlari)"
+      },
+      {
+        "alan": "veri_kumesi.kaynak",
+        "gonderme": "data_4_1.yaml",
+        "sinif": "kamuya_acik_veri_yapilandirmasi",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "INbreast bolunme yapilandirmasi; sinif sayilari veri_kumesi blogunda SAYILMIS halde"
+      },
+      {
+        "alan": "_cerceve_denetimi.cerceveler.ayristirma_kolu.ek_kanit.kayit",
+        "gonderme": "_capsule_repo_hazirlik/PLAN_makale_20261003.md:2740",
+        "sinif": "cagdas_kayit",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "depo disi; commit SHA + yazar tarihi ile belgelenmis (ek_kanit alanlari)"
+      },
+      {
+        "alan": "_cerceve_denetimi.cerceveler.capraz_makine.ek_kanit.kayit",
+        "gonderme": "_capsule_repo_hazirlik/PLAN_makale_20261003.md:2740",
+        "sinif": "cagdas_kayit",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "depo disi; commit SHA + yazar tarihi ile belgelenmis (ek_kanit alanlari)"
+      },
+      {
+        "alan": "_cerceve_denetimi.cerceveler.degerlendirme_hatti.kayit",
+        "gonderme": "_capsule_repo_hazirlik/PLAN_makale_20261003.md:2907",
+        "sinif": "cagdas_kayit",
+        "durum": "DEPO DISI -- hash'lenemez",
+        "aciklama": "depo disi; commit SHA + yazar tarihi ile belgelenmis (ek_kanit alanlari)"
+      }
+    ],
+    "okunamaz_adres": [],
+    "kapsam_disi": [
+      "DOSYA ICERIGININ DOGRULUGU: hash esleşmesi dosyanin DEGISMEDIGINI soyler, icindeki sayilarin DOGRU oldugunu soylemez",
+      "cagdas-kayit kaynaklari: izlenmeyen listesinde SAYILIR ama icerikleri DOGRULANMAZ (hash'lenemez, depo disi)",
+      "depo disi kamuya acik dosyalarin (model yaml, veri yapilandirmasi) o anda gercekten o icerikte oldugu -- yalniz kayitli md5 ile kiyaslanabilir",
+      "TAAHHUTLER: bir kuyruk kaydinin, bir isin planlandigi gibi kuyruga girdigi. 18.10'da bu kor nokta fiilen gerceklesti (H87 kacagi)"
+    ],
+    "kapsam": "Yukaridaki md5/blob denetimi YALNIZ _kaynaklar'daki hash'lenebilir dosyalari kapsar. izlenmeyen listesi, kayittaki butun kaynak/kayit alanlari taranarak uretilir ve depodan cozulemeyen her gondermeyi sinifiyla birlikte tasir.",
+    "hashlenebilir_sonuc": "14/14",
+    "ozet": "HASH'LENEBILIR KAYNAKLARIN TAMAMI (14/14) DEPODAN DOGRULANABILIR; 15 alan DEPO DISI gonderme tasiyor (bkz. izlenmeyen) -- siniflar: cagdas_kayit, depoda_ad_ile_anilan, kamuya_acik_ucuncu_taraf, kamuya_acik_veri_yapilandirmasi, turetilmis_veri_depoda",
+    "gerekce": "Bir dogrulayici icin uyusmayan md5 ile kurcalanmis veri ayirt edilemez; bu nedenle hash DEPOYA islenen bayt dizisinden dogrulanir, calisma kopyasindan degil. Kaynak: Mac-inceleme bagimsiz denetimi 17.10.2026, kok neden core.autocrlf=input."
+  }
+}

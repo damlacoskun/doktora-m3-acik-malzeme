@@ -1,0 +1,5 @@
+varyant,nc,parametre,yaml,yaml_md5,depo,yontem
+yolov5n,2,1766623,models/yolov5n.yaml,61a6067c3ceb,damla_makale/yolov5,"models.yolo.Model(yaml, ch=3, nc=2) parametre toplami"
+yolov5s,2,7025023,models/yolov5s.yaml,058702fd2b37,damla_makale/yolov5,"models.yolo.Model(yaml, ch=3, nc=2) parametre toplami"
+yolov5m,2,20875359,models/yolov5m.yaml,71c3b3513a68,damla_makale/yolov5,"models.yolo.Model(yaml, ch=3, nc=2) parametre toplami"
+yolov5l,2,46143679,models/yolov5l.yaml,2ad0b457ad6a,damla_makale/yolov5,"models.yolo.Model(yaml, ch=3, nc=2) parametre toplami"
